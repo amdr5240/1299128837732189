@@ -1,4 +1,15 @@
-EXTM3U
+#EXTM3U
+tv aberta musica online
+ 
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 01" , Rede Brasil
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w2147336861.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 01" , REMIX
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="" group-title="SERVIDOR 01" , Rede Brasil
+
 #EXTINF:-1, TELECINE PREMIUM
 http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/bG0l3JBb2U/109000.m3u8
  
