@@ -268,3 +268,222 @@ http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/bG0l3JBb2U/49999
 
 #EXTINF:-1, BAND
 http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/bG0l3JBb2U/08888.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+ #EXTINF:-1 tvg-logo="https://scontent.faux1-1.fna.fbcdn.net/v/t1.0-9/10530714_675533682525587_5923917574871645724_n.jpg?_nc_cat=105&_nc_oc=AQkHsiDGvSnNW2qYYokmzm1FQC2XLOgEAvmEPBHRWYF8ya8uyy6jN4RmNlY4Qv0PoFE&_nc_ht=scontent.faux1-1.fna&oh=fa358e8e026ab975d06a3cd354ca8a8e&oe=5EA0EC84" group-title="LISTA FREE",JORGE MORAES
+
+################# LISTA DE JORGE TV ABERTA
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV ABERTA",GLOBO SP
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/47777.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV ABERTA",GLOBO RJ
+http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/50000.m3u8?token=TBUKAERaFg4QUARbVQJSAwZRUAoOUVMPBF1RUwEFDQJRBFNUAwFSDVdEHUERREVXBQtsW11BWwMHVAMASENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeEQFdWQ0HFRtABE9GUUZcB108BlVBWwcDEQhXFg1aG0ZcXjsFUFhWWQZDDRAFFh5EWBASEg1cEQpfHhsBCEJFBUdVRltbQFtbTkNUXUFaRhRIQVgSdWBGShFXQRcEWEQNXF5GWxdYBEJaQxsQXUdtFFQQFkJSUwkDQRADQVAUG0ZeURw+VlpZWQcCQ1tbWkFEC0FSEhsQCQldW00ME2lHDVcSXkMEDA4GW0NK
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT SD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT RJ HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w500280477.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT RJ SD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w500280477.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV ABERTA",SBT SP INTERIOR
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w500280477.m3u8
+
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND" tvg-logo="" group-title="CANAIS ABERTOS",BAND
+http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/8888.m3u8?token=TBUKAERaFg4QXlIGAAkHBgFeVwIBAlIEVF0BAVNVUAMHBgEAVVMGB1BEHUERREVXBQtsW11BWw4PXAscRhRGUEVoCwUVCBYMEEoTFwtdUhBeVh8QSQoFFA0KRlwITRdQT0MHE1lTWGtWA0cKAVUVCAoTX14VQQ5YaABWXQUPURcNFVNDGxBdR0JECw0XXFseRgRaRksCFVMVXl1FCA0ZF1RYFw9DQE0WCERzMUAcFVccElZcSgoOWBVeEV1XFA0XGxULEmhAUUdGFFQCD1VFEF5EAhAVQQxXTztQXwoPUFZDXg0PRBAOFgJEHUEPX1lbEAlBbUkKBRQNCkZcCBw=
+
+#EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ" tvg-logo="http://img.elitehdbr.com/logos/record.png" group-title="CANAIS ABERTOS",RECORD RJ HD
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/90000.m3u8
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP" tvg-logo="http://img.elitehdbr.com/logos/record.png" group-title="CANAIS ABERTOS",RECORD SP
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS",REDE TV RJ
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w2073319685.m3u8
+
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS",REDE TV SP
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w2073319685.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Missao 
+rtmp://wse7.player.tv.br:1935/tvmissao/ playpath=tvmissao swfUrl=http://wse7.player.tv.br/assets/plugins/jwplayer-7.0.1/jwplayer.flash.swf pageUrl=http://www.tvmissao.com.br/
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",CULTURA
+http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/117000.m3u8?token=TBUKAERaFg4QUgcHUgcBU1VeCgsMUVNSBlcHA1NRUVdSAwMEAAEHAgZEHUERREVXBQtsW11BWwcGUwMAVE0XQERSED5eVhYOEF4TT0BEXl8BRAkCFUERX1NGCV4RDVkZFVIaFVJAWlVeOVUGFFlUV0ZcXUdVD00UWApsVAEMVFtTFVhDBhAYFlsVQUFYXkJeCEoRUFAXE1dDAREKChRZWRsVAQ5CXEBGS0QLQSBiFR5GA0tGXA0SX1gKEQpGDAZADxVOQ15Ba0ZXFUURB1FaVxZECRAIQU0UWgVLbwcOW1tSVBYIWFxHFghEAUFOElpdCg9HXUs8EV9TRgleEQ1ZSA==
+
+
+##############################################  JORGE SPORTE 
+
+
+#EXTINF:-1 tvg-logo="" group-title="JORGE",FOX SPORT
+http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/45555.m3u8?token=TBUKAERaFg4QXgYCAAVVVlZVAFcABVkGU1wBCAcHA1EPD1RRDlENAFBEHUERREVXBQtsW11BWwICUQYFSENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeEQNcUwUXGxUHGUNXRlpTCm4HB0ZeUQFECVxMDw0aFQtdbwAEWFRZU0BbFQMWGBAPQhNACllHCAofEFsKFURWEFYSXkMHAgMEQE0VUVtBXBJDGkAKFXA2RB8QXBsVU1kXWl8KQw8XWgQXWRUeFl1BOUMGEURFVwULVkAbWUMHFUgRXQUZalZYWQwEVEZdW1wVE1lAABUeRgtcXFAXDkRoFFpURlsXBg8CUENK
+
+#EXTINF:-1 tvg-logo="" group-title="JORGE",FOX SPORT 2
+http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/44444.m3u8?token=TBUKAERaFg4QVFQCVVYOV1xfAgYNVwcBAwBRBFdRBAcDA1JSAwoMBFdEHUERREVXBQtsW11BWwIDUAcESENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeEQVdWQ0XGxUHGUNXRlpTCm4HB0ZeUQFECVxMDw0aFQtdbwAEWFRZU0BbFQMWGBAPQhNACllHCAofEFsKFURWEFYSXkMHAgIOQE0VUVtBXBJDGkAKFXA2RB8QXBsVU1kXWl8KQw8XWgQXWRUeFl1BOUMGEURFVwULVkAbWUMHFUgRXQUZalZYWQwEVEZdW1wVE1lAABUeRgtcXFAXDkRoFFpURlsXAwcFUUNK
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",PREMIER CLUB
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/89999.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",PFC 1
+http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/81111.m3u8?token=TBUKAERaFg4QAggAW1QBAwVXCwJcWgVXVldQUQVRBlNRBgBQBVdWBANEHUERREVXBQtsW11BWw4GVQIBSENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeXUUIDRkXUk8WBEVcVVhtAlQVC1NSEF4IRl5VT0NZWTtXVQkAW1EVDUBQFR4WXUEWE1kMRVteSERRW00RAEJSRgleEQ1ZGRVUDRRZRkZNEFwTITASGxABHkdXVxAIWVlGCRIJUkANFRtACERtRlFBEkMGA11SQEZcEQMbT0NbVhxsUwsPW1BUQwsOWUEWDhBWE09AXVhcDRJcQGYTCFIVXl1FCA1I
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",PFC 2
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/82222.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",PFC 3
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/83333.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",PFC 4
+http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/84444.m3u8?token=TBUKAERaFg4QV1JWU1FSCwZfUVBYVlRTAVAHAlIDBlcDAVdZAAcNBQFEHUERREVXBQtsW11BWw4DUAcESENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeEQFWVwwDFRtABE9GUUZcB108BlVBWwcDEQhXFg1aG0ZcXjsFUFhWWQZDDRAFFh5EWBASEg1cEQpfHhsBCEJFBUdVRltbQFtbTkNUXUFaRhRIQVgSdWBGShFXQRcEWEQNXF5GWxdYBEJaQxsQXUdtFFQQFkJSUwkDQRADQVAUG0ZeURw+VlpZWQcCQ1tbWkFEC0FSEhsQCQldW00ME2lHDVcSXkMEBwECV0NK
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",PFC 5
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/85555.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",BAND SPORT
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/10000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",ESPN 
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/37777.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",ESPN 2
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/34444.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",ESPN BRASIL
+http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/35555.m3u8?token=TBUKAERaFg4QVAICVgRWClFSBgYPVVNVB1JRAVFUA1FVVVUHAgdXAgFEHUERREVXBQtsW11BWwUCUQYFSENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeXUUIDRkXUk8WBEVcVVhtAlQVC1NSEF4IRl5VT0NZWTtXVQkAW1EVDUBQFR4WXUEWE1kMRVteSERRW00RAEJSRgleEQ1ZGRVUDRRZRkZNEFwTITASGxABHkdXVxAIWVlGCRIJUkANFRtACERtRlFBEkMGA11SQEZcEQMbT0NbVhxsUwsPW1BUQwsOWUEWDhBWE09AXVhcDRJcQGYTCFIVXl1FCA1I
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",FISH TV
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/38888.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",SPORT TV
+http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/98888.m3u8?token=TBUKAERaFg4QAwBaWlRWVwdQClQJVQQOUgIFBwBTDAZVD1RUAlANAVBEHUERREVXBQtsW11BWw8PXAsISENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeXUUIDRkXUk8WBEVcVVhtAlQVC1NSEF4IRl5VT0NZWTtXVQkAW1EVDUBQFR4WXUEWE1kMRVteSERRW00RAEJSRgleEQ1ZGRVUDRRZRkZNEFwTITASGxABHkdXVxAIWVlGCRIJUkANFRtACERtRlFBEkMGA11SQEZcEQMbT0NbVhxsUwsPW1BUQwsOWUEWDhBWE09AXVhcDRJcQGYTCFIVXl1FCA1I
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",SPORT TV 3
+http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/99999.m3u8?token=TBUKAERaFg4QUAEFUQUCUVdeUQoLVAUFAgdQAQYAVgBUVAZTAAQGDVBEHUERREVXBQtsW11BWw8OXQoJSENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeXUUIDRkXUk8WBEVcVVhtAlQVC1NSEF4IRl5VT0NZWTtXVQkAW1EVDUBQFR4WXUEWE1kMRVteSERRW00RAEJSRgleEQ1ZGRVUDRRZRkZNEFwTITASGxABHkdXVxAIWVlGCRIJUkANFRtACERtRlFBEkMGA11SQEZcEQMbT0NbVhxsUwsPW1BUQwsOWUEWDhBWE09AXVhcDRJcQGYTCFIVXl1FCA1I
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",COMBATE PORRADA
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/17777.m3u8
+
+
+############################################### JORGE DESENHOS
+
+#EXTINF:-1 tvg-logo="" group-title="DESENHOS",CARTOON NETWORK
+http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/14444.m3u8?token=TBUKAERaFg4QVgZbUgcCBFcFVQRfAlVQBQEDBFNSAANTVgQDVlMBVgZEHUERREVXBQtsW11BWwcDUAcESENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeXUUIDRkXUk8WBEVcVVhtAlQVC1NSEF4IRl5VT0NZWTtXVQkAW1EVDUBQFR4WXUEWE1kMRVteSERRW00RAEJSRgleEQ1ZGRVUDRRZRkZNEFwTITASGxABHkdXVxAIWVlGCRIJUkANFRtACERtRlFBEkMGA11SQEZcEQMbT0NbVhxsUwsPW1BUQwsOWUEWDhBWE09AXVhcDRJcQGYTCFIVXl1FCA1I
+
+#EXTINF:-1 tvg-logo="" group-title="DESENHOS",DISCOVERY KIDS
+http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/23333.m3u8?token=TBUKAERaFg4QBQhUWwMGBVVeBwVYUFIPUVwLB1BRVgdUUwdUAgoFVwtEHUERREVXBQtsW11BWwQEVwADSENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeXUUIDRkXUk8WBEVcVVhtAlQVC1NSEF4IRl5VT0NZWTtXVQkAW1EVDUBQFR4WXUEWE1kMRVteSERRW00RAEJSRgleEQ1ZGRVUDRRZRkZNEFwTITASGxABHkdXVxAIWVlGCRIJUkANFRtACERtRlFBEkMGA11SQEZcEQMbT0NbVhxsUwsPW1BUQwsOWUEWDhBWE09AXVhcDRJcQGYTCFIVXl1FCA1I
+
+#EXTINF:-1 tvg-logo="" group-title="DESENHOS",DISNEY CHANNEL
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/29999.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DESENHOS",DISNEY JUNIOR
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/30000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DESENHOS",DISNEY XD
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/31111.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DESENHOS",BOOMERANG
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/12222.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DESENHOS",GLOOB
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/52222.m3u8
+
+
+############################################### JORGE FILMES
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",REDE SUPER
+https://playback2.akamaized.net/streams/10205943_3429501_lsib9v67boedfol4w0k_1/exp=1578373067~acl=%2f*~data=hdntl~hmac=aa0fe4a87ec52a5e51ffd9be0c8d402d3caf14d67a55d6dbdabe2b963567ba9b/media/10205943_3429501_lsib9v67boedfol4w0k_1@446000p.m3u8?dw=14400&ts=1578283200
+
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",COMEDY CENTRAL
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/18888.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",CINEMAX
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/15555.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",AXN
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/7777.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",CURTA
+http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/19999.m3u8?token=TBUKAERaFg4QBAVbAAIDUFMCC1MOV1VTAFNQAQEAB1cAVAFWAQMFVgtEHUERREVXBQtsW11BWwcOXQoJSENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeXUUIDRkXUk8WBEVcVVhtAlQVC1NSEF4IRl5VT0NZWTtXVQkAW1EVDUBQFR4WXUEWE1kMRVteSERRW00RAEJSRgleEQ1ZGRVUDRRZRkZNEFwTITASGxABHkdXVxAIWVlGCRIJUkANFRtACERtRlFBEkMGA11SQEZcEQMbT0NbVhxsUwsPW1BUQwsOWUEWDhBWE09AXVhcDRJcQGYTCFIVXl1FCA1I
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",FOX
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/40000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",FOX
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/40000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",FX
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/46666.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",FOX LIFE
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/42222.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",FOX PREMIUM
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/43333.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",MAX
+http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/68888.m3u8?token=TBUKAERaFg4QV1ACUFNUClYCUQMPVVkEDgcLBl0CBwVRBFRQAlMNUAVEHUERREVXBQtsW11BWwAPXAsISENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeXUUIDRkXUk8WBEVcVVhtAlQVC1NSEF4IRl5VT0NZWTtXVQkAW1EVDUBQFR4WXUEWE1kMRVteSERRW00RAEJSRgleEQ1ZGRVUDRRZRkZNEFwTITASGxABHkdXVxAIWVlGCRIJUkANFRtACERtRlFBEkMGA11SQEZcEQMbT0NbVhxsUwsPW1BUQwsOWUEWDhBWE09AXVhcDRJcQGYTCFIVXl1FCA1I
+
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",MAX PREME
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/69999.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",HBO
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/58888.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",PIX MEGAPIX
+http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/59999.m3u8?token=TBUKAERaFg4QVlIBAVIFVlNeUQQBV1MBU1RQBFNUV1ZSAlRYDgpQAlZEHUERREVXBQtsW11BWwMOXQoJSENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeEQdSVgYXGxUHGUNXRlpTCm4HB0ZeUQFECVxMDw0aFQtdbwAEWFRZU0BbFQMWGBAPQhNACllHCAofEFsKFURWEFYSXkMHAw8DQE0VUVtBXBJDGkAKFXA2RB8QXBsVU1kXWl8KQw8XWgQXWRUeFl1BOUMGEURFVwULVkAbWUMHFUgRXQUZalZYWQwEVEZdW1wVE1lAABUeRgtcXFAXDkRoFFpURlsXAgEEVUNK
+
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",SONY
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/96666.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",SPACE
+http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/97777.m3u8?token=TBUKAERaFg4QAwIHVlQHUVEHA1YBBVUFAgILBgACB1YHDwEFAQQDBVNEHUERREVXBQtsW11BWw8AUwQHSENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeXUUIDRkXUk8WBEVcVVhtAlQVC1NSEF4IRl5VT0NZWTtXVQkAW1EVDUBQFR4WXUEWE1kMRVteSERRW00RAEJSRgleEQ1ZGRVUDRRZRkZNEFwTITASGxABHkdXVxAIWVlGCRIJUkANFRtACERtRlFBEkMGA11SQEZcEQMbT0NbVhxsUwsPW1BUQwsOWUEWDhBWE09AXVhcDRJcQGYTCFIVXl1FCA1I
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES", TC ACTION
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/105000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",TC FUN
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/107000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",TC PIPOCA
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/108000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",TC PREMIUM
+http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/109000.m3u8?token=TBUKAERaFg4QAgUHAQYAVlECBQUIVlgPVlYLBlRWVlQCUQRYUlNXDAZEHUERREVXBQtsW11BWwcHXQMAVE0XQERSED5eVhYOEF4TT0BEXl8BRAkCFUERX1NGCV4RDVkZFVIaFVJAWlVeOVUGFFlUV0ZcXUdVD00UWApsVAEMVFtTFVhDBhAYFlsVQUFYXkJeCEoRUFAXE1dDAREKChRZWRsVAQ5CXEBGS0QLQSBiFR5GA0tGXA0SX1gKEQpGDAZADxVOQ15Ba0ZXFUURB1FaVxZECRAIQU0UWgVLbwcOW1tSVBYIWFxHFghEAUFOElpdCg9HXUs8EV9TRgleEQ1ZSA==
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",TNT
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/111000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",TNT SERIES
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/112000.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",UNIVERSAL CHANNEL
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/QobWP25j04/120000.m3u8
+
+########################### JORGE RADIO DE CRENTE
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Gospel
+http://192.99.150.31:9101/stream
