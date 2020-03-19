@@ -172,6 +172,19 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-b.m3u8?PE
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Infantil",Disney Channel HD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantil",Boomerang
+http://proxyts.canais.vip:8084/hls1/boomerang.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="TOONCAST" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="Infantil",Tooncast
+http://proxyts.canais.vip:8084/hls1/tooncast.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="NICK" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nickelodeon
+http://proxyts.canais.vip:8084/hls1/nick.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="GLOOB" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantil",Gloob
+http://proxyts.canais.vip:8084/hls1/gloob.m3u8?PEDROJUNIORTUTORIAIS
+
+
 
 #EXTINF:-1,Brasil |Disney Channel
 
