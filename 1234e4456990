@@ -4251,3 +4251,600 @@ http://tv.minhalista.me/live/Daniela01/Daniela01/64454.ts
 #EXTINF:0 tvg-id="ext" group-title="Rádios",5 FM - Estúdio Ao Vivo
 http://tv.minhalista.me/live/Daniela01/Daniela01/40203.ts
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1,A&E HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1521
+#EXTINF:-1,A&E HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/375
+#EXTINF:-1,AMC HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1498
+#EXTINF:-1,AMC HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/373
+#EXTINF:-1,Animal Planet HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1497
+#EXTINF:-1,Animal Planet HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/371
+#EXTINF:-1,Arte 1 HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/15
+#EXTINF:-1,As Aventuras de Jackie Chan (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/2326
+#EXTINF:-1,AXN HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1496
+#EXTINF:-1,AXN HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/369
+#EXTINF:-1,Baby TV SD
+http://canais.servidor.tv:8080/Candido12/Candido12/367
+#EXTINF:-1,Band HD
+http://canais.servidor.tv:8080/Candido12/Candido12/489
+#EXTINF:-1,Band HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/484
+#EXTINF:-1,Band News HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1494
+#EXTINF:-1,Band News HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/363
+#EXTINF:-1,Band Sports HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1495
+#EXTINF:-1,Band Sports HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/360
+#EXTINF:-1,BBB 2020 PRINCIPAL HD
+http://canais.servidor.tv:8080/Candido12/Candido12/3975
+#EXTINF:-1,BBB 2020 CAM 1 HD
+http://canais.servidor.tv:8080/Candido12/Candido12/5163
+#EXTINF:-1,BBB 2020 CAM 2 HD
+http://canais.servidor.tv:8080/Candido12/Candido12/5164
+#EXTINF:-1,BBB 2020 CAM 3 HD
+http://canais.servidor.tv:8080/Candido12/Candido12/5165
+#EXTINF:-1,BBB 2020 CAM 4 HD
+http://canais.servidor.tv:8080/Candido12/Candido12/5166
+#EXTINF:-1,BBB 2020 CAM 5 HD
+http://canais.servidor.tv:8080/Candido12/Candido12/5167
+#EXTINF:-1,BBB 2020 CAM 6 HD 
+http://canais.servidor.tv:8080/Candido12/Candido12/5168
+#EXTINF:-1,BBB 2020 CAM 7 HD
+http://canais.servidor.tv:8080/Candido12/Candido12/5169
+#EXTINF:-1,BBB 2020 CAM 8 HD
+http://canais.servidor.tv:8080/Candido12/Candido12/5170
+#EXTINF:-1,BBB 2020 CAM 9 HD
+http://canais.servidor.tv:8080/Candido12/Candido12/5171
+#EXTINF:-1,BBB 2020 CAM 10 HD
+http://canais.servidor.tv:8080/Candido12/Candido12/5172
+#EXTINF:-1,BIS HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1493
+#EXTINF:-1,BIS HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/358
+#EXTINF:-1,Boa Vontade SD
+http://canais.servidor.tv:8080/Candido12/Candido12/22508
+#EXTINF:-1,Bob Esponja (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/2327
+#EXTINF:-1,Boomerang HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1492
+#EXTINF:-1,Boomerang HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/355
+#EXTINF:-1,Canal Brasil HD
+http://canais.servidor.tv:8080/Candido12/Candido12/353
+#EXTINF:-1,Cartoon Network HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1491
+#EXTINF:-1,Cartoon Network HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/349
+#EXTINF:-1,Chaves (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/2701
+#EXTINF:-1,Cinemax HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1490
+#EXTINF:-1,Cinemax HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/347
+#EXTINF:-1,Clássicos Walt Disney (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/3970
+#EXTINF:-1,CNN Brasil HD
+http://canais.servidor.tv:8080/Candido12/Candido12/21417
+#EXTINF:-1,CNN Brasil HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/21418
+#EXTINF:-1,CNN Espanhol SD
+http://canais.servidor.tv:8080/Candido12/Candido12/345
+#EXTINF:-1,CNN Internacional SD
+http://canais.servidor.tv:8080/Candido12/Candido12/344
+#EXTINF:-1,Combate HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1489
+#EXTINF:-1,Combate HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/342
+#EXTINF:-1,Comedy Central HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1488
+#EXTINF:-1,Comedy Central HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/340
+#EXTINF:-1,Curta! SD
+http://canais.servidor.tv:8080/Candido12/Candido12/338
+#EXTINF:-1,DAZN HD
+http://canais.servidor.tv:8080/Candido12/Candido12/2716
+#EXTINF:-1,Discovery Channel HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1487
+#EXTINF:-1,Discovery Channel HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/337
+#EXTINF:-1,Discovery Home & Health HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1518
+#EXTINF:-1,Discovery Home & Health HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/334
+#EXTINF:-1,Discovery Kids HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1483
+#EXTINF:-1,Discovery Kids HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/332
+#EXTINF:-1,Discovery Science HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1482
+#EXTINF:-1,Discovery Science HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/330
+#EXTINF:-1,Discovery Theater HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1486
+#EXTINF:-1,Discovery Theater HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/329
+#EXTINF:-1,Discovery Turbo HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1481
+#EXTINF:-1,Discovery Turbo HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/328
+#EXTINF:-1,Discovery World HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1485
+#EXTINF:-1,Discovery World HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/326
+#EXTINF:-1,Disney Channel HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1480
+#EXTINF:-1,Disney Channel HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/325
+#EXTINF:-1,Disney Júnior HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1478
+#EXTINF:-1,Disney Júnior HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/323
+#EXTINF:-1,Disney XD HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1517
+#EXTINF:-1,Disney XD HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/683
+#EXTINF:-1,Dragon Ball Super (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/3972
+#EXTINF:-1,Dragon Ball Z (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/3973
+#EXTINF:-1,E! HD
+http://canais.servidor.tv:8080/Candido12/Candido12/318
+#EXTINF:-1,ESPN 2 HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1476
+#EXTINF:-1,ESPN 2 HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/314
+#EXTINF:-1,ESPN Brasil HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1475
+#EXTINF:-1,ESPN Brasil HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/313
+#EXTINF:-1,ESPN Extra HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/311
+#EXTINF:-1,ESPN HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1477
+#EXTINF:-1,ESPN HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/309
+#EXTINF:-1,Eu a Patroa e as Crianças (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/3974
+#EXTINF:-1,Fish TV SD
+http://canais.servidor.tv:8080/Candido12/Candido12/307
+#EXTINF:-1,Food Netword HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1474
+#EXTINF:-1,Food Network HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/306
+#EXTINF:-1,Fox HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1473
+#EXTINF:-1,Fox HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/304
+#EXTINF:-1,Fox Life HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1472
+#EXTINF:-1,Fox Life HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/303
+#EXTINF:-1,Fox Premium 1 HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1505
+#EXTINF:-1,Fox Sports 2 HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1501
+#EXTINF:-1,Fox Sports 2 HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/300
+#EXTINF:-1,Fox Sports HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1502
+#EXTINF:-1,Fox Sports HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/298
+#EXTINF:-1,FX HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1469
+#EXTINF:-1,FX HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/294
+#EXTINF:-1,Galinha Pintadinha (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/4204
+#EXTINF:-1,Globo Bahia HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/2707
+#EXTINF:-1,Globo Bahia SD
+http://canais.servidor.tv:8080/Candido12/Candido12/260
+#EXTINF:-1,Globo Brasilia HD
+http://canais.servidor.tv:8080/Candido12/Candido12/291
+#EXTINF:-1,Globo Centro America HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/2712
+#EXTINF:-1,Globo EPTV Campinas HD
+http://canais.servidor.tv:8080/Candido12/Candido12/289
+#EXTINF:-1,Globo EPTV Campinas HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/2711
+#EXTINF:-1,Globo EPTV Ribeirão Preto HD
+http://canais.servidor.tv:8080/Candido12/Candido12/287
+#EXTINF:-1,Globo EPTV Ribeirão Preto HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/2952
+#EXTINF:-1,Globo EPTV Sul Minas HD
+http://canais.servidor.tv:8080/Candido12/Candido12/4469
+#EXTINF:-1,Globo EPTV Sul Minas HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/4468
+#EXTINF:-1,Globo EPTV São Carlos HD
+http://canais.servidor.tv:8080/Candido12/Candido12/2941
+#EXTINF:-1,Globo EPTV São Carlos HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/2940
+#EXTINF:-1,Globo Goiânia SD
+http://canais.servidor.tv:8080/Candido12/Candido12/262
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+http://canais.servidor.tv:8080/Candido12/Candido12/4471
+#EXTINF:-1,Globo Inter TV Grande Minas HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/4470
+#EXTINF:-1,Globo Manaus
+http://canais.servidor.tv:8080/Candido12/Candido12/19
+#EXTINF:-1,Globo Minas HD
+http://canais.servidor.tv:8080/Candido12/Candido12/279
+#EXTINF:-1,Globo Minas HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/2713
+#EXTINF:-1,Globo News HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1468
+#EXTINF:-1,Globo News HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/277
+#EXTINF:-1,Globo Nordeste HD
+http://canais.servidor.tv:8080/Candido12/Candido12/275
+#EXTINF:-1,Globo Nordeste HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/2714
+#EXTINF:-1,Globo NSC Floripa HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/2710
+#EXTINF:-1,Globo RBS Poa HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1467
+#EXTINF:-1,Globo RBS Poa HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/271
+#EXTINF:-1,Globo RJ HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1504
+#EXTINF:-1,Globo RJ HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/268
+#EXTINF:-1,Globo RPC Paranaense HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/2709
+#EXTINF:-1,Globo RPC SD
+http://canais.servidor.tv:8080/Candido12/Candido12/266
+#EXTINF:-1,Globo S.J Rio Preto HD
+http://canais.servidor.tv:8080/Candido12/Candido12/2945
+#EXTINF:-1,Globo S.J Rio Preto HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/2944
+#EXTINF:-1,Globo Sergipe HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/250
+#EXTINF:-1,Globo São Paulo HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1466
+#EXTINF:-1,Globo São Paulo HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/265
+#EXTINF:-1,Globo TV Anhanguera HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/2708
+#EXTINF:-1,Globo TV Diario Mogi HD
+http://canais.servidor.tv:8080/Candido12/Candido12/2947
+#EXTINF:-1,Globo TV Diario Mogi HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/2946
+#EXTINF:-1,Globo TV Fronteira HD
+http://canais.servidor.tv:8080/Candido12/Candido12/2943
+#EXTINF:-1,Globo TV Fronteira HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/2942
+#EXTINF:-1,Globo TV Gazeta Alagoas HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/4467
+#EXTINF:-1,Globo TV Gazeta HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/75
+#EXTINF:-1,Globo TV Integração HD
+http://canais.servidor.tv:8080/Candido12/Candido12/22505
+#EXTINF:-1,Globo TV Integração HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/22504
+#EXTINF:-1,Globo TV Liberal
+http://canais.servidor.tv:8080/Candido12/Candido12/2706
+#EXTINF:-1,Globo TV Mirante HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/2705
+#EXTINF:-1,Globo TV Morena HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/2704
+#EXTINF:-1,Globo TV TEM Sorocaba HD
+http://canais.servidor.tv:8080/Candido12/Candido12/2949
+#EXTINF:-1,Globo TV TEM Sorocaba HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/2948
+#EXTINF:-1,Globo TV TRIBUNA HD
+http://canais.servidor.tv:8080/Candido12/Candido12/2954
+#EXTINF:-1,Globo TV TRIBUNA HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/2953
+#EXTINF:-1,Globo TV VANGUARDA HD
+http://canais.servidor.tv:8080/Candido12/Candido12/2951
+#EXTINF:-1,Globo TV VANGUARDA HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/2950
+#EXTINF:-1,Globo TV Verdes Mares HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/2703
+#EXTINF:-1,Gloob HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1499
+#EXTINF:-1,Gloob HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/686
+#EXTINF:-1,Gloobinho HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1515
+#EXTINF:-1,Gloobinho HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/237
+#EXTINF:-1,GNT HD
+http://canais.servidor.tv:8080/Candido12/Candido12/235
+#EXTINF:-1,H2 HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1465
+#EXTINF:-1,H2 HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/233
+#EXTINF:-1,HBO 2 HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1460
+#EXTINF:-1,HBO 2 HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/231
+#EXTINF:-1,HBO Family HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1464
+#EXTINF:-1,HBO Family HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/229
+#EXTINF:-1,HBO HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1463
+#EXTINF:-1,HBO HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/227
+#EXTINF:-1,HBO Plus HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1462
+#EXTINF:-1,HBO Plus HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/226
+#EXTINF:-1,HBO Signature HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1461
+#EXTINF:-1,HBO Signature HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/224
+#EXTINF:-1,History Channel HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1459
+#EXTINF:-1,History Channel HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/95
+#EXTINF:-1,Investigacao Discovery SD
+http://canais.servidor.tv:8080/Candido12/Candido12/1514
+#EXTINF:-1,Investigação Discovery HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/218
+#EXTINF:-1,Lifetime HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1458
+#EXTINF:-1,Lifetime HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/216
+#EXTINF:-1,Luluzinha (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/2609
+#EXTINF:-1,Mais Globosat HD
+http://canais.servidor.tv:8080/Candido12/Candido12/213
+#EXTINF:-1,Max HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1457
+#EXTINF:-1,Max HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/211
+#EXTINF:-1,Max Prime HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1456
+#EXTINF:-1,Max Prime HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/209
+#EXTINF:-1,Max UP HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1455
+#EXTINF:-1,Max UP HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/207
+#EXTINF:-1,Medabots (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/4206
+#EXTINF:-1,Megapix HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1454
+#EXTINF:-1,Megapix HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/204
+#EXTINF:-1,Mickey Mouse Cartoon (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/21058
+#EXTINF:-1,Mickey Mouse Clássico (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/21059
+#EXTINF:-1,MTV HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1453
+#EXTINF:-1,MTV HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/202
+#EXTINF:-1,Multishow HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1452
+#EXTINF:-1,Multishow HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/199
+#EXTINF:-1,Mundo Bita (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/4207
+#EXTINF:-1,Nat Geo Kids HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1451
+#EXTINF:-1,Nat Geo Kids HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/195
+#EXTINF:-1,Nat Geo Wild HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1450
+#EXTINF:-1,Nat Geo Wild HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/193
+#EXTINF:-1,National Geographic HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/196
+#EXTINF:-1,Nick JR HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1503
+#EXTINF:-1,Nick JR HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/187
+#EXTINF:-1,Nickelodeon HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1449
+#EXTINF:-1,Nickelodeon HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/188
+#EXTINF:-1,Novo Tempo HD
+http://canais.servidor.tv:8080/Candido12/Candido12/22507
+#EXTINF:-1,O Pequeno Urso (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/2607
+#EXTINF:-1,O Show da Luna (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/4208
+#EXTINF:-1,OFF HD
+http://canais.servidor.tv:8080/Candido12/Candido12/183
+#EXTINF:-1,Os Simpsons (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/2328
+#EXTINF:-1,Pai Eterno HD
+http://canais.servidor.tv:8080/Candido12/Candido12/22509
+#EXTINF:-1,Papaléguas e o Coiote (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/4209
+#EXTINF:-1,Paramount Channel HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1448
+#EXTINF:-1,Paramount Channel HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/181
+#EXTINF:-1,Patrulha Canina (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/4210
+#EXTINF:-1,Peppa Pig (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/2329
+#EXTINF:-1,Pica-Pau (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/2325
+#EXTINF:-1,Play TV SD
+http://canais.servidor.tv:8080/Candido12/Candido12/179
+#EXTINF:-1,Premiere 2 HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1511
+#EXTINF:-1,Premiere 2 HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/172
+#EXTINF:-1,Premiere 3 HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1510
+#EXTINF:-1,Premiere 3 HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/170
+#EXTINF:-1,Premiere 4 HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1509
+#EXTINF:-1,Premiere 4 HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/168
+#EXTINF:-1,Premiere 5 HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1508
+#EXTINF:-1,Premiere 5 HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/166
+#EXTINF:-1,Premiere 6 HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1507
+#EXTINF:-1,Premiere 6 HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/164
+#EXTINF:-1,Premiere 7 HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1506
+#EXTINF:-1,Premiere 7 HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/162
+#EXTINF:-1,Premiere Clubes HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1447
+#EXTINF:-1,Premiere Clubes HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/159
+#EXTINF:-1,Prime Box Brasil HD
+http://canais.servidor.tv:8080/Candido12/Candido12/4456
+#EXTINF:-1,Prime Box Brasil HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/157
+#EXTINF:-1,Record HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/148
+#EXTINF:-1,Record News HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1513
+#EXTINF:-1,Record News HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/405
+#EXTINF:-1,Record SP HD
+http://canais.servidor.tv:8080/Candido12/Candido12/403
+#EXTINF:-1,Rede TV HD
+http://canais.servidor.tv:8080/Candido12/Candido12/136
+#EXTINF:-1,Rede Vida HD
+http://canais.servidor.tv:8080/Candido12/Candido12/22506
+#EXTINF:-1,RIT TV SD
+http://canais.servidor.tv:8080/Candido12/Candido12/22510
+#EXTINF:-1,Rá Tim Bum HD
+http://canais.servidor.tv:8080/Candido12/Candido12/72
+#EXTINF:-1,SBT HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1512
+#EXTINF:-1,SBT HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/402
+#EXTINF:-1,Scooby-Doo (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/4211
+#EXTINF:-1,Sony HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1446
+#EXTINF:-1,Sony HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/127
+#EXTINF:-1,South Park (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/4212
+#EXTINF:-1,Space HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1445
+#EXTINF:-1,Space HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/125
+#EXTINF:-1,SporTV 2 HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1443
+#EXTINF:-1,SporTV 2 HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/123
+#EXTINF:-1,SporTV 3 HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1442
+#EXTINF:-1,SporTV 3 HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/121
+#EXTINF:-1,SporTV HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1444
+#EXTINF:-1,SporTV HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/119
+#EXTINF:-1,Studio Universal HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1441
+#EXTINF:-1,Studio Universal HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/117
+#EXTINF:-1,Super Choque (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/2679
+#EXTINF:-1,Syfy HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1440
+#EXTINF:-1,Syfy HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/115
+#EXTINF:-1,TBS HD
+http://canais.servidor.tv:8080/Candido12/Candido12/113
+#EXTINF:-1,TCM HD
+http://canais.servidor.tv:8080/Candido12/Candido12/99
+#EXTINF:-1,Telecine Action HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1438
+#EXTINF:-1,Telecine Action HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/111
+#EXTINF:-1,Telecine Cult HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1437
+#EXTINF:-1,Telecine Cult HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/109
+#EXTINF:-1,Telecine Fun HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1436
+#EXTINF:-1,Telecine Fun HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/107
+#EXTINF:-1,Telecine Pipoca HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1435
+#EXTINF:-1,Telecine Pipoca HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/105
+#EXTINF:-1,Telecine Premium HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1434
+#EXTINF:-1,Telecine Premium HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/103
+#EXTINF:-1,Telecine Touch HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1439
+#EXTINF:-1,Telecine Touch HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/101
+#EXTINF:-1,TLC HD
+http://canais.servidor.tv:8080/Candido12/Candido12/94
+#EXTINF:-1,TNT HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1433
+#EXTINF:-1,TNT HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/92
+#EXTINF:-1,TNT Series HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1432
+#EXTINF:-1,TNT Séries HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/90
+#EXTINF:-1,Todo Mundo Odeia o Chris (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/2702
+#EXTINF:-1,Tom e Jerry (24H)
+http://canais.servidor.tv:8080/Candido12/Candido12/4214
+#EXTINF:-1,TV Brasil HD
+http://canais.servidor.tv:8080/Candido12/Candido12/22513
+#EXTINF:-1,TV Camera HD
+http://canais.servidor.tv:8080/Candido12/Candido12/22511
+#EXTINF:-1,TV Diario HD
+http://canais.servidor.tv:8080/Candido12/Candido12/4473
+#EXTINF:-1,TV Diario HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/4472
+#EXTINF:-1,TV Escola HD
+http://canais.servidor.tv:8080/Candido12/Candido12/22514
+#EXTINF:-1,TV Justiça HD
+http://canais.servidor.tv:8080/Candido12/Candido12/22512
+#EXTINF:-1,TV Senado HD
+http://canais.servidor.tv:8080/Candido12/Candido12/22515
+#EXTINF:-1,TV5 SD
+http://canais.servidor.tv:8080/Candido12/Candido12/69
+#EXTINF:-1,Universal Channel HD
+http://canais.servidor.tv:8080/Candido12/Candido12/1431
+#EXTINF:-1,Universal Channel HD+
+http://canais.servidor.tv:8080/Candido12/Candido12/67
+#EXTINF:-1,VH1 HD
+http://canais.servidor.tv:8080/Candido12/Candido12/65
+#EXTINF:-1,VH1 Mega Hits SD
+http://canais.servidor.tv:8080/Candido12/Candido12/64
+#EXTINF:-1,Viva HD
+http://canais.servidor.tv:8080/Candido12/Candido12/2680
+
