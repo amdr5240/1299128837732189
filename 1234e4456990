@@ -390,24 +390,7 @@ http://tv.factoryiptv.com:80/Antonio15/Antonio15/36928
 http://brasiltv.pro:8080/dsa123/dsa123/22891
 #EXTINF:-1 group-title="CANAIS ABERTOS",BAND SP HD
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8?chicoalves
-#EXTINF:-1 ,CINEMAX
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/37120
-#EXTINF:-1 ,COMBATE
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/37119
-#EXTINF:-1 ,COMBATE ALT
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36986
-#EXTINF:-1 ,DISCOVERY
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/37116
-#EXTINF:-1 ,DISCOVERY TURBO
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/37112
-#EXTINF:-1 ,DISCOVERY WORLD
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36981
-#EXTINF:-1 ,DISCOVERY THEATER
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36983
-#EXTINF:-1 ,DISCOVERY H&H
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/37115
-#EXTINF:-1 ,DISCOVERY SCIENCE
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36922
+
 #EXTINF:-1 ,Desenhos Gospel 24 Hrs
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 ,ESPN 2
@@ -424,66 +407,10 @@ http://enlsso9vfh.singularcdn.net.br/live/canal_01/playlist-720p.m3u8
 http://enlsso9vfh.singularcdn.net.br/live/canal_02/playlist-720p.m3u8
 #EXTINF:-1 group-title="ESPORTES",🇧🇷EI PLUS 3 HD🇧🇷
 http://enlsso9vfh.singularcdn.net.br/live/canal_03/playlist-720p.m3u8
-#EXTINF:-1 ,FX
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36969
+
 #EXTINF:-1 group-title="Canais | Esportes",FoxSports
 http://tv.factoryiptv.com:80/erick25/erick25/37099
-#EXTINF:-1 ,FOXSPORTS opcao 2
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36970
-#EXTINF:-1 ,FOXSPORTS 2 opcao 2
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36971
-#EXTINF:-1 ,FOX CHANNEL
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/37101
-#EXTINF:-1 ,FOX PREMIUM 1
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36974
-#EXTINF:-1 ,FOX PREMIUM 2
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36973
-#EXTINF:-1 ,GLOBO
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/37095
-#EXTINF:-1 ,GLOBO  ALT
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/37029
-#EXTINF:-1 group-title="ABERTO",GLOBO SP HD
-http://proxyts.habbin.fo:8084/hls1/bobosp.m3u8
-#EXTINF:-1 ,HISTORY
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36960
-#EXTINF:-1 ,HISTORY 2
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36961
-#EXTINF:-1 ,HBO
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36964
-#EXTINF:-1 ,HBO ALT
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/37087
-#EXTINF:-1 ,HBO 2
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36966
-#EXTINF:-1 ,HBO 2 ALT
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/37086
-#EXTINF:-1 ,HBO family H265
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36965
-#EXTINF:-1 ,HBO family ALT
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/37085
-#EXTINF:-1 ,HBO PLUS
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36963
-#EXTINF:-1 ,HBO +
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/37084
-#EXTINF:-1 ,HBO SIGNATURE
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36962
-#EXTINF:-1 ,HBO POP
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36911
-#EXTINF:-1 ,HBO MUNDI
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36913
-#EXTINF:-1 ,HBO EXTREME
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36912
-#EXTINF:-1 ,MULTI SHOW
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36957
-#EXTINF:-1 ,MEGAPIX
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36958
-#EXTINF:-1 ,PREMIERE CLUBE
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36948
-#EXTINF:-1 ,PREMIERE CLUBES SD
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/37016
-#EXTINF:-1 ,PREMIERE
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36951
-#EXTINF:-1 ,PREMIERE 4
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36952
+
 #EXTINF:-1 ,24HS: PEGADINHAS
 http://brasiltv.pro:8080/dsa123/dsa123/23243
 #EXTINF:-1 group-title="CANAIS RELIGIOSOS",REDE VIDA HD
@@ -498,10 +425,7 @@ https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?sd=10&re
 http://tv.factoryiptv.com:80/Antonio15/Antonio15/36944
 #EXTINF:-1 ,Summer TV HD
 http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
-#EXTINF:-1 ,SPORTV
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36950
-#EXTINF:-1 ,SPORTV 3
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36942
+
 #EXTINF:-1 ,SPORTV 3 HD
 http://servelive.net:80/solides/solides123/1121
 
@@ -514,44 +438,9 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist
 #EXTINF:-1 ,STUDIO UNIVERSAL
 http://tv.factoryiptv.com:80/Antonio15/Antonio15/36904
 
-#EXTINF:-1 ,TBS
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36940
+
 #EXTINF:-1 ,TV ARACATI
 https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,TNT
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36934
-#EXTINF:-1 ,TNT SERIES
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36933
-#EXTINF:-1 ,TELECINE PIPOCA
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36937
-#EXTINF:-1 ,TELECINE PIPOCA ALT
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/37038
-#EXTINF:-1 ,TELECINE ACTION
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36939
-#EXTINF:-1 ,TELECINE ACTION ALT
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/37040
-#EXTINF:-1 ,TELECINE PREMIUM
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36936
-#EXTINF:-1 ,TELECINE PREMIUM ALT
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36994
-#EXTINF:-1 ,TELECINE FUN
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36938
-#EXTINF:-1 ,TELECINE TOUCH
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36995
-#EXTINF:-1 ,TELECINE CULT
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/36901
-#EXTINF:-1 ,UNIVERSAL TV
-http://tv.factoryiptv.com:80/Antonio15/Antonio15/37027
-#EXTINF:-1 ,WARNER CHANNEL HD
-http://pdsrv.io:80/alex123/alex123/6072
-
-
-
-
-
-
-
-
 
 
 
@@ -565,204 +454,4 @@ http://pdsrv.io:80/alex123/alex123/6072
 
 
 
-#EXTM3U
-#EXTINF:-1,BR001:A&E BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2531
-#EXTINF:-1,BR002:AMC BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2530
-#EXTINF:-1,BR003:Animal Planet BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2529
-#EXTINF:-1,BR004:Arte 1
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2528
-#EXTINF:-1,BR005:AXN BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2527
-#EXTINF:-1,BR006:Band BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2526
-#EXTINF:-1,BR007:Band News BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2525
-#EXTINF:-1,BR008:Band Sports
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2524
-#EXTINF:-1,BR009:VH1 BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2523
-#EXTINF:-1,BR010:BIS BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2522
-#EXTINF:-1,BR011:Boomerang BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2521
-#EXTINF:-1,BR012:FISH TV
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2520
-#EXTINF:-1,BR013:Cartoon Network BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2519
-#EXTINF:-1,BR014:Cinemax BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2518
-#EXTINF:-1,BR015:Combate
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2517
-#EXTINF:-1,BR016:Comedy Central BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2516
-#EXTINF:-1,BR017:Baby TV
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2515
-#EXTINF:-1,BR018:Discovery BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2514
-#EXTINF:-1,BR019:Discovery Civilization
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2513
-#EXTINF:-1,BR020:Discovery Home Health
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2512
-#EXTINF:-1,BR021:Discovery Kids
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2511
-#EXTINF:-1,BR022:Discovery Science BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2510
-#EXTINF:-1,BR023:Discovery Theater
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2509
-#EXTINF:-1,BR024:Discovery Turbo
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2508
-#EXTINF:-1,BR025:Discovery WORLD
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2507
-#EXTINF:-1,BR029:E! BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2503
-#EXTINF:-1,BR030:ESPN Extra
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2502
-#EXTINF:-1,BR031:ESPN BRASIL
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2501
-#EXTINF:-1,BR032:WOOHOO
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2500
-#EXTINF:-1,BR033:ESPN
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2499
-#EXTINF:-1,BR034:PFC
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2498
-#EXTINF:-1,BR035:VIVA BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2497
-#EXTINF:-1,BR036:TV Record
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2496
-#EXTINF:-1,BR037:Food Network BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2495
-#EXTINF:-1,BR038:Fox BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2494
-#EXTINF:-1,BR039:Fox Life
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2493
-#EXTINF:-1,BR040:Fox Permium 1
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2492
-#EXTINF:-1,BR041:Fox Premium 2
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2491
-#EXTINF:-1,BR042:Fox Sports 2 BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2490
-#EXTINF:-1,BR043:Fox Sports 1
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2489
-#EXTINF:-1,BR044:FX BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2488
-#EXTINF:-1,BR045:Globo News BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2487
-#EXTINF:-1,BR046:GLOBO RBS TV PORTO ALEGRE
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2486
-#EXTINF:-1,BR047:Globo RJ
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2485
-#EXTINF:-1,BR048:Globo BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2484
-#EXTINF:-1,BR049:Gloobinho
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2483
-#EXTINF:-1,BR050:GNT BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2482
-#EXTINF:-1,BR051:H2 BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2481
-#EXTINF:-1,BR052:HBO 2 BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2480
-#EXTINF:-1,BR053:HBO Family BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2479
-#EXTINF:-1,BR054:HBO BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2478
-#EXTINF:-1,BR055:HBO Plus BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2477
-#EXTINF:-1,BR056:HBO Signature BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2476
-#EXTINF:-1,BR057:History BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2475
-#EXTINF:-1,BR058:ID BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2474
-#EXTINF:-1,BR059:Lifetime BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2473
-#EXTINF:-1,BR060:Mais Globosat
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2472
-#EXTINF:-1,BR061:Max
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2471
-#EXTINF:-1,BR062:Max Prime
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2470
-#EXTINF:-1,BR063:Max Up
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2469
-#EXTINF:-1,BR064:MegaPix
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2468
-#EXTINF:-1,BR065:MTV BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2467
-#EXTINF:-1,BR066:Multishow
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2466
-#EXTINF:-1,BR067:Music Box
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2465
-#EXTINF:-1,BR068:NAT GEO BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2464
-#EXTINF:-1,BR069:NAT GEO Kids BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2463
-#EXTINF:-1,BR070:NAT GEO Wild BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2462
-#EXTINF:-1,BR071:NICK JR BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2461
-#EXTINF:-1,BR072:Nickelodeon BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2460
-#EXTINF:-1,BR073:OFF
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2459
-#EXTINF:-1,BR074:Paramount BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2458
-#EXTINF:-1,BR075:Premiere 2
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2457
-#EXTINF:-1,BR076:Premiere 3
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2456
-#EXTINF:-1,BR077:Premiere 4
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2455
-#EXTINF:-1,BR078:Premiere 5
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2454
-#EXTINF:-1,BR079:CNN BRASIL
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2453
-#EXTINF:-1,BR080:BBB 2020
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2452
-#EXTINF:-1,BR081:Premiere Clubes
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2451
-#EXTINF:-1,BR082:Warner Channel
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2450
-#EXTINF:-1,BR083:Record
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2449
-#EXTINF:-1,BR084:Rede TV
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2448
-#EXTINF:-1,BR085:SBT
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2447
-#EXTINF:-1,BR086:Space BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2446
-#EXTINF:-1,BR087:Sport TV 2
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2445
-#EXTINF:-1,BR088:Sport TV 3
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2444
-#EXTINF:-1,BR089:Sport TV 1
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2443
-#EXTINF:-1,BR090:Studio Universal
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2442
-#EXTINF:-1,BR091:SYFY BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2441
-#EXTINF:-1,BR092:TBS BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2440
-#EXTINF:-1,BR093:Telecine Action
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2439
-#EXTINF:-1,BR094:Telecine Cult
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2438
-#EXTINF:-1,BR095:Telecine Fun
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2437
-#EXTINF:-1,BR096:Telecine Pipoca
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2436
-#EXTINF:-1,BR097:Telecine Premium
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2435
-#EXTINF:-1,BR098:Telecine Touch
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2434
-#EXTINF:-1,BR099:TLC BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2433
-#EXTINF:-1,BR100:TNT BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2432
-#EXTINF:-1,BR101:TNT Series  BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2431
-#EXTINF:-1,BR102:TV Ra Tim Bum
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2430
-#EXTINF:-1,BR103:Universal BR
-http://a1.hdflix.live:8880/LZLM5786/Akk60pCne2/2429
+
