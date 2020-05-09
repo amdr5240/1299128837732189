@@ -1,0 +1,195 @@
+
+#EXTM3U
+
+################################################################################# CANAIS ABERTOS
+
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180410/hvw/kisspng-tv-globo-de-sao-paulo-ltda-rede-globo-television-robocop-5acd2a1b69d9b5.2679968915233950994336.jpg" group-title="CANAIS ABERTOS", GLOBO HD
+http://maxptv.net:8080/nunes/nunes/72
+
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180410/hvw/kisspng-tv-globo-de-sao-paulo-ltda-rede-globo-television-robocop-5acd2a1b69d9b5.2679968915233950994336.jpg" group-title="CANAIS ABERTOS", GLOBO SD
+http://maxptv.net:8080/nunes/nunes/71
+
+
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w500280477.m3u8
+
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBTHD
+
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8?checkedby:iptvcat.com
+
+
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="CANAIS ABERTOS",Band
+https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8 
+
+
+
+#EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="CANAIS ABERTOS", RecordTV News
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAIS ABERTOS", RecordTV Pará
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
+
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS ABERTOS", RecordTV São Paulo HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="CANAIS ABERTOS", RedeTV!
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="CANAIS ABERTOS"",Rede Brasil
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://oisa.tmsimg.com/assets/s10179_h3_aa.png" group-title="CANAIS ABERTOS",ESPN
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/espn.smil/master.m3u8?checkedby:www.iptvcat.com
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/k29sgDw.png" group-title="CANAIS ABERTOS",Esporte Interativo Plus
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8?checkedby:www.iptvcat.com
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/lVXlnL6.png" group-title="CANAIS ABERTOS",Discovery
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/master.m3u8?checkedby:www.iptvcat.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/QbdReYf.png" group-title="CANAIS ABERTOS",FURG TV
+http://stream.furg.br:80/hls/furgtv.m3u8?checkedby:www.iptvcat.com
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/6uoNAAj.png" group-title="CANAIS ABERTOS",Discovery Kids
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8?checkedby:www.iptvcat.com
+
+
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="CANAIS ABERTOS",Disney XD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="CANAIS ABERTOS",Disney XD HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="CANAIS ABERTOS",Disney Junior
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="CANAIS ABERTOS",Disney Junior HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="CANAIS ABERTOS", Disney Channel
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="CANAIS ABERTOS", Disney Channel HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="CANAIS ABERTO",Nickelodeon 
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="CANAIS ABERTO",Nickelodeon HD
+
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3u8?checkedby:www.iptvcat.com
+
+
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/320px-FX-logo.svg.png" group-title="CANAIS ABERTO",FX
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/master.m3u8?checkedby:www.iptvcat.com
+
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo2btv-0.png" group-title="CANAIS ABERTO", TV Aracati
+https://livefocamundo.com:8081/8148/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/p3609aQRI0_ml-efPilHjfr5Ty0=/full-fit-in/629x300/media/articles/main/2014/07/4cccf1c6-b16a-4706-b6dd-f2a98c4ea631.png" group-title="CANAIS ABERTO", Cine Pop
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
+
+
+
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/p3609aQRI0_ml-efPilHjfr5Ty0=/full-fit-in/629x300/media/articles/main/2014/07/4cccf1c6-b16a-4706-b6dd-f2a98c4ea631.png" group-title="CANAIS ABERTO", Cine Pop 2
+
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
