@@ -3,7 +3,8 @@
 ################################################################################# CANAIS ABERTOS
 
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180410/hvw/kisspng-tv-globo-de-sao-paulo-ltda-rede-globo-television-robocop-5acd2a1b69d9b5.2679968915233950994336.jpg" group-title="CANAIS ABERTOS", GLOBO HD
-http://maxptv.net:8080/nunes/nunes/72
+http://a.srvbr.me:8880/040488/040488/831
+
 
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180410/hvw/kisspng-tv-globo-de-sao-paulo-ltda-rede-globo-television-robocop-5acd2a1b69d9b5.2679968915233950994336.jpg" group-title="CANAIS ABERTOS", GLOBO SD
 http://maxptv.net:8080/nunes/nunes/71
@@ -142,6 +143,10 @@ http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/p3609aQRI0_ml-efPilHjfr5Ty0=/full-fit-in/629x300/media/articles/main/2014/07/4cccf1c6-b16a-4706-b6dd-f2a98c4ea631.png" group-title="CANAIS ABERTO", Cine Pop 2
 
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
+
+
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS ABERTO",Cine Sky⁻ˢᵈ⁻
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
 
 
 
