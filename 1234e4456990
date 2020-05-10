@@ -125,27 +125,27 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3
 
 
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/320px-FX-logo.svg.png" group-title="CANAIS ABERTO",FX
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/320px-FX-logo.svg.png" group-title="CANAIS ABERTOS",FX
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/master.m3u8?checkedby:www.iptvcat.com
 
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo2btv-0.png" group-title="CANAIS ABERTO", TV Aracati
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo2btv-0.png" group-title="CANAIS ABERTOS", TV Aracati
 https://livefocamundo.com:8081/8148/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/p3609aQRI0_ml-efPilHjfr5Ty0=/full-fit-in/629x300/media/articles/main/2014/07/4cccf1c6-b16a-4706-b6dd-f2a98c4ea631.png" group-title="CANAIS ABERTO", Cine Pop
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/p3609aQRI0_ml-efPilHjfr5Ty0=/full-fit-in/629x300/media/articles/main/2014/07/4cccf1c6-b16a-4706-b6dd-f2a98c4ea631.png" group-title="CANAIS ABERTOS", Cine Pop
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
 
 
 
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/p3609aQRI0_ml-efPilHjfr5Ty0=/full-fit-in/629x300/media/articles/main/2014/07/4cccf1c6-b16a-4706-b6dd-f2a98c4ea631.png" group-title="CANAIS ABERTO", Cine Pop 2
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/p3609aQRI0_ml-efPilHjfr5Ty0=/full-fit-in/629x300/media/articles/main/2014/07/4cccf1c6-b16a-4706-b6dd-f2a98c4ea631.png" group-title="CANAIS ABERTOS", Cine Pop 2
 
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
 
 
-#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS ABERTO",Cine Sky⁻ˢᵈ⁻
+#EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS ABERTOS",Cine Sky⁻ˢᵈ⁻
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
 
 
