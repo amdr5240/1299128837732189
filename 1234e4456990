@@ -195,10 +195,6 @@ http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
 
 
 
-
-
-
-
 #EXTM3U
 
 #PLAYLISTV: pltv-logo="https://scontent.fmvd3-1.fna.fbcdn.net/v/t1.0-9/s960x960/87775504_2820213388045057_6738077563073069056_o.jpg?_nc_cat=111&_nc_sid=0be424&_nc_eui2=AeHCqMF8a3L5yFJCzuF5e0RSNE9Dp9heTmU0T0On2F5OZZo-GSAB1r5o2jxZDvQHeFIdueGh55uGzi0UMQ_1YuTJ&_nc_oc=AQmnFD3bAKtpJGWYXFsJwbk2_acL6yM70196HgmOZPk_v4Z8U4LnyM0Ay8flKOphqlI&_nc_ht=scontent.fmvd3-1.fna&_nc_tp=7&oh=210787c5140d383222603496adbd9d70&oe=5EB586B2" pltv-name="Team Iptv Canales" pltv-description="CANALES IPTV" pltv-cover="https://scontent.fmvd2-1.fna.fbcdn.net/v/t1.0-9/cp0/e15/q65/s851x315/87775504_2820213388045057_6738077563073069056_o.jpg?_nc_cat=111&_nc_sid=0be424&efg=eyJpIjoidCJ9&_nc_oc=AQmjvBsI_80jUPGfZ0mUrq4Mw7-a9llxgd3oYRvJMEXYTzpmL7efgdis4Tm4UoGB01w&_nc_ht=scontent.fmvd2-1.fna&_nc_tp=9&oh=f969facc857fcd45732c80afb0ac9cc2&oe=5EF40AD4" pltv-author="TOP.tv"
@@ -735,3 +731,7 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?GrupoTopIp
 
 #EXTINF:-1 tvg-logo="http://webtvminas.com/wp-content/uploads/2015/05/logo1.png" group-title="04- BRASIL",Web TV Minas⁻ˢᵈ⁻
 http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8?GrupoTopIptv
+
+
+
+
