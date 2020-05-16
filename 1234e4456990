@@ -135,9 +135,13 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?PE
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="CANAIS ABERTOS",Nickelodeon HD
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="CANAIS ABERTOS",Nickelodeon 
 
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3u8?checkedby:www.iptvcat.com
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="CANAIS ABERTOS",Nickelodeon HD
+https://origin-02.nxplay.com.br/NICK_BR_HD/tracks-v1a1a2/mono.m3u8
+
 
 
 
@@ -145,20 +149,22 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/master.m3u8?checkedby:www.iptvcat.com
 
 
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo2btv-0.png" group-title="CANAIS ABERTOS", TV Aracati
 https://livefocamundo.com:8081/8148/index.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/p3609aQRI0_ml-efPilHjfr5Ty0=/full-fit-in/629x300/media/articles/main/2014/07/4cccf1c6-b16a-4706-b6dd-f2a98c4ea631.png" group-title="CANAIS ABERTOS", Cine Pop
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
-
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Fox.br.png" group-title="CANAIS ABERTOS",Fox Brasil
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/p3609aQRI0_ml-efPilHjfr5Ty0=/full-fit-in/629x300/media/articles/main/2014/07/4cccf1c6-b16a-4706-b6dd-f2a98c4ea631.png" group-title="CANAIS ABERTOS", Cine Pop 2
 
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
+
 
 
 #EXTINF:-1 tvg-logo="http://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS ABERTOS",Cine Sky⁻ˢᵈ⁻
