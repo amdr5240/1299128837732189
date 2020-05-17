@@ -132,7 +132,7 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-b.m3u8?PE
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="CANAIS ABERTOS",Nickelodeon 
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3u8?checkedby:iptvcat.com
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/218?checkedby:iptvcat.com
 
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="CANAIS ABERTOS",Nickelodeon 
@@ -150,6 +150,10 @@ http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/38?checkedby:iptvcat.com
 #EXTINF:-1 tvg-ID="" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="https://image.ibb.co/dLhisG/cartoon.png" group-title="CANAIS ABERTOS",TR: CARTOON NETWORK HD
 
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/37?checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="" group-title="CANAIS ABERTOS",TR: BOOMERANG SD
+http://vipeiptv.com:25461/emerson1/emerson1/758013?checkedby:iptvcat.com
 
 
 
