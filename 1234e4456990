@@ -159,6 +159,16 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/master.m3u8?checke
 
 
 
+#EXTINF:-1 tvg-ID="" tvg-name="SP: MOVISTAR COMEDIA FHD" tvg-logo="" group-title="CANAIS ABERTOS",SP: COMEDIA HD
+
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/51?checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="SP: MOVISTAR COMEDIA FHD" tvg-logo="" group-title="CANAIS ABERTOS",SP: COMEDIA  SD
+
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/51?checkedby:iptvcat.com
+
+
 
 
 
