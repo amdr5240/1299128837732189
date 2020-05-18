@@ -167,14 +167,14 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/master.m3u8?checke
 
 
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://xpert-medianet-at.s3-eu-west-1.amazonaws.com/2019/08/ee9244b569_CC_Austria_Logo_horizontal_color_black.png/320px-FX-logo.svg.png" group-title="CANAIS ABERTOS",Comédia Central HD
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="CANAIS ABERTOS",Comédia Central HD
 
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/51?checkedby:iptvcat.com
+http://p2prime.xyz:80/1000011/1000011/9261?checkedby:iptvcat.com
 
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://xpert-medianet-at.s3-eu-west-1.amazonaws.com/2019/08/ee9244b569_CC_Austria_Logo_horizontal_color_black.png/320px-FX-logo.svg.png" group-title="CANAIS ABERTOS",Comédia Central SD
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="CANAIS ABERTOS",Comédia Central SD
 
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/51?checkedby:iptvcat.com
+http://panel.restpremium.cf:8080/serverbr/0392332904/63849?checkedby:iptvcat.com
 
 
 
@@ -187,7 +187,7 @@ https://livefocamundo.com:8081/8148/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_play-tv_m.png" group-title="CANAIS ABERTOS", play tv
 
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/227?checkedby:iptvcat.com
+http://p2prime.xyz:80/1000011/1000011/14317?checkedby:iptvcat.com
 
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/Fox.br.png" group-title="CANAIS ABERTOS",Fox Brasil
