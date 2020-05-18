@@ -27,7 +27,7 @@ https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w899378
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT 4k
 
-https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist.m3u8
+https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
 
 
 
@@ -191,6 +191,9 @@ http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/227?checkedby:iptvcat.com
 
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/Fox.br.png" group-title="CANAIS ABERTOS",Fox Brasil
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Fox.br.png" group-title="CANAIS ABERTOS",Fox Brasil HD
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/master.m3u8
 
 
