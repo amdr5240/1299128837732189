@@ -143,16 +143,16 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3
 https://origin-02.nxplay.com.br/NICK_BR_HD/tracks-v1a1a2/mono.m3u8
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="https://image.ibb.co/dLhisG/cartoon.png" group-title="CANAIS ABERTOS",TR: CARTOON NETWORK HD
+#EXTINF:-1 tvg-ID="" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="CANAIS ABERTOS", CARTOON NETWORK 
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/38?checkedby:iptvcat.com
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="https://image.ibb.co/dLhisG/cartoon.png" group-title="CANAIS ABERTOS",TR: CARTOON NETWORK HD
+#EXTINF:-1 tvg-ID="" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="CANAIS ABERTOS",CARTOON NETWORK SD
 
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/37?checkedby:iptvcat.com
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="" group-title="CANAIS ABERTOS",TR: BOOMERANG SD
+#EXTINF:-1 tvg-ID="" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="https://img2.gratispng.com/20180721/aq/kisspng-boomerang-logo-television-channel-tom-and-jerry-dog-5b53c4af10de42.3513045215322164950691.jpg" group-title="CANAIS ABERTOS", BOOMERANG  SD
 http://vipeiptv.com:25461/emerson1/emerson1/758013?checkedby:iptvcat.com
 
 
@@ -163,12 +163,12 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/master.m3u8?checke
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="SP: MOVISTAR COMEDIA FHD" tvg-logo="" group-title="CANAIS ABERTOS",SP: COMEDIA HD
+#EXTINF:0 tvg-country="BR" tvg-logo="https://xpert-medianet-at.s3-eu-west-1.amazonaws.com/2019/08/ee9244b569_CC_Austria_Logo_horizontal_color_black.png/320px-FX-logo.svg.png" group-title="CANAIS ABERTOS",Comédia Central HD
 
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/51?checkedby:iptvcat.com
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="SP: MOVISTAR COMEDIA FHD" tvg-logo="" group-title="CANAIS ABERTOS",SP: COMEDIA  SD
+#EXTINF:0 tvg-country="BR" tvg-logo="https://xpert-medianet-at.s3-eu-west-1.amazonaws.com/2019/08/ee9244b569_CC_Austria_Logo_horizontal_color_black.png/320px-FX-logo.svg.png" group-title="CANAIS ABERTOS",Comédia Central SD
 
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/51?checkedby:iptvcat.com
 
