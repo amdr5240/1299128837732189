@@ -157,7 +157,7 @@ http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/37?checkedby:iptvcat.com
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="https://img2.gratispng.com/20180721/aq/kisspng-boomerang-logo-television-channel-tom-and-jerry-dog-5b53c4af10de42.3513045215322164950691.jpg" group-title="CANAIS ABERTOS", BOOMERANG  SD
-http://vipeiptv.com:25461/emerson1/emerson1/758013?checkedby:iptvcat.com
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/29?checkedby:iptvcat.com
 
 
 
@@ -167,12 +167,13 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/master.m3u8?checke
 
 
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="CANAIS ABERTOS",Comédia Central HD
+#EXTINF:0 tvg-country="BR" tvg-logo="https://img2.gratispng.com/20180605/ort/kisspng-comedy-central-television-logo-tv-5b173a0a87ee28.8830369415282488425568.jpg" group-title="CANAIS ABERTOS",Comédia Central HD
 
-http://p2prime.xyz:80/1000011/1000011/9261?checkedby:iptvcat.com
+http://panel.restpremium.cf:8080/serverbr/0392332904/63849?checkedby:iptvcat.com
 
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="CANAIS ABERTOS",Comédia Central SD
+
+#EXTINF:0 tvg-country="BR"https://img2.gratispng.com/20180605/ort/kisspng-comedy-central-television-logo-tv-5b173a0a87ee28.8830369415282488425568.jpg" group-title="CANAIS ABERTOS",Comédia Central SD
 
 http://panel.restpremium.cf:8080/serverbr/0392332904/63849?checkedby:iptvcat.com
 
