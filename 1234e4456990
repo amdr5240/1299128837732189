@@ -67,6 +67,11 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/espn.smil/master.m3u8?chec
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/k29sgDw.png" group-title="CANAIS ABERTOS",Esporte Interativo Plus
 https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8?checkedby:www.iptvcat.com
 
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="" group-title="CANAIS ABERTOS",ESPORTES
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/lVXlnL6.png" group-title="CANAIS ABERTOS",Discovery
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/master.m3u8?checkedby:www.iptvcat.com
 
