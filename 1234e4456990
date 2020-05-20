@@ -16,7 +16,8 @@ http://maxptv.net:8080/nunes/nunes/71
 
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT HD
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w500280477.m3u8
+
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 
 
 
@@ -27,7 +28,7 @@ https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w899378
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT 4k
 
-https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w500280477.m3u8
 
 
 
@@ -191,10 +192,10 @@ https://livefocamundo.com:8081/8148/index.m3u8
 http://p2prime.xyz:80/1000011/1000011/14317?checkedby:iptvcat.com
 
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/br/Fox.br.png" group-title="CANAIS ABERTOS",Fox Brasil
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Fox.br.png" group-title="CANAIS ABERTOS",Fox 
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/107
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/br/Fox.br.png" group-title="CANAIS ABERTOS",Fox Brasil HD
+#EXTINF:-1 tvg-logo="https://static.epg.best/br/Fox.br.png" group-title="CANAIS ABERTOS",Fox HD
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/master.m3u8
 
 
