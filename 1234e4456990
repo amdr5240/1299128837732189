@@ -4,10 +4,10 @@
 
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180410/hvw/kisspng-tv-globo-de-sao-paulo-ltda-rede-globo-television-robocop-5acd2a1b69d9b5.2679968915233950994336.jpg" group-title="CANAIS ABERTOS", GLOBO TV LIBERAL HD¹
 
-http://a.srvbr.me:8880/118692/118692/831
+http://maxptv.net:8080/toto/toto/71
 
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180410/hvw/kisspng-tv-globo-de-sao-paulo-ltda-rede-globo-television-robocop-5acd2a1b69d9b5.2679968915233950994336.jpg" group-title="CANAIS ABERTOS", GLOBO SD 
-http://vipeiptv.com:25461/emerson1/emerson1/757973?checkedby:iptvcat.com
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038365
 
 
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180410/hvw/kisspng-tv-globo-de-sao-paulo-ltda-rede-globo-television-robocop-5acd2a1b69d9b5.2679968915233950994336.jpg" group-title="CANAIS ABERTOS", GLOBO 
@@ -17,8 +17,7 @@ http://maxptv.net:8080/nunes/nunes/71
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT HD
 
-https://www.youtube.com/watch?v=9z_8k1Ir-6U&feature=youtu.be
-
+http://maxptv.net:8080/toto/toto/58
 
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT 
 
@@ -172,13 +171,12 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/master.m3u8?checke
 
 
 
+#EXTINF:0 tvg-country="BR" tvg-logo="https://img2.gratispng.com/20180605/ort/kisspng-comedy-central-television-logo-tv-5b173a0a87ee28.8830369415282488425568.jpg" group-title="CANAIS ABERTOS",Comédia Central SD
+
+http://maxptv.net:8080/toto/toto/198
+
+
 #EXTINF:0 tvg-country="BR" tvg-logo="https://img2.gratispng.com/20180605/ort/kisspng-comedy-central-television-logo-tv-5b173a0a87ee28.8830369415282488425568.jpg" group-title="CANAIS ABERTOS",Comédia Central HD
-
-http://panel.restpremium.cf:8080/serverbr/0392332904/63849?checkedby:iptvcat.com
-
-
-
-#EXTINF:0 tvg-country="BR"https://img2.gratispng.com/20180605/ort/kisspng-comedy-central-television-logo-tv-5b173a0a87ee28.8830369415282488425568.jpg" group-title="CANAIS ABERTOS",Comédia Central SD
 
 http://panel.restpremium.cf:8080/serverbr/0392332904/63849?checkedby:iptvcat.com
 
@@ -197,7 +195,7 @@ http://p2prime.xyz:80/1000011/1000011/14317?checkedby:iptvcat.com
 
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/Fox.br.png" group-title="CANAIS ABERTOS",Fox 
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/107
+http://maxptv.net:8080/toto/toto/150
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/Fox.br.png" group-title="CANAIS ABERTOS",Fox HD
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/master.m3u8
