@@ -2,16 +2,17 @@
 
 ################################################################################# CANAIS ABERTOS
 
-#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180410/hvw/kisspng-tv-globo-de-sao-paulo-ltda-rede-globo-television-robocop-5acd2a1b69d9b5.2679968915233950994336.jpg" group-title="CANAIS ABERTOS", GLOBO TV LIBERAL HD¹
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180410/hvw/kisspng-tv-globo-de-sao-paulo-ltda-rede-globo-television-robocop-5acd2a1b69d9b5.2679968915233950994336.jpg" group-title="CANAIS ABERTOS", GLOBO TV  HD¹
 
-http://maxptv.net:8080/toto/toto/71
+http://a.srvbr.me:8880/040488/040488/5071
 
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180410/hvw/kisspng-tv-globo-de-sao-paulo-ltda-rede-globo-television-robocop-5acd2a1b69d9b5.2679968915233950994336.jpg" group-title="CANAIS ABERTOS", GLOBO SD 
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038365
 
 
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180410/hvw/kisspng-tv-globo-de-sao-paulo-ltda-rede-globo-television-robocop-5acd2a1b69d9b5.2679968915233950994336.jpg" group-title="CANAIS ABERTOS", GLOBO 
-http://maxptv.net:8080/nunes/nunes/71
+http://a.srvbr.me:8880/118692/118692/829
+
 
 
 
@@ -138,24 +139,26 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-b.m3u8?PE
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="CANAIS ABERTOS",Nickelodeon 
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/218?checkedby:iptvcat.com 
+http://a.srvbr.me:8880/118692/118692/787
 
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="CANAIS ABERTOS",Nickelodeon 
 
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3u8?checkedby:www.iptvcat.com
+http://lista.serverpower.me:80/live/987655/987655/37058.rtmp
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="CANAIS ABERTOS",Nickelodeon HD
-https://origin-02.nxplay.com.br/NICK_BR_HD/tracks-v1a1a2/mono.m3u8
+http://a.srvbr.me:8880/040488/040488/787
+
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="CANAIS ABERTOS", CARTOON NETWORK 
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/38?checkedby:iptvcat.com
+http://lista.serverpower.me:80/live/987655/987655/37041.rtmp
+
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="CANAIS ABERTOS",CARTOON NETWORK SD
 
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/37?checkedby:iptvcat.com
+http://a.srvbr.me:8880/040488/040488/878
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="https://img2.gratispng.com/20180721/aq/kisspng-boomerang-logo-television-channel-tom-and-jerry-dog-5b53c4af10de42.3513045215322164950691.jpg" group-title="CANAIS ABERTOS", BOOMERANG  SD
@@ -193,7 +196,8 @@ http://p2prime.xyz:80/1000011/1000011/14317?checkedby:iptvcat.com
 
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/Fox.br.png" group-title="CANAIS ABERTOS",Fox 
-http://maxptv.net:8080/toto/toto/150
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/Fox.br.png" group-title="CANAIS ABERTOS",Fox HD
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/master.m3u8
