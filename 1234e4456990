@@ -138,8 +138,7 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-b.m3u8?PE
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="CANAIS ABERTOS",Nickelodeon 
-http://a.srvbr.me:8880/118692/118692/787
-
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3u8
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="CANAIS ABERTOS",Nickelodeon 
 
@@ -163,9 +162,11 @@ http://a.srvbr.me:8880/040488/040488/878
 #EXTINF:-1 tvg-ID="" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="https://img2.gratispng.com/20180721/aq/kisspng-boomerang-logo-television-channel-tom-and-jerry-dog-5b53c4af10de42.3513045215322164950691.jpg" group-title="CANAIS ABERTOS", BOOMERANG  SD
 http://lindaflor.net:8080/999999/999999/24
 
-
-
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/320px-FX-logo.svg.png" group-title="CANAIS ABERTOS",FX
+https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/fx.smil/chunklist_b528441_sleng.m3u8
+
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/320px-FX-logo.svg.png" group-title="CANAIS ABERTOS",FX HD
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/master.m3u8?checkedby:www.iptvcat.com
 
 
