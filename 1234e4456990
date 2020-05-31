@@ -1310,6 +1310,3231 @@ http://lindaflor.net:8080/232323/232323/168
 #EXTINF:-1,DAZN 03 HD
 http://lindaflor.net:8080/232323/232323/169
 #EXTINF:-1,DAZN 04 HD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1,A&E FHD
+http://lindaflor.net:8080/555555/555555/11325
+#EXTINF:-1,A&E FHD H.265
+http://lindaflor.net:8080/555555/555555/1
+#EXTINF:-1,A&E HD
+http://lindaflor.net:8080/555555/555555/2
+#EXTINF:-1,A&E SD
+http://lindaflor.net:8080/555555/555555/3
+#EXTINF:-1,AMC FHD
+http://lindaflor.net:8080/555555/555555/11326
+#EXTINF:-1,AMC FHD H.265
+http://lindaflor.net:8080/555555/555555/4
+#EXTINF:-1,AMC HD
+http://lindaflor.net:8080/555555/555555/5
+#EXTINF:-1,AMC SD
+http://lindaflor.net:8080/555555/555555/6
+#EXTINF:-1,Animal Planet FHD
+http://lindaflor.net:8080/555555/555555/11327
+#EXTINF:-1,Animal Planet FHD H.265
+http://lindaflor.net:8080/555555/555555/7
+#EXTINF:-1,Animal Planet HD
+http://lindaflor.net:8080/555555/555555/8
+#EXTINF:-1,Animal Planet SD
+http://lindaflor.net:8080/555555/555555/9
+#EXTINF:-1,ARTE 1 FHD
+http://lindaflor.net:8080/555555/555555/11328
+#EXTINF:-1,AXN FHD
+http://lindaflor.net:8080/555555/555555/11329
+#EXTINF:-1,AXN FHD H.265
+http://lindaflor.net:8080/555555/555555/10
+#EXTINF:-1,AXN HD
+http://lindaflor.net:8080/555555/555555/11
+#EXTINF:-1,AXN SD
+http://lindaflor.net:8080/555555/555555/12
+#EXTINF:-1,Baby TV SD
+http://lindaflor.net:8080/555555/555555/13
+#EXTINF:-1,Band Bahia SD
+http://lindaflor.net:8080/555555/555555/14
+#EXTINF:-1,Band Brasilia HD
+http://lindaflor.net:8080/555555/555555/161
+#EXTINF:-1,Band Campinas HD
+http://lindaflor.net:8080/555555/555555/162
+#EXTINF:-1,BAND NEWS FHD
+http://lindaflor.net:8080/555555/555555/11330
+#EXTINF:-1,Band News FHD H.265
+http://lindaflor.net:8080/555555/555555/229
+#EXTINF:-1,Band News HD
+http://lindaflor.net:8080/555555/555555/5985
+#EXTINF:-1,Band News SD
+http://lindaflor.net:8080/555555/555555/16
+#EXTINF:-1,Band RJ HD
+http://lindaflor.net:8080/555555/555555/163
+#EXTINF:-1,Band RS HD
+http://lindaflor.net:8080/555555/555555/164
+#EXTINF:-1,Band Sergipe HD
+http://lindaflor.net:8080/555555/555555/165
+#EXTINF:-1,Band SP FHD
+http://lindaflor.net:8080/555555/555555/5978
+#EXTINF:-1,BAND SP FHD
+http://lindaflor.net:8080/555555/555555/11331
+#EXTINF:-1,Band SP HD
+http://lindaflor.net:8080/555555/555555/166
+#EXTINF:-1,Band SP SD
+http://lindaflor.net:8080/555555/555555/15
+#EXTINF:-1,Band Sports FHD H.265
+http://lindaflor.net:8080/555555/555555/17
+#EXTINF:-1,Band Sports HD
+http://lindaflor.net:8080/555555/555555/18
+#EXTINF:-1,Band Sports SD
+http://lindaflor.net:8080/555555/555555/19
+#EXTINF:-1,Band TV Goiania FHD H.265
+http://lindaflor.net:8080/555555/555555/308
+#EXTINF:-1,Band TV Goiania HD
+http://lindaflor.net:8080/555555/555555/392
+#EXTINF:-1,Band TV Taroba HD
+http://lindaflor.net:8080/555555/555555/226
+#EXTINF:-1,BIS FHD H.265
+http://lindaflor.net:8080/555555/555555/20
+#EXTINF:-1,BIS HD
+http://lindaflor.net:8080/555555/555555/21
+#EXTINF:-1,BIS SD
+http://lindaflor.net:8080/555555/555555/22
+#EXTINF:-1,BOOMERANG FHD
+http://lindaflor.net:8080/555555/555555/11332
+#EXTINF:-1,Boomerang FHD H.265
+http://lindaflor.net:8080/555555/555555/23
+#EXTINF:-1,Boomerang HD
+http://lindaflor.net:8080/555555/555555/9673
+#EXTINF:-1,Boomerang SD
+http://lindaflor.net:8080/555555/555555/24
+#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO 1)
+http://lindaflor.net:8080/555555/555555/11644
+#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO2)
+http://lindaflor.net:8080/555555/555555/11643
+#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO3)
+http://lindaflor.net:8080/555555/555555/11645
+#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO4)
+http://lindaflor.net:8080/555555/555555/11646
+#EXTINF:-1,Canal Brasil FHD H.265
+http://lindaflor.net:8080/555555/555555/26
+#EXTINF:-1,Canal Brasil SD
+http://lindaflor.net:8080/555555/555555/25
+#EXTINF:-1,Canal do Boi SD
+http://lindaflor.net:8080/555555/555555/27
+#EXTINF:-1,Canal Sony FHD
+http://lindaflor.net:8080/555555/555555/11389
+#EXTINF:-1,Canal Sony FHD H.265
+http://lindaflor.net:8080/555555/555555/28
+#EXTINF:-1,Canal Sony HD
+http://lindaflor.net:8080/555555/555555/29
+#EXTINF:-1,Canal Sony SD
+http://lindaflor.net:8080/555555/555555/30
+#EXTINF:-1,Cancao Nova SD
+http://lindaflor.net:8080/555555/555555/31
+#EXTINF:-1,CARTOON NETWORK FHD
+http://lindaflor.net:8080/555555/555555/11333
+#EXTINF:-1,Cartoon Network FHD H.265
+http://lindaflor.net:8080/555555/555555/32
+#EXTINF:-1,Cartoon Network HD
+http://lindaflor.net:8080/555555/555555/33
+#EXTINF:-1,Cartoon Network SD
+http://lindaflor.net:8080/555555/555555/34
+#EXTINF:-1,Cinemax FHD
+http://lindaflor.net:8080/555555/555555/11334
+#EXTINF:-1,Cinemax FHD H.265
+http://lindaflor.net:8080/555555/555555/230
+#EXTINF:-1,Cinemax HD
+http://lindaflor.net:8080/555555/555555/314
+#EXTINF:-1,Cinemax SD
+http://lindaflor.net:8080/555555/555555/35
+#EXTINF:-1,CNN Brasil FHD
+http://lindaflor.net:8080/555555/555555/12898
+#EXTINF:-1,CNN Brasil HD
+http://lindaflor.net:8080/555555/555555/12899
+#EXTINF:-1,CNN Brasil SD
+http://lindaflor.net:8080/555555/555555/14198
+#EXTINF:-1,COMBATE FHD
+http://lindaflor.net:8080/555555/555555/11335
+#EXTINF:-1,Combate FHD H.265
+http://lindaflor.net:8080/555555/555555/231
+#EXTINF:-1,Combate HD
+http://lindaflor.net:8080/555555/555555/315
+#EXTINF:-1,Combate SD
+http://lindaflor.net:8080/555555/555555/36
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://lindaflor.net:8080/555555/555555/11336
+#EXTINF:-1,Comedy Central FHD H.265
+http://lindaflor.net:8080/555555/555555/232
+#EXTINF:-1,Comedy Central HD
+http://lindaflor.net:8080/555555/555555/316
+#EXTINF:-1,Comedy Central SD
+http://lindaflor.net:8080/555555/555555/37
+#EXTINF:-1,COPA DO NORDESTE 2020
+http://lindaflor.net:8080/555555/555555/11526
+#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 2)
+http://lindaflor.net:8080/555555/555555/11647
+#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 3)
+http://lindaflor.net:8080/555555/555555/11648
+#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 4)
+http://lindaflor.net:8080/555555/555555/11649
+#EXTINF:-1,COPA LIBERTADORES
+http://lindaflor.net:8080/555555/555555/12825
+#EXTINF:-1,Curta! SD
+http://lindaflor.net:8080/555555/555555/38
+#EXTINF:-1,DAZN 01 HD
+http://lindaflor.net:8080/555555/555555/167
+#EXTINF:-1,DAZN 02 HD
+http://lindaflor.net:8080/555555/555555/168
+#EXTINF:-1,DAZN 03 HD
+http://lindaflor.net:8080/555555/555555/169
+#EXTINF:-1,DAZN 04 HD
+http://lindaflor.net:8080/555555/555555/170
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://lindaflor.net:8080/555555/555555/11337
+#EXTINF:-1,Discovery Channel FHD H.265
+http://lindaflor.net:8080/555555/555555/233
+#EXTINF:-1,Discovery Channel HD
+http://lindaflor.net:8080/555555/555555/317
+#EXTINF:-1,Discovery Channel SD
+http://lindaflor.net:8080/555555/555555/39
+#EXTINF:-1,Discovery Civilization FHD
+http://lindaflor.net:8080/555555/555555/6339
+#EXTINF:-1,DISCOVERY CIVILIZATION FHD
+http://lindaflor.net:8080/555555/555555/11338
+#EXTINF:-1,Discovery Civilization HD
+http://lindaflor.net:8080/555555/555555/6340
+#EXTINF:-1,Discovery Civilization SD
+http://lindaflor.net:8080/555555/555555/6341
+#EXTINF:-1,DISCOVERY HOME & HEALTH FHD
+http://lindaflor.net:8080/555555/555555/11339
+#EXTINF:-1,Discovery Home & Health FHD H.265
+http://lindaflor.net:8080/555555/555555/235
+#EXTINF:-1,Discovery Home & Health HD
+http://lindaflor.net:8080/555555/555555/319
+#EXTINF:-1,Discovery Home & Health SD
+http://lindaflor.net:8080/555555/555555/40
+#EXTINF:-1,DISCOVERY KIDS FHD
+http://lindaflor.net:8080/555555/555555/11340
+#EXTINF:-1,Discovery Kids FHD H.265
+http://lindaflor.net:8080/555555/555555/236
+#EXTINF:-1,Discovery Kids HD
+http://lindaflor.net:8080/555555/555555/320
+#EXTINF:-1,Discovery Kids SD
+http://lindaflor.net:8080/555555/555555/41
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+http://lindaflor.net:8080/555555/555555/11341
+#EXTINF:-1,Discovery Science FHD H.265
+http://lindaflor.net:8080/555555/555555/237
+#EXTINF:-1,Discovery Science HD
+http://lindaflor.net:8080/555555/555555/321
+#EXTINF:-1,Discovery Science SD
+http://lindaflor.net:8080/555555/555555/9674
+#EXTINF:-1,DISCOVERY THEATER FHD
+http://lindaflor.net:8080/555555/555555/11342
+#EXTINF:-1,Discovery Theater FHD H.265
+http://lindaflor.net:8080/555555/555555/238
+#EXTINF:-1,Discovery Theater HD
+http://lindaflor.net:8080/555555/555555/322
+#EXTINF:-1,DISCOVERY TURBO FHD
+http://lindaflor.net:8080/555555/555555/11343
+#EXTINF:-1,Discovery Turbo FHD H.265
+http://lindaflor.net:8080/555555/555555/239
+#EXTINF:-1,Discovery Turbo HD
+http://lindaflor.net:8080/555555/555555/323
+#EXTINF:-1,Discovery Turbo SD
+http://lindaflor.net:8080/555555/555555/42
+#EXTINF:-1,DISCOVERY WORLD FHD
+http://lindaflor.net:8080/555555/555555/11344
+#EXTINF:-1,Discovery World FHD H.265
+http://lindaflor.net:8080/555555/555555/240
+#EXTINF:-1,Discovery World HD
+http://lindaflor.net:8080/555555/555555/324
+#EXTINF:-1,Discovery World SD
+http://lindaflor.net:8080/555555/555555/9675
+#EXTINF:-1,DISNEY CHANNEL FHD
+http://lindaflor.net:8080/555555/555555/11345
+#EXTINF:-1,Disney Channel FHD H.265
+http://lindaflor.net:8080/555555/555555/241
+#EXTINF:-1,Disney Channel HD
+http://lindaflor.net:8080/555555/555555/325
+#EXTINF:-1,Disney Channel SD
+http://lindaflor.net:8080/555555/555555/43
+#EXTINF:-1,Disney Junior FHD
+http://lindaflor.net:8080/555555/555555/11346
+#EXTINF:-1,Disney Junior FHD H.265
+http://lindaflor.net:8080/555555/555555/242
+#EXTINF:-1,Disney Junior HD
+http://lindaflor.net:8080/555555/555555/326
+#EXTINF:-1,Disney Junior SD
+http://lindaflor.net:8080/555555/555555/44
+#EXTINF:-1,DISNEY XD FHD
+http://lindaflor.net:8080/555555/555555/11347
+#EXTINF:-1,Disney XD SD
+http://lindaflor.net:8080/555555/555555/45
+#EXTINF:-1,E! FHD H.265
+http://lindaflor.net:8080/555555/555555/243
+#EXTINF:-1,E! HD
+http://lindaflor.net:8080/555555/555555/327
+#EXTINF:-1,E! SD
+http://lindaflor.net:8080/555555/555555/46
+#EXTINF:-1,Ei Plus HD
+http://lindaflor.net:8080/555555/555555/175
+#EXTINF:-1,EiMax Jogos01
+http://lindaflor.net:8080/555555/555555/171
+#EXTINF:-1,EiMax Jogos02
+http://lindaflor.net:8080/555555/555555/172
+#EXTINF:-1,EiMax Jogos03
+http://lindaflor.net:8080/555555/555555/173
+#EXTINF:-1,EiMax Jogos04
+http://lindaflor.net:8080/555555/555555/174
+#EXTINF:-1,ESPN 2 FHD H.265
+http://lindaflor.net:8080/555555/555555/246
+#EXTINF:-1,ESPN 2 HD
+http://lindaflor.net:8080/555555/555555/328
+#EXTINF:-1,ESPN 2 SD
+http://lindaflor.net:8080/555555/555555/51
+#EXTINF:-1,ESPN BRASIL FHD
+http://lindaflor.net:8080/555555/555555/11349
+#EXTINF:-1,ESPN Brasil FHD H.265
+http://lindaflor.net:8080/555555/555555/247
+#EXTINF:-1,ESPN Brasil HD
+http://lindaflor.net:8080/555555/555555/329
+#EXTINF:-1,ESPN Brasil SD
+http://lindaflor.net:8080/555555/555555/52
+#EXTINF:-1,ESPN Extra FHD H.265
+http://lindaflor.net:8080/555555/555555/244
+#EXTINF:-1,ESPN Extra HD
+http://lindaflor.net:8080/555555/555555/331
+#EXTINF:-1,ESPN FHD
+http://lindaflor.net:8080/555555/555555/11350
+#EXTINF:-1,ESPN FHD H.265
+http://lindaflor.net:8080/555555/555555/245
+#EXTINF:-1,ESPN HD
+http://lindaflor.net:8080/555555/555555/330
+#EXTINF:-1,ESPN SD
+http://lindaflor.net:8080/555555/555555/50
+#EXTINF:-1,Film & Arts SD
+http://lindaflor.net:8080/555555/555555/53
+#EXTINF:-1,Fish TV FHD H.265
+http://lindaflor.net:8080/555555/555555/248
+#EXTINF:-1,Fish TV SD
+http://lindaflor.net:8080/555555/555555/54
+#EXTINF:-1,FOOD NETWORK FHD
+http://lindaflor.net:8080/555555/555555/11351
+#EXTINF:-1,Food Network FHD H.265
+http://lindaflor.net:8080/555555/555555/249
+#EXTINF:-1,Food Network HD
+http://lindaflor.net:8080/555555/555555/332
+#EXTINF:-1,Food Network SD
+http://lindaflor.net:8080/555555/555555/55
+#EXTINF:-1,Fox FHD
+http://lindaflor.net:8080/555555/555555/11352
+#EXTINF:-1,Fox FHD H.265
+http://lindaflor.net:8080/555555/555555/250
+#EXTINF:-1,Fox HD
+http://lindaflor.net:8080/555555/555555/333
+#EXTINF:-1,Fox Life HD
+http://lindaflor.net:8080/555555/555555/334
+#EXTINF:-1,Fox Life SD
+http://lindaflor.net:8080/555555/555555/57
+#EXTINF:-1,Fox Premium 1 FHD
+http://lindaflor.net:8080/555555/555555/11353
+#EXTINF:-1,Fox Premium 1 FHD H.265
+http://lindaflor.net:8080/555555/555555/251
+#EXTINF:-1,Fox Premium 1 HD
+http://lindaflor.net:8080/555555/555555/335
+#EXTINF:-1,Fox Premium 2 FHD
+http://lindaflor.net:8080/555555/555555/11354
+#EXTINF:-1,Fox Premium 2 FHD H.265
+http://lindaflor.net:8080/555555/555555/252
+#EXTINF:-1,Fox Premium 2 HD
+http://lindaflor.net:8080/555555/555555/336
+#EXTINF:-1,Fox SD
+http://lindaflor.net:8080/555555/555555/56
+#EXTINF:-1,Fox Sports 2
+http://lindaflor.net:8080/555555/555555/59
+#EXTINF:-1,FOX SPORTS 2 FHD
+http://lindaflor.net:8080/555555/555555/11355
+#EXTINF:-1,Fox Sports 2 FHD H.265
+http://lindaflor.net:8080/555555/555555/254
+#EXTINF:-1,Fox Sports 2 HD
+http://lindaflor.net:8080/555555/555555/337
+#EXTINF:-1,Fox Sports FHD H.265
+http://lindaflor.net:8080/555555/555555/253
+#EXTINF:-1,Fox Sports HD
+http://lindaflor.net:8080/555555/555555/338
+#EXTINF:-1,Fox Sports SD
+http://lindaflor.net:8080/555555/555555/58
+#EXTINF:-1,Futura SD
+http://lindaflor.net:8080/555555/555555/60
+#EXTINF:-1,FX FHD
+http://lindaflor.net:8080/555555/555555/11356
+#EXTINF:-1,FX FHD H.265
+http://lindaflor.net:8080/555555/555555/255
+#EXTINF:-1,FX HD
+http://lindaflor.net:8080/555555/555555/339
+#EXTINF:-1,FX SD
+http://lindaflor.net:8080/555555/555555/61
+#EXTINF:-1,Gazeta SP HD
+http://lindaflor.net:8080/555555/555555/178
+#EXTINF:-1,Globo  RPC Parana HD
+http://lindaflor.net:8080/555555/555555/225
+#EXTINF:-1,Globo Brasilia HD
+http://lindaflor.net:8080/555555/555555/179
+#EXTINF:-1,Globo Brasilia SD
+http://lindaflor.net:8080/555555/555555/62
+#EXTINF:-1,Globo EPTV Campinas FHD
+http://lindaflor.net:8080/555555/555555/11524
+#EXTINF:-1,Globo EPTV Campinas HD  
+http://lindaflor.net:8080/555555/555555/11525
+#EXTINF:-1,Globo EPTV Campinas SD
+http://lindaflor.net:8080/555555/555555/48
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO FHD
+http://lindaflor.net:8080/555555/555555/11357
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD
+http://lindaflor.net:8080/555555/555555/49
+#EXTINF:-1,Globo EPTV Sao Carlos SD
+http://lindaflor.net:8080/555555/555555/47
+#EXTINF:-1,Globo Gazeta SUL ES
+http://lindaflor.net:8080/555555/555555/180
+#EXTINF:-1,Globo Gazeta SUL ES. FHD
+http://lindaflor.net:8080/555555/555555/181
+#EXTINF:-1,Globo Gazeta SUL ES. HD
+http://lindaflor.net:8080/555555/555555/182
+#EXTINF:-1,Globo Inter TV Cabugi SD
+http://lindaflor.net:8080/555555/555555/77
+#EXTINF:-1,Globo Internacional HD
+http://lindaflor.net:8080/555555/555555/183
+#EXTINF:-1,Globo InterTv Cabo Frio HD
+http://lindaflor.net:8080/555555/555555/11313
+#EXTINF:-1,Globo Manaus HD
+http://lindaflor.net:8080/555555/555555/9961
+#EXTINF:-1,Globo Minas FHD H.265
+http://lindaflor.net:8080/555555/555555/11311
+#EXTINF:-1,Globo Minas HD
+http://lindaflor.net:8080/555555/555555/223
+#EXTINF:-1,Globo Minas SD
+http://lindaflor.net:8080/555555/555555/63
+#EXTINF:-1,GLOBO NEWS FHD
+http://lindaflor.net:8080/555555/555555/11358
+#EXTINF:-1,Globo News FHD H.265
+http://lindaflor.net:8080/555555/555555/256
+#EXTINF:-1,Globo News HD
+http://lindaflor.net:8080/555555/555555/340
+#EXTINF:-1,Globo News SD
+http://lindaflor.net:8080/555555/555555/64
+#EXTINF:-1,Globo Nordeste SD
+http://lindaflor.net:8080/555555/555555/65
+#EXTINF:-1,Globo NSC TV Florianopolis HD
+http://lindaflor.net:8080/555555/555555/9960
+#EXTINF:-1,Globo NSC TV Santa Catarina HD
+http://lindaflor.net:8080/555555/555555/219
+#EXTINF:-1,Globo RBS HD
+http://lindaflor.net:8080/555555/555555/188
+#EXTINF:-1,Globo RBS TV Porto Alegre SD
+http://lindaflor.net:8080/555555/555555/108
+#EXTINF:-1,Globo Rede Amazonica Manaus
+http://lindaflor.net:8080/555555/555555/111
+#EXTINF:-1,Globo Rede Mirante Maranhao HD
+http://lindaflor.net:8080/555555/555555/9958
+#EXTINF:-1,GLOBO RJ FHD
+http://lindaflor.net:8080/555555/555555/11359
+#EXTINF:-1,Globo RJ HD
+http://lindaflor.net:8080/555555/555555/184
+#EXTINF:-1,Globo RJ SD
+http://lindaflor.net:8080/555555/555555/66
+#EXTINF:-1,Globo RPC TV Curitiba SD
+http://lindaflor.net:8080/555555/555555/115
+#EXTINF:-1,Globo Sergipe HD
+http://lindaflor.net:8080/555555/555555/185
+#EXTINF:-1,Globo SP FHD
+http://lindaflor.net:8080/555555/555555/5961
+#EXTINF:-1,GLOBO SP FHD
+http://lindaflor.net:8080/555555/555555/11360
+#EXTINF:-1,Globo SP FHD H.265
+http://lindaflor.net:8080/555555/555555/12894
+#EXTINF:-1,Globo SP HD
+http://lindaflor.net:8080/555555/555555/186
+#EXTINF:-1,Globo SP SD
+http://lindaflor.net:8080/555555/555555/67
+#EXTINF:-1,Globo TV Anhaguera FHD H.265
+http://lindaflor.net:8080/555555/555555/307
+#EXTINF:-1,Globo TV Anhaguera HD
+http://lindaflor.net:8080/555555/555555/391
+#EXTINF:-1,Globo TV Anhanguera Goiania SD
+http://lindaflor.net:8080/555555/555555/138
+#EXTINF:-1,Globo TV Bahia SD
+http://lindaflor.net:8080/555555/555555/140
+#EXTINF:-1,Globo TV Centro America Cuiaba SD
+http://lindaflor.net:8080/555555/555555/142
+#EXTINF:-1,Globo TV Liberal Belem SD
+http://lindaflor.net:8080/555555/555555/145
+#EXTINF:-1,Globo TV Morena Ponta Pora HD
+http://lindaflor.net:8080/555555/555555/208
+#EXTINF:-1,Globo TV Rio Sul RJ HD
+http://lindaflor.net:8080/555555/555555/9959
+#EXTINF:-1,Globo TV Santa Cruz TV Bahia HD
+http://lindaflor.net:8080/555555/555555/210
+#EXTINF:-1,Globo TV Subae bahia HD
+http://lindaflor.net:8080/555555/555555/211
+#EXTINF:-1,Globo TV Tem Bauru SD
+http://lindaflor.net:8080/555555/555555/148
+#EXTINF:-1,Globo TV Tem Sao Jose do Rio Preto SD
+http://lindaflor.net:8080/555555/555555/149
+#EXTINF:-1,Globo TV Tem Sorocaba SD
+http://lindaflor.net:8080/555555/555555/150
+#EXTINF:-1,Globo TV Tribuna ES
+http://lindaflor.net:8080/555555/555555/212
+#EXTINF:-1,Globo TV Tribuna ES FHD
+http://lindaflor.net:8080/555555/555555/213
+#EXTINF:-1,Globo TV Tribuna ES HD
+http://lindaflor.net:8080/555555/555555/214
+#EXTINF:-1,Globo TV Tribuna Santos SD
+http://lindaflor.net:8080/555555/555555/151
+#EXTINF:-1,Globo TV Vanguarda dos Campos SD
+http://lindaflor.net:8080/555555/555555/152
+#EXTINF:-1,Globo TV Verdes Mares Fortaleza SD
+http://lindaflor.net:8080/555555/555555/153
+#EXTINF:-1,Globo TV Vitoria ES
+http://lindaflor.net:8080/555555/555555/215
+#EXTINF:-1,Globo TV Vitoria ES FHD
+http://lindaflor.net:8080/555555/555555/216
+#EXTINF:-1,Globo TV Vitoria ES HD
+http://lindaflor.net:8080/555555/555555/217
+#EXTINF:-1,GLOOB FHD
+http://lindaflor.net:8080/555555/555555/11361
+#EXTINF:-1,Gloob FHD H.265
+http://lindaflor.net:8080/555555/555555/257
+#EXTINF:-1,Gloob HD
+http://lindaflor.net:8080/555555/555555/342
+#EXTINF:-1,Gloob SD
+http://lindaflor.net:8080/555555/555555/68
+#EXTINF:-1,GNT FHD H.265
+http://lindaflor.net:8080/555555/555555/258
+#EXTINF:-1,GNT HD
+http://lindaflor.net:8080/555555/555555/343
+#EXTINF:-1,GNT SD
+http://lindaflor.net:8080/555555/555555/69
+#EXTINF:-1,H2 FHD
+http://lindaflor.net:8080/555555/555555/11362
+#EXTINF:-1,H2 FHD H.265
+http://lindaflor.net:8080/555555/555555/265
+#EXTINF:-1,H2 HD
+http://lindaflor.net:8080/555555/555555/349
+#EXTINF:-1,H2 SD
+http://lindaflor.net:8080/555555/555555/75
+#EXTINF:-1,HBO 2 FHD
+http://lindaflor.net:8080/555555/555555/11363
+#EXTINF:-1,HBO 2 FHD H.265
+http://lindaflor.net:8080/555555/555555/263
+#EXTINF:-1,HBO 2 HD
+http://lindaflor.net:8080/555555/555555/344
+#EXTINF:-1,HBO 2 SD
+http://lindaflor.net:8080/555555/555555/74
+#EXTINF:-1,HBO Family FHD H.265
+http://lindaflor.net:8080/555555/555555/259
+#EXTINF:-1,HBO Family HD
+http://lindaflor.net:8080/555555/555555/345
+#EXTINF:-1,HBO Family SD
+http://lindaflor.net:8080/555555/555555/71
+#EXTINF:-1,HBO FHD
+http://lindaflor.net:8080/555555/555555/11364
+#EXTINF:-1,HBO FHD H.265
+http://lindaflor.net:8080/555555/555555/260
+#EXTINF:-1,HBO HD
+http://lindaflor.net:8080/555555/555555/346
+#EXTINF:-1,HBO MUNDI
+http://lindaflor.net:8080/555555/555555/12875
+#EXTINF:-1,HBO PLUS FHD
+http://lindaflor.net:8080/555555/555555/11365
+#EXTINF:-1,HBO Plus FHD H.265
+http://lindaflor.net:8080/555555/555555/261
+#EXTINF:-1,HBO Plus HD
+http://lindaflor.net:8080/555555/555555/347
+#EXTINF:-1,HBO Plus SD
+http://lindaflor.net:8080/555555/555555/72
+#EXTINF:-1,HBO POP
+http://lindaflor.net:8080/555555/555555/12844
+#EXTINF:-1,HBO SD
+http://lindaflor.net:8080/555555/555555/70
+#EXTINF:-1,HBO SIGNATURE FHD
+http://lindaflor.net:8080/555555/555555/11366
+#EXTINF:-1,HBO Signature FHD H.265
+http://lindaflor.net:8080/555555/555555/262
+#EXTINF:-1,HBO Signature HD
+http://lindaflor.net:8080/555555/555555/348
+#EXTINF:-1,HBO Signature SD
+http://lindaflor.net:8080/555555/555555/73
+#EXTINF:-1,HBO XTREAM
+http://lindaflor.net:8080/555555/555555/12876
+#EXTINF:-1,HGTV FHD H.265
+http://lindaflor.net:8080/555555/555555/234
+#EXTINF:-1,HGTV HD
+http://lindaflor.net:8080/555555/555555/318
+#EXTINF:-1,HISTORY CHANNEL FHD
+http://lindaflor.net:8080/555555/555555/11367
+#EXTINF:-1,History Channel FHD H.265
+http://lindaflor.net:8080/555555/555555/264
+#EXTINF:-1,History Channel HD
+http://lindaflor.net:8080/555555/555555/350
+#EXTINF:-1,History Channel SD
+http://lindaflor.net:8080/555555/555555/159
+#EXTINF:-1,ID - Investigacao Discovery SD
+http://lindaflor.net:8080/555555/555555/76
+#EXTINF:-1,ID - Investigation Discovery FHD
+http://lindaflor.net:8080/555555/555555/11369
+#EXTINF:-1,ID - Investigation Discovery FHD H.265
+http://lindaflor.net:8080/555555/555555/266
+#EXTINF:-1,ID - Investigation Discovery HD
+http://lindaflor.net:8080/555555/555555/351
+#EXTINF:-1,Lifetime FHD H.265
+http://lindaflor.net:8080/555555/555555/267
+#EXTINF:-1,Lifetime HD
+http://lindaflor.net:8080/555555/555555/352
+#EXTINF:-1,Lifetime SD
+http://lindaflor.net:8080/555555/555555/78
+#EXTINF:-1,Love Nature
+http://lindaflor.net:8080/555555/555555/11804
+#EXTINF:-1,Mais Globosat FHD H.265
+http://lindaflor.net:8080/555555/555555/268
+#EXTINF:-1,Mais Globosat HD
+http://lindaflor.net:8080/555555/555555/341
+#EXTINF:-1,Mais Globosat SD
+http://lindaflor.net:8080/555555/555555/79
+#EXTINF:-1,Max FHD H.265
+http://lindaflor.net:8080/555555/555555/269
+#EXTINF:-1,Max HD
+http://lindaflor.net:8080/555555/555555/353
+#EXTINF:-1,Max Prime FHD
+http://lindaflor.net:8080/555555/555555/11370
+#EXTINF:-1,Max Prime FHD H.265
+http://lindaflor.net:8080/555555/555555/270
+#EXTINF:-1,Max Prime HD
+http://lindaflor.net:8080/555555/555555/354
+#EXTINF:-1,Max Prime SD
+http://lindaflor.net:8080/555555/555555/81
+#EXTINF:-1,Max SD
+http://lindaflor.net:8080/555555/555555/80
+#EXTINF:-1,Max UP FHD H.265
+http://lindaflor.net:8080/555555/555555/271
+#EXTINF:-1,Max UP HD
+http://lindaflor.net:8080/555555/555555/355
+#EXTINF:-1,Max UP SD
+http://lindaflor.net:8080/555555/555555/82
+#EXTINF:-1,Megapix FHD
+http://lindaflor.net:8080/555555/555555/11371
+#EXTINF:-1,Megapix FHD H.265
+http://lindaflor.net:8080/555555/555555/272
+#EXTINF:-1,Megapix HD
+http://lindaflor.net:8080/555555/555555/356
+#EXTINF:-1,Megapix SD
+http://lindaflor.net:8080/555555/555555/83
+#EXTINF:-1,MTV FHD
+http://lindaflor.net:8080/555555/555555/11372
+#EXTINF:-1,MTV FHD H.265
+http://lindaflor.net:8080/555555/555555/273
+#EXTINF:-1,MTV HD
+http://lindaflor.net:8080/555555/555555/357
+#EXTINF:-1,MTV SD
+http://lindaflor.net:8080/555555/555555/84
+#EXTINF:-1,MULTISHOW FHD
+http://lindaflor.net:8080/555555/555555/11373
+#EXTINF:-1,Multishow FHD H.265
+http://lindaflor.net:8080/555555/555555/274
+#EXTINF:-1,Multishow HD
+http://lindaflor.net:8080/555555/555555/358
+#EXTINF:-1,Multishow SD
+http://lindaflor.net:8080/555555/555555/85
+#EXTINF:-1,Music Box Brazil HD
+http://lindaflor.net:8080/555555/555555/87
+#EXTINF:-1,Music Box Brazil SD
+http://lindaflor.net:8080/555555/555555/86
+#EXTINF:-1,NAT GEO KIDS FHD
+http://lindaflor.net:8080/555555/555555/11374
+#EXTINF:-1,NatGeo Kids FHD H.265
+http://lindaflor.net:8080/555555/555555/277
+#EXTINF:-1,NatGeo Kids HD
+http://lindaflor.net:8080/555555/555555/360
+#EXTINF:-1,NatGeo Kids SD
+http://lindaflor.net:8080/555555/555555/88
+#EXTINF:-1,NATGEO WILD FHD
+http://lindaflor.net:8080/555555/555555/11375
+#EXTINF:-1,NatGeo Wild FHD H.265
+http://lindaflor.net:8080/555555/555555/276
+#EXTINF:-1,NatGeo Wild HD
+http://lindaflor.net:8080/555555/555555/361
+#EXTINF:-1,NatGeo Wild SD
+http://lindaflor.net:8080/555555/555555/89
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
+http://lindaflor.net:8080/555555/555555/11376
+#EXTINF:-1,National Geographic FHD H.265
+http://lindaflor.net:8080/555555/555555/275
+#EXTINF:-1,National Geographic HD
+http://lindaflor.net:8080/555555/555555/359
+#EXTINF:-1,National Geographic SD
+http://lindaflor.net:8080/555555/555555/90
+#EXTINF:-1,NHK SD
+http://lindaflor.net:8080/555555/555555/91
+#EXTINF:-1,NICK JR FHD
+http://lindaflor.net:8080/555555/555555/11377
+#EXTINF:-1,Nick Jr. FHD H.265
+http://lindaflor.net:8080/555555/555555/279
+#EXTINF:-1,Nick Jr. HD
+http://lindaflor.net:8080/555555/555555/363
+#EXTINF:-1,Nick Jr. SD
+http://lindaflor.net:8080/555555/555555/92
+#EXTINF:-1,Nickelodeon FHD H.265
+http://lindaflor.net:8080/555555/555555/278
+#EXTINF:-1,Nickelodeon HD
+http://lindaflor.net:8080/555555/555555/362
+#EXTINF:-1,Nickelodeon SD
+http://lindaflor.net:8080/555555/555555/93
+#EXTINF:-1,Novo Tempo SD
+http://lindaflor.net:8080/555555/555555/10498
+#EXTINF:-1,Novo Tempo SD
+http://lindaflor.net:8080/555555/555555/10537
+#EXTINF:-1,OFF FHD H.265
+http://lindaflor.net:8080/555555/555555/280
+#EXTINF:-1,OFF HD
+http://lindaflor.net:8080/555555/555555/364
+#EXTINF:-1,OFF SD
+http://lindaflor.net:8080/555555/555555/94
+#EXTINF:-1,Paramount Channel FHD
+http://lindaflor.net:8080/555555/555555/11378
+#EXTINF:-1,Paramount Channel FHD H.265
+http://lindaflor.net:8080/555555/555555/281
+#EXTINF:-1,Paramount Channel SD
+http://lindaflor.net:8080/555555/555555/95
+#EXTINF:-1,Paramount HD
+http://lindaflor.net:8080/555555/555555/365
+#EXTINF:-1,Play TV SD
+http://lindaflor.net:8080/555555/555555/96
+#EXTINF:-1,Polishop TV SD
+http://lindaflor.net:8080/555555/555555/97
+#EXTINF:-1,PREMIERE 2 FHD
+http://lindaflor.net:8080/555555/555555/11379
+#EXTINF:-1,Premiere 2 FHD H.265
+http://lindaflor.net:8080/555555/555555/283
+#EXTINF:-1,Premiere 2 HD
+http://lindaflor.net:8080/555555/555555/366
+#EXTINF:-1,Premiere 2 SD
+http://lindaflor.net:8080/555555/555555/98
+#EXTINF:-1,PREMIERE 3 FHD
+http://lindaflor.net:8080/555555/555555/11380
+#EXTINF:-1,Premiere 3 FHD H.265
+http://lindaflor.net:8080/555555/555555/284
+#EXTINF:-1,Premiere 3 HD
+http://lindaflor.net:8080/555555/555555/367
+#EXTINF:-1,Premiere 3 SD
+http://lindaflor.net:8080/555555/555555/99
+#EXTINF:-1,PREMIERE 4 FHD
+http://lindaflor.net:8080/555555/555555/11381
+#EXTINF:-1,Premiere 4 FHD H.265
+http://lindaflor.net:8080/555555/555555/285
+#EXTINF:-1,Premiere 4 HD
+http://lindaflor.net:8080/555555/555555/368
+#EXTINF:-1,Premiere 4 SD
+http://lindaflor.net:8080/555555/555555/100
+#EXTINF:-1,PREMIERE 5 FHD
+http://lindaflor.net:8080/555555/555555/11382
+#EXTINF:-1,Premiere 5 FHD H.265
+http://lindaflor.net:8080/555555/555555/286
+#EXTINF:-1,Premiere 5 HD
+http://lindaflor.net:8080/555555/555555/369
+#EXTINF:-1,Premiere 5 SD
+http://lindaflor.net:8080/555555/555555/101
+#EXTINF:-1,PREMIERE 6 FHD
+http://lindaflor.net:8080/555555/555555/11383
+#EXTINF:-1,Premiere 6 FHD H.265
+http://lindaflor.net:8080/555555/555555/287
+#EXTINF:-1,Premiere 6 HD
+http://lindaflor.net:8080/555555/555555/370
+#EXTINF:-1,Premiere 6 SD
+http://lindaflor.net:8080/555555/555555/102
+#EXTINF:-1,Premiere 7 FHD H.265
+http://lindaflor.net:8080/555555/555555/288
+#EXTINF:-1,Premiere 7 HD
+http://lindaflor.net:8080/555555/555555/371
+#EXTINF:-1,Premiere 7 SD
+http://lindaflor.net:8080/555555/555555/103
+#EXTINF:-1,Premiere 8 SD
+http://lindaflor.net:8080/555555/555555/104
+#EXTINF:-1,Premiere 9 SD
+http://lindaflor.net:8080/555555/555555/105
+#EXTINF:-1,PREMIERE CLUBES FHD
+http://lindaflor.net:8080/555555/555555/11384
+#EXTINF:-1,Premiere Clubes FHD H.265
+http://lindaflor.net:8080/555555/555555/282
+#EXTINF:-1,Premiere Clubes HD
+http://lindaflor.net:8080/555555/555555/372
+#EXTINF:-1,Premiere Clubes SD
+http://lindaflor.net:8080/555555/555555/106
+#EXTINF:-1,Prime Box Brazil SD
+http://lindaflor.net:8080/555555/555555/107
+#EXTINF:-1,Record Brasilia HD
+http://lindaflor.net:8080/555555/555555/189
+#EXTINF:-1,Record News ES
+http://lindaflor.net:8080/555555/555555/190
+#EXTINF:-1,RECORD NEWS FHD
+http://lindaflor.net:8080/555555/555555/11385
+#EXTINF:-1,Record News HD
+http://lindaflor.net:8080/555555/555555/14247
+#EXTINF:-1,Record News SD
+http://lindaflor.net:8080/555555/555555/109
+#EXTINF:-1,Record RJ HD
+http://lindaflor.net:8080/555555/555555/200
+#EXTINF:-1,Record RS HD
+http://lindaflor.net:8080/555555/555555/193
+#EXTINF:-1,Record Sao Jose Rio Preto HD
+http://lindaflor.net:8080/555555/555555/194
+#EXTINF:-1,Record Sergipe HD
+http://lindaflor.net:8080/555555/555555/195
+#EXTINF:-1,Record SP FHD H.265
+http://lindaflor.net:8080/555555/555555/11312
+#EXTINF:-1,Record SP HD
+http://lindaflor.net:8080/555555/555555/196
+#EXTINF:-1,Record SP SD
+http://lindaflor.net:8080/555555/555555/15784
+#EXTINF:-1,Record TV belem HD
+http://lindaflor.net:8080/555555/555555/197
+#EXTINF:-1,Record TV Cabralia HD Bahia
+http://lindaflor.net:8080/555555/555555/207
+#EXTINF:-1,Record TV Goiania FHD H.265
+http://lindaflor.net:8080/555555/555555/289
+#EXTINF:-1,Record TV Goiania HD
+http://lindaflor.net:8080/555555/555555/373
+#EXTINF:-1,Record TV Litoral HD Santos
+http://lindaflor.net:8080/555555/555555/198
+#EXTINF:-1,Record TV Minas HD
+http://lindaflor.net:8080/555555/555555/199
+#EXTINF:-1,Record TV Parana HD
+http://lindaflor.net:8080/555555/555555/228
+#EXTINF:-1,Record TV Paranaíba HD
+http://lindaflor.net:8080/555555/555555/209
+#EXTINF:-1,Record TV Santa Catarina HD
+http://lindaflor.net:8080/555555/555555/220
+#EXTINF:-1,Record TV SD
+http://lindaflor.net:8080/555555/555555/110
+#EXTINF:-1,Record TVB Campinas FHD H.265
+http://lindaflor.net:8080/555555/555555/9962
+#EXTINF:-1,Record TVB Campinas HD
+http://lindaflor.net:8080/555555/555555/218
+#EXTINF:-1,Rede Brasil SD
+http://lindaflor.net:8080/555555/555555/112
+#EXTINF:-1,Rede TV FHD H.265
+http://lindaflor.net:8080/555555/555555/290
+#EXTINF:-1,Rede TV HD
+http://lindaflor.net:8080/555555/555555/374
+#EXTINF:-1,Rede TV SD
+http://lindaflor.net:8080/555555/555555/113
+#EXTINF:-1,Rede Vida SD
+http://lindaflor.net:8080/555555/555555/114
+#EXTINF:-1,SBT Brasilia HD
+http://lindaflor.net:8080/555555/555555/201
+#EXTINF:-1,SBT FHD
+http://lindaflor.net:8080/555555/555555/11386
+#EXTINF:-1,SBT NORDESTE FHD
+http://lindaflor.net:8080/555555/555555/11387
+#EXTINF:-1,SBT Parana HD
+http://lindaflor.net:8080/555555/555555/227
+#EXTINF:-1,SBT RJ HD
+http://lindaflor.net:8080/555555/555555/202
+#EXTINF:-1,SBT RS HD
+http://lindaflor.net:8080/555555/555555/203
+#EXTINF:-1,SBT Santa Catarina HD
+http://lindaflor.net:8080/555555/555555/221
+#EXTINF:-1,SBT Sergipe HD
+http://lindaflor.net:8080/555555/555555/204
+#EXTINF:-1,SBT SP HD
+http://lindaflor.net:8080/555555/555555/205
+#EXTINF:-1,SBT SP SD
+http://lindaflor.net:8080/555555/555555/116
+#EXTINF:-1,SBT TV Alterosa HD
+http://lindaflor.net:8080/555555/555555/224
+#EXTINF:-1,SBT TV Aratu HD Bahia
+http://lindaflor.net:8080/555555/555555/206
+#EXTINF:-1,SBT TV Serra Dourada FHD H.265
+http://lindaflor.net:8080/555555/555555/309
+#EXTINF:-1,SBT TV Serra Dourada HD
+http://lindaflor.net:8080/555555/555555/394
+#EXTINF:-1,SMITHSONIAN CHANNEL FHD
+http://lindaflor.net:8080/555555/555555/11388
+#EXTINF:-1,Space FHD
+http://lindaflor.net:8080/555555/555555/11390
+#EXTINF:-1,Space FHD H.265
+http://lindaflor.net:8080/555555/555555/291
+#EXTINF:-1,Space HD
+http://lindaflor.net:8080/555555/555555/375
+#EXTINF:-1,Space SD
+http://lindaflor.net:8080/555555/555555/117
+#EXTINF:-1,SPORTV 2 FHD
+http://lindaflor.net:8080/555555/555555/11391
+#EXTINF:-1,SporTV 2 FHD H.265
+http://lindaflor.net:8080/555555/555555/292
+#EXTINF:-1,SporTV 2 HD
+http://lindaflor.net:8080/555555/555555/376
+#EXTINF:-1,SporTV 2 SD
+http://lindaflor.net:8080/555555/555555/119
+#EXTINF:-1,SPORTV 3 FHD
+http://lindaflor.net:8080/555555/555555/11392
+#EXTINF:-1,SporTV 3 FHD H.265
+http://lindaflor.net:8080/555555/555555/293
+#EXTINF:-1,SporTV 3 HD
+http://lindaflor.net:8080/555555/555555/377
+#EXTINF:-1,SporTV 3 SD
+http://lindaflor.net:8080/555555/555555/120
+#EXTINF:-1,SPORTV FHD
+http://lindaflor.net:8080/555555/555555/11393
+#EXTINF:-1,SporTV FHD H.265
+http://lindaflor.net:8080/555555/555555/294
+#EXTINF:-1,SporTV HD
+http://lindaflor.net:8080/555555/555555/378
+#EXTINF:-1,SporTV SD
+http://lindaflor.net:8080/555555/555555/118
+#EXTINF:-1,Studio Universal FHD
+http://lindaflor.net:8080/555555/555555/11394
+#EXTINF:-1,Studio Universal FHD H.265
+http://lindaflor.net:8080/555555/555555/295
+#EXTINF:-1,Studio Universal HD
+http://lindaflor.net:8080/555555/555555/379
+#EXTINF:-1,Studio Universal SD
+http://lindaflor.net:8080/555555/555555/121
+#EXTINF:-1,Syfy FHD
+http://lindaflor.net:8080/555555/555555/11395
+#EXTINF:-1,Syfy FHD H.265
+http://lindaflor.net:8080/555555/555555/296
+#EXTINF:-1,Syfy HD
+http://lindaflor.net:8080/555555/555555/380
+#EXTINF:-1,Syfy SD
+http://lindaflor.net:8080/555555/555555/122
+#EXTINF:-1,TBS FHD H.265
+http://lindaflor.net:8080/555555/555555/297
+#EXTINF:-1,TBS HD
+http://lindaflor.net:8080/555555/555555/381
+#EXTINF:-1,TBS SD
+http://lindaflor.net:8080/555555/555555/123
+#EXTINF:-1,TCM SD
+http://lindaflor.net:8080/555555/555555/124
+#EXTINF:-1,TELECINE ACTION FHD
+http://lindaflor.net:8080/555555/555555/11396
+#EXTINF:-1,Telecine Action FHD H.265
+http://lindaflor.net:8080/555555/555555/298
+#EXTINF:-1,Telecine Action HD
+http://lindaflor.net:8080/555555/555555/382
+#EXTINF:-1,Telecine Action SD
+http://lindaflor.net:8080/555555/555555/125
+#EXTINF:-1,TELECINE CULT FHD
+http://lindaflor.net:8080/555555/555555/11397
+#EXTINF:-1,Telecine Cult FHD H.265
+http://lindaflor.net:8080/555555/555555/299
+#EXTINF:-1,Telecine Cult HD
+http://lindaflor.net:8080/555555/555555/383
+#EXTINF:-1,Telecine Cult SD
+http://lindaflor.net:8080/555555/555555/126
+#EXTINF:-1,TELECINE FUN FHD
+http://lindaflor.net:8080/555555/555555/11398
+#EXTINF:-1,Telecine Fun FHD H.265
+http://lindaflor.net:8080/555555/555555/300
+#EXTINF:-1,Telecine Fun HD
+http://lindaflor.net:8080/555555/555555/384
+#EXTINF:-1,Telecine Fun SD
+http://lindaflor.net:8080/555555/555555/127
+#EXTINF:-1,TELECINE PIPOCA FHD
+http://lindaflor.net:8080/555555/555555/11399
+#EXTINF:-1,Telecine Pipoca FHD H.265
+http://lindaflor.net:8080/555555/555555/301
+#EXTINF:-1,Telecine Pipoca HD
+http://lindaflor.net:8080/555555/555555/385
+#EXTINF:-1,Telecine Pipoca SD
+http://lindaflor.net:8080/555555/555555/128
+#EXTINF:-1,TELECINE PREMIUM FHD
+http://lindaflor.net:8080/555555/555555/11400
+#EXTINF:-1,Telecine Premium FHD H.265
+http://lindaflor.net:8080/555555/555555/302
+#EXTINF:-1,Telecine Premium HD
+http://lindaflor.net:8080/555555/555555/386
+#EXTINF:-1,Telecine Premium SD
+http://lindaflor.net:8080/555555/555555/129
+#EXTINF:-1,TELECINE TOUCH FHD
+http://lindaflor.net:8080/555555/555555/11401
+#EXTINF:-1,Telecine Touch FHD H.265
+http://lindaflor.net:8080/555555/555555/303
+#EXTINF:-1,Telecine Touch HD
+http://lindaflor.net:8080/555555/555555/387
+#EXTINF:-1,Telecine Touch SD
+http://lindaflor.net:8080/555555/555555/130
+#EXTINF:-1,Terra Viva SD
+http://lindaflor.net:8080/555555/555555/131
+#EXTINF:-1,TLC FHD H.265
+http://lindaflor.net:8080/555555/555555/304
+#EXTINF:-1,TLC HD
+http://lindaflor.net:8080/555555/555555/388
+#EXTINF:-1,TLC SD
+http://lindaflor.net:8080/555555/555555/132
+#EXTINF:-1,TNT FHD
+http://lindaflor.net:8080/555555/555555/11402
+#EXTINF:-1,TNT FHD H.265
+http://lindaflor.net:8080/555555/555555/305
+#EXTINF:-1,TNT HD
+http://lindaflor.net:8080/555555/555555/389
+#EXTINF:-1,TNT SD
+http://lindaflor.net:8080/555555/555555/133
+#EXTINF:-1,TNT Series FHD
+http://lindaflor.net:8080/555555/555555/11403
+#EXTINF:-1,TNT Series FHD H.265
+http://lindaflor.net:8080/555555/555555/306
+#EXTINF:-1,TNT Series HD
+http://lindaflor.net:8080/555555/555555/390
+#EXTINF:-1,TNT Series SD
+http://lindaflor.net:8080/555555/555555/134
+#EXTINF:-1,Tooncast SD
+http://lindaflor.net:8080/555555/555555/135
+#EXTINF:-1,TruTV HD
+http://lindaflor.net:8080/555555/555555/137
+#EXTINF:-1,TruTV SD
+http://lindaflor.net:8080/555555/555555/136
+#EXTINF:-1,TV Aparecida SD
+http://lindaflor.net:8080/555555/555555/139
+#EXTINF:-1,TV Camara SD
+http://lindaflor.net:8080/555555/555555/141
+#EXTINF:-1,TV Cultura SD
+http://lindaflor.net:8080/555555/555555/143
+#EXTINF:-1,TV Diario
+http://lindaflor.net:8080/555555/555555/11528
+#EXTINF:-1,TV Evangelizar SD
+http://lindaflor.net:8080/555555/555555/11473
+#EXTINF:-1,TV Globinho SD
+http://lindaflor.net:8080/555555/555555/6894
+#EXTINF:-1,TV Justica SD
+http://lindaflor.net:8080/555555/555555/144
+#EXTINF:-1,TV Ra Tim Bum HD
+http://lindaflor.net:8080/555555/555555/393
+#EXTINF:-1,TV Ra tim bum SD
+http://lindaflor.net:8080/555555/555555/146
+#EXTINF:-1,TV Senado SD
+http://lindaflor.net:8080/555555/555555/147
+#EXTINF:-1,Universal Channel TV FHD
+http://lindaflor.net:8080/555555/555555/11404
+#EXTINF:-1,Universal Channel TV FHD H.265
+http://lindaflor.net:8080/555555/555555/310
+#EXTINF:-1,Universal Channel TV HD
+http://lindaflor.net:8080/555555/555555/395
+#EXTINF:-1,Universal Channel TV SD
+http://lindaflor.net:8080/555555/555555/160
+#EXTINF:-1,VH1 FHD H.265
+http://lindaflor.net:8080/555555/555555/311
+#EXTINF:-1,VH1 HD
+http://lindaflor.net:8080/555555/555555/396
+#EXTINF:-1,VH1 Megahits SD
+http://lindaflor.net:8080/555555/555555/154
+#EXTINF:-1,VIVA FHD
+http://lindaflor.net:8080/555555/555555/11405
+#EXTINF:-1,Viva HD
+http://lindaflor.net:8080/555555/555555/397
+#EXTINF:-1,Viva SD
+http://lindaflor.net:8080/555555/555555/155
+#EXTINF:-1,Warner Channel FHD
+http://lindaflor.net:8080/555555/555555/11406
+#EXTINF:-1,Warner Channel FHD H.265
+http://lindaflor.net:8080/555555/555555/312
+#EXTINF:-1,Warner Channel HD
+http://lindaflor.net:8080/555555/555555/398
+#EXTINF:-1,Warner Channel SD
+http://lindaflor.net:8080/555555/555555/156
+#EXTINF:-1,Woohoo FHD H.265
+http://lindaflor.net:8080/555555/555555/313
+#EXTINF:-1,Woohoo SD
+http://lindaflor.net:8080/555555/555555/157
+#EXTINF:-1,Zoomoo SD
+http://lindaflor.net:8080/555555/555555/158
+#EXTINF:-1,Velozes e Furiosos: Hobbs & Shaw (2019)
+http://lindaflor.net:8080/movie/555555/555555/504.mp4
+#EXTINF:-1,TV Escola
+http://lindaflor.net:8080/555555/555555/16006
+#EXTINF:-1,Superação: O Milagre da Fé (2019)
+http://lindaflor.net:8080/movie/555555/555555/607.mp4
+#EXTINF:-1,24HS: ALADDIN
+http://lindaflor.net:8080/555555/555555/15829
+#EXTINF:-1,24HS: CASTELO RÁ-TIM-BUM
+http://lindaflor.net:8080/555555/555555/15832
+#EXTINF:-1,24HS: FUTURAMA
+http://lindaflor.net:8080/555555/555555/15833
+#EXTINF:-1,24HS: OS JETSONS
+http://lindaflor.net:8080/555555/555555/15836
+#EXTINF:-1,24HS: PERGUNTE AOS STORYBOTS
+http://lindaflor.net:8080/555555/555555/15837
+#EXTINF:-1,24HS: SUPERSHOCK
+http://lindaflor.net:8080/555555/555555/15840
+#EXTINF:-1,24HS: THE FLINTSTONES
+http://lindaflor.net:8080/555555/555555/15841
+#EXTINF:-1,24HS: THE VOICE
+http://lindaflor.net:8080/555555/555555/15842
+#EXTINF:-1,3 Palavrinhas 24hs
+http://lindaflor.net:8080/555555/555555/3965
+#EXTINF:-1,A BIBLIA 24H
+http://lindaflor.net:8080/555555/555555/15846
+#EXTINF:-1,A ERA DO GELO 24H
+http://lindaflor.net:8080/555555/555555/15847
+#EXTINF:-1,A PRACA E NOSSA 24H
+http://lindaflor.net:8080/555555/555555/15848
+#EXTINF:-1,ALADIN 24HS
+http://lindaflor.net:8080/555555/555555/422
+#EXTINF:-1,ANGRY BIRDS 24H
+http://lindaflor.net:8080/555555/555555/15851
+#EXTINF:-1,ANIMAZOO 24H
+http://lindaflor.net:8080/555555/555555/15849
+#EXTINF:-1,ANITTA POCKET LIVE 24H
+http://lindaflor.net:8080/555555/555555/15850
+#EXTINF:-1,As Meninas Superpoderosas 24HS
+http://lindaflor.net:8080/555555/555555/423
+#EXTINF:-1,ASTERIX E OBELIX 24H
+http://lindaflor.net:8080/555555/555555/15921
+#EXTINF:-1,BABY SHARK 24H
+http://lindaflor.net:8080/555555/555555/16030
+#EXTINF:-1,BARBIE 24H
+http://lindaflor.net:8080/555555/555555/15923
+#EXTINF:-1,BEIJA SAPO 24H
+http://lindaflor.net:8080/555555/555555/16056
+#EXTINF:-1,BEN 10 24H
+http://lindaflor.net:8080/555555/555555/15922
+#EXTINF:-1,BEN 10 24HS
+http://lindaflor.net:8080/555555/555555/424
+#EXTINF:-1,Bita e os Animais 24hrs
+http://lindaflor.net:8080/555555/555555/7031
+#EXTINF:-1,BOB ESPONJA 24HS
+http://lindaflor.net:8080/555555/555555/425
+#EXTINF:-1,BONDE DO TIGRAO 24H
+http://lindaflor.net:8080/555555/555555/16047
+#EXTINF:-1,Breaking Bad 24HS
+http://lindaflor.net:8080/555555/555555/426
+#EXTINF:-1,BRUCE LEE 24H
+http://lindaflor.net:8080/555555/555555/15947
+#EXTINF:-1,BRUNO E MARRONE 24H
+http://lindaflor.net:8080/555555/555555/15948
+#EXTINF:-1,CALDAS COUNTRY SHOW 24H
+http://lindaflor.net:8080/555555/555555/15949
+#EXTINF:-1,CAO CORAGEM 24H
+http://lindaflor.net:8080/555555/555555/15951
+#EXTINF:-1,CAO CORAGEM 24HS
+http://lindaflor.net:8080/555555/555555/427
+#EXTINF:-1,CASSIANE LIVE 24H
+http://lindaflor.net:8080/555555/555555/15942
+#EXTINF:-1,CAVALEIROS DO ZODIACO 24H
+http://lindaflor.net:8080/555555/555555/16031
+#EXTINF:-1,CAVALO DE FOGO 24H
+http://lindaflor.net:8080/555555/555555/15943
+#EXTINF:-1,CAVERNA DO DRAGAO 24H
+http://lindaflor.net:8080/555555/555555/15944
+#EXTINF:-1,Caverna do Dragão 24HS
+http://lindaflor.net:8080/555555/555555/428
+#EXTINF:-1,CHANGEMAN 24H
+http://lindaflor.net:8080/555555/555555/16034
+#EXTINF:-1,Chapolin Colorado 24HS
+http://lindaflor.net:8080/555555/555555/429
+#EXTINF:-1,CHAPOLLIN 24H
+http://lindaflor.net:8080/555555/555555/15945
+#EXTINF:-1,CHAVES 24HS
+http://lindaflor.net:8080/555555/555555/430
+#EXTINF:-1,CHAVES DESENHO 24H
+http://lindaflor.net:8080/555555/555555/15946
+#EXTINF:-1,CHAVES DESENHO 24HS
+http://lindaflor.net:8080/555555/555555/431
+#EXTINF:-1,CHICO BENTO 24H
+http://lindaflor.net:8080/555555/555555/15938
+#EXTINF:-1,CHITAOZINHO E XORORO 24H
+http://lindaflor.net:8080/555555/555555/15939
+#EXTINF:-1,CINE ACAO 24H
+http://lindaflor.net:8080/555555/555555/16061
+#EXTINF:-1,CINE COMEDIA 24H
+http://lindaflor.net:8080/555555/555555/16060
+#EXTINF:-1,CINE INFANTIL 24H
+http://lindaflor.net:8080/555555/555555/16063
+#EXTINF:-1,CINE TERROR 24H
+http://lindaflor.net:8080/555555/555555/16062
+#EXTINF:-1,CLARENCIO OTIMISTA 24H
+http://lindaflor.net:8080/555555/555555/15940
+#EXTINF:-1,CLASSICOS DO ROCK / FLASHBACK 24H
+http://lindaflor.net:8080/555555/555555/15941
+#EXTINF:-1,Corrida Maluca 24hs
+http://lindaflor.net:8080/555555/555555/12807
+#EXTINF:-1,CRISTIANO ARAUJO 24H
+http://lindaflor.net:8080/555555/555555/15935
+#EXTINF:-1,DANIEL O TIGRE 24H
+http://lindaflor.net:8080/555555/555555/16043
+#EXTINF:-1,DC TV 24HS
+http://lindaflor.net:8080/555555/555555/16070
+#EXTINF:-1,DE FRENTE COM GABI 24H
+http://lindaflor.net:8080/555555/555555/16055
+#EXTINF:-1,Denis o Pimentinha 24HS
+http://lindaflor.net:8080/555555/555555/432
+#EXTINF:-1,DENNIS O PIMENTINHA24H
+http://lindaflor.net:8080/555555/555555/15936
+#EXTINF:-1,Desenhos Biblicos 24HS
+http://lindaflor.net:8080/555555/555555/433
+#EXTINF:-1,Desenhos Disney 24HS
+http://lindaflor.net:8080/555555/555555/434
+#EXTINF:-1,DETENTOS DO RAP 24H
+http://lindaflor.net:8080/555555/555555/15937
+#EXTINF:-1,Digimon 24HS
+http://lindaflor.net:8080/555555/555555/435
+#EXTINF:-1,DOCUMENTARIO HISTORICO 24H
+http://lindaflor.net:8080/555555/555555/16053
+#EXTINF:-1,Dois Homens e Meio 24HS
+http://lindaflor.net:8080/555555/555555/436
+#EXTINF:-1,Doug 24HS
+http://lindaflor.net:8080/555555/555555/437
+#EXTINF:-1,DOUG FUNNIE 24H
+http://lindaflor.net:8080/555555/555555/15908
+#EXTINF:-1,DRAGON BALL  Z 24H
+http://lindaflor.net:8080/555555/555555/15909
+#EXTINF:-1,DRAGON BALL 24HS
+http://lindaflor.net:8080/555555/555555/438
+#EXTINF:-1,DRAGON BALL SUPER 24HS
+http://lindaflor.net:8080/555555/555555/439
+#EXTINF:-1,DRAGON BALL Z 24HS
+http://lindaflor.net:8080/555555/555555/440
+#EXTINF:-1,EDSON E HUDSON 24H
+http://lindaflor.net:8080/555555/555555/15934
+#EXTINF:-1,EM NOME DO AMOR 24H
+http://lindaflor.net:8080/555555/555555/16059
+#EXTINF:-1,ERA DO GELO 24H
+http://lindaflor.net:8080/555555/555555/16067
+#EXTINF:-1,EU A PATROA E AS CRIANCAS 24H
+http://lindaflor.net:8080/555555/555555/15928
+#EXTINF:-1,Eu a Patroa e as Crianças 24HS
+http://lindaflor.net:8080/555555/555555/441
+#EXTINF:-1,FAISCA E FUMACA 24H
+http://lindaflor.net:8080/555555/555555/15929
+#EXTINF:-1,FELIPE ARAUJO 24H
+http://lindaflor.net:8080/555555/555555/15930
+#EXTINF:-1,FESTIVAL MPB 1967 24H
+http://lindaflor.net:8080/555555/555555/15931
+#EXTINF:-1,FILMES ANIMAÇÃO 24HS
+http://lindaflor.net:8080/555555/555555/16079
+#EXTINF:-1,FILMES Ação 24HS
+http://lindaflor.net:8080/555555/555555/16078
+#EXTINF:-1,FILMES CLASSICOS 24HS
+http://lindaflor.net:8080/555555/555555/16077
+#EXTINF:-1,Filmes Comedia 24HS
+http://lindaflor.net:8080/555555/555555/16076
+#EXTINF:-1,FILMES DENZEL WASHINGTON 24HS
+http://lindaflor.net:8080/555555/555555/16075
+#EXTINF:-1,FILMES THRILLER/TERROR 24HS
+http://lindaflor.net:8080/555555/555555/16074
+#EXTINF:-1,FILMES WESTERN 24HS
+http://lindaflor.net:8080/555555/555555/16069
+#EXTINF:-1,FITNESS UM_TV 24HS
+http://lindaflor.net:8080/555555/555555/16085
+#EXTINF:-1,Formiga Atómica 24HS
+http://lindaflor.net:8080/555555/555555/442
+#EXTINF:-1,FUTURAMA 24H
+http://lindaflor.net:8080/555555/555555/15924
+#EXTINF:-1,GABI MARTINS LIVE 24H
+http://lindaflor.net:8080/555555/555555/15925
+#EXTINF:-1,GAL COSTA 24H
+http://lindaflor.net:8080/555555/555555/15926
+#EXTINF:-1,GALINHA PINTADINHA 24H
+http://lindaflor.net:8080/555555/555555/15927
+#EXTINF:-1,Galinha Pintadinha 24HS
+http://lindaflor.net:8080/555555/555555/443
+#EXTINF:-1,GARFIELD 24H
+http://lindaflor.net:8080/555555/555555/16039
+#EXTINF:-1,GOSPEL 24H
+http://lindaflor.net:8080/555555/555555/15950
+#EXTINF:-1,Guardiões da Galaxia 24HS
+http://lindaflor.net:8080/555555/555555/444
+#EXTINF:-1,GUSTAVO LIMA AS MELHORES 24H
+http://lindaflor.net:8080/555555/555555/16044
+#EXTINF:-1,HANGAR 110 HARDCORE 24H
+http://lindaflor.net:8080/555555/555555/16052
+#EXTINF:-1,Harry Potter Live 24HS
+http://lindaflor.net:8080/555555/555555/16097
+#EXTINF:-1,HE-MAN 24H
+http://lindaflor.net:8080/555555/555555/15919
+#EXTINF:-1,He-Man 24HS
+http://lindaflor.net:8080/555555/555555/445
+#EXTINF:-1,HENRIQUE E JULIANO 24H
+http://lindaflor.net:8080/555555/555555/15920
+#EXTINF:-1,Historias Disney 24HS
+http://lindaflor.net:8080/555555/555555/447
+#EXTINF:-1,HOMEM ARANHA 24HS
+http://lindaflor.net:8080/555555/555555/448
+#EXTINF:-1,Homem de Ferro 24HS
+http://lindaflor.net:8080/555555/555555/449
+#EXTINF:-1,HOMEMS DE PRETO 24HS
+http://lindaflor.net:8080/555555/555555/450
+#EXTINF:-1,HOMEN ARANHA DESENHO 24H
+http://lindaflor.net:8080/555555/555555/15918
+#EXTINF:-1,Hércules 24HS
+http://lindaflor.net:8080/555555/555555/446
+#EXTINF:-1,IBIZA SUMMER MIX HITS 24H
+http://lindaflor.net:8080/555555/555555/16051
+#EXTINF:-1,Incrível Hulk 24HS
+http://lindaflor.net:8080/555555/555555/451
+#EXTINF:-1,IRMAO DO JOREL 24H
+http://lindaflor.net:8080/555555/555555/15907
+#EXTINF:-1,Jack-Chan 24HS
+http://lindaflor.net:8080/555555/555555/452
+#EXTINF:-1,Jaspion 24HS
+http://lindaflor.net:8080/555555/555555/453
+#EXTINF:-1,JERRY SMITH 24H
+http://lindaflor.net:8080/555555/555555/15910
+#EXTINF:-1,JIRAYA 24H
+http://lindaflor.net:8080/555555/555555/15911
+#EXTINF:-1,JIRAYA O Incrível Ninja 24HS
+http://lindaflor.net:8080/555555/555555/454
+#EXTINF:-1,JO SOARES 24H
+http://lindaflor.net:8080/555555/555555/15912
+#EXTINF:-1,JOHNNY TEST 24H
+http://lindaflor.net:8080/555555/555555/16038
+#EXTINF:-1,JORGE E MATEUS 24H
+http://lindaflor.net:8080/555555/555555/15913
+#EXTINF:-1,JOVENS TITANS 24H
+http://lindaflor.net:8080/555555/555555/15914
+#EXTINF:-1,Kenan e Kel 24HS
+http://lindaflor.net:8080/555555/555555/455
+#EXTINF:-1,KLB 24H
+http://lindaflor.net:8080/555555/555555/15915
+#EXTINF:-1,LABORATORIO DE DEXTER 24H
+http://lindaflor.net:8080/555555/555555/16042
+#EXTINF:-1,LADYBUG 24H
+http://lindaflor.net:8080/555555/555555/16046
+#EXTINF:-1,LAUANA PRADO 24H
+http://lindaflor.net:8080/555555/555555/15916
+#EXTINF:-1,LEO SANTANA 24H
+http://lindaflor.net:8080/555555/555555/15917
+#EXTINF:-1,Liga da Justica 24hs
+http://lindaflor.net:8080/555555/555555/7032
+#EXTINF:-1,LUCCAS NETO 24H
+http://lindaflor.net:8080/555555/555555/15905
+#EXTINF:-1,LULUZINHA 24H
+http://lindaflor.net:8080/555555/555555/15906
+#EXTINF:-1,Luluzinha 24HS
+http://lindaflor.net:8080/555555/555555/456
+#EXTINF:-1,MANEVA SHOW 24H
+http://lindaflor.net:8080/555555/555555/15898
+#EXTINF:-1,MANO BROW DOCUMENTARIO 24H
+http://lindaflor.net:8080/555555/555555/15899
+#EXTINF:-1,MARATONA TOKOSATSU 24H
+http://lindaflor.net:8080/555555/555555/16037
+#EXTINF:-1,MARIA BETHANIA 24H
+http://lindaflor.net:8080/555555/555555/15900
+#EXTINF:-1,MARILIA MENDONCA 24H
+http://lindaflor.net:8080/555555/555555/15901
+#EXTINF:-1,MARILIA MENDONCA 24H
+http://lindaflor.net:8080/555555/555555/15902
+#EXTINF:-1,MARSHA E O URSO 24H
+http://lindaflor.net:8080/555555/555555/15903
+#EXTINF:-1,MARSUPILAMI 24H
+http://lindaflor.net:8080/555555/555555/16041
+#EXTINF:-1,Marvel 2 24HS
+http://lindaflor.net:8080/555555/555555/16082
+#EXTINF:-1,Marvel 24HS
+http://lindaflor.net:8080/555555/555555/16083
+#EXTINF:-1,MATHEUS E KAUAN 24H
+http://lindaflor.net:8080/555555/555555/15904
+#EXTINF:-1,Medabots 24HS
+http://lindaflor.net:8080/555555/555555/457
+#EXTINF:-1,MegaMan 24HS
+http://lindaflor.net:8080/555555/555555/458
+#EXTINF:-1,MEU AMIGAOZAO IURY E GOLIAS 24H
+http://lindaflor.net:8080/555555/555555/15894
+#EXTINF:-1,MICKEY MOUSE 24H
+http://lindaflor.net:8080/555555/555555/16045
+#EXTINF:-1,MORANGUINHO 24H
+http://lindaflor.net:8080/555555/555555/15895
+#EXTINF:-1,Mortal Kombat 24HS
+http://lindaflor.net:8080/555555/555555/459
+#EXTINF:-1,MOTIVACIONAL 24H
+http://lindaflor.net:8080/555555/555555/16054
+#EXTINF:-1,MR BEAN 24H
+http://lindaflor.net:8080/555555/555555/15896
+#EXTINF:-1,Mr.Ben 24HS
+http://lindaflor.net:8080/555555/555555/460
+#EXTINF:-1,NAIARA AZEVEDO 24H
+http://lindaflor.net:8080/555555/555555/15897
+#EXTINF:-1,NARUTO 24HS
+http://lindaflor.net:8080/555555/555555/461
+#EXTINF:-1,Naruto Shippuden DUB 24HS
+http://lindaflor.net:8080/555555/555555/462
+#EXTINF:-1,Netflix 24HS
+http://lindaflor.net:8080/555555/555555/16081
+#EXTINF:-1,O BICHO VAI PEGAR 24H
+http://lindaflor.net:8080/555555/555555/15892
+#EXTINF:-1,O Fantástico Mundo de Bobby 24HS
+http://lindaflor.net:8080/555555/555555/463
+#EXTINF:-1,O INSPETOR 24HS
+http://lindaflor.net:8080/555555/555555/464
+#EXTINF:-1,O MASKARA 24HS
+http://lindaflor.net:8080/555555/555555/465
+#EXTINF:-1,O Show da Luna 24H
+http://lindaflor.net:8080/555555/555555/15893
+#EXTINF:-1,Os Anjinhos - Rugrats 24HS
+http://lindaflor.net:8080/555555/555555/466
+#EXTINF:-1,OS CAVALEIROS DO ZODIACO 24HS
+http://lindaflor.net:8080/555555/555555/467
+#EXTINF:-1,OS FLINTSTONES 24HS
+http://lindaflor.net:8080/555555/555555/468
+#EXTINF:-1,Os Simpsons 24H
+http://lindaflor.net:8080/555555/555555/15888
+#EXTINF:-1,OS SIMPSONS 24HS
+http://lindaflor.net:8080/555555/555555/469
+#EXTINF:-1,Os Vingadores 24HS
+http://lindaflor.net:8080/555555/555555/470
+#EXTINF:-1,PADRINHOS MAGICOS 24H
+http://lindaflor.net:8080/555555/555555/15889
+#EXTINF:-1,PAGODE 24H
+http://lindaflor.net:8080/555555/555555/15890
+#EXTINF:-1,PANTERA COR DE ROSA 24H
+http://lindaflor.net:8080/555555/555555/15891
+#EXTINF:-1,Papa-Léguas 24HS
+http://lindaflor.net:8080/555555/555555/471
+#EXTINF:-1,PATATI PATATA 24H
+http://lindaflor.net:8080/555555/555555/15880
+#EXTINF:-1,Pato Donald e sua turma 24H
+http://lindaflor.net:8080/555555/555555/15881
+#EXTINF:-1,PATRULHA CANINA 24H
+http://lindaflor.net:8080/555555/555555/15882
+#EXTINF:-1,PATRULHA DO CONSUMIDOR 24H
+http://lindaflor.net:8080/555555/555555/15883
+#EXTINF:-1,PEGADINHAS 2 24HS
+http://lindaflor.net:8080/555555/555555/16071
+#EXTINF:-1,PEGADINHAS 24HS
+http://lindaflor.net:8080/555555/555555/16072
+#EXTINF:-1,Peopleareawsome 24HS
+http://lindaflor.net:8080/555555/555555/16095
+#EXTINF:-1,PEPPA PIG 24H
+http://lindaflor.net:8080/555555/555555/15884
+#EXTINF:-1,Peppa Pig 24HS
+http://lindaflor.net:8080/555555/555555/472
+#EXTINF:-1,PERICLES LIVE 24H
+http://lindaflor.net:8080/555555/555555/15885
+#EXTINF:-1,PERNALONGA 24HS
+http://lindaflor.net:8080/555555/555555/473
+#EXTINF:-1,Phineas e Ferb 24HS
+http://lindaflor.net:8080/555555/555555/474
+#EXTINF:-1,PIADAS PATRICK MAIA 24H
+http://lindaflor.net:8080/555555/555555/16064
+#EXTINF:-1,PICA PAU 24H
+http://lindaflor.net:8080/555555/555555/15886
+#EXTINF:-1,PICA PAU 24HS
+http://lindaflor.net:8080/555555/555555/475
+#EXTINF:-1,Pink-e-Cerebro 24HS
+http://lindaflor.net:8080/555555/555555/476
+#EXTINF:-1,PJ MASKS 24H
+http://lindaflor.net:8080/555555/555555/15887
+#EXTINF:-1,Play4Fun 24HS
+http://lindaflor.net:8080/555555/555555/16093
+#EXTINF:-1,PlayConcertos 24HS
+http://lindaflor.net:8080/555555/555555/16087
+#EXTINF:-1,PlayDjs 24HS
+http://lindaflor.net:8080/555555/555555/16088
+#EXTINF:-1,PlayKaraoke 24HS
+http://lindaflor.net:8080/555555/555555/16094
+#EXTINF:-1,PlaySeries 24HS
+http://lindaflor.net:8080/555555/555555/16092
+#EXTINF:-1,POCOYO 24H
+http://lindaflor.net:8080/555555/555555/15877
+#EXTINF:-1,POCOYO 24hs
+http://lindaflor.net:8080/555555/555555/15878
+#EXTINF:-1,POKEMON 24HS
+http://lindaflor.net:8080/555555/555555/477
+#EXTINF:-1,POLICIA 24H
+http://lindaflor.net:8080/555555/555555/15879
+#EXTINF:-1,Popeye O Marinheiro 24HS
+http://lindaflor.net:8080/555555/555555/478
+#EXTINF:-1,PROGRAMA LIVRE 24H
+http://lindaflor.net:8080/555555/555555/15872
+#EXTINF:-1,QUEEN 24H
+http://lindaflor.net:8080/555555/555555/15873
+#EXTINF:-1,QUEEN DOCUMENTARIO 24H
+http://lindaflor.net:8080/555555/555555/15874
+#EXTINF:-1,RACIONAIS CONECTANDO QUEBRADAS 24H
+http://lindaflor.net:8080/555555/555555/15875
+#EXTINF:-1,RADIO MANIA 24H
+http://lindaflor.net:8080/555555/555555/15876
+#EXTINF:-1,Rambo 24HS
+http://lindaflor.net:8080/555555/555555/479
+#EXTINF:-1,REI LEAO 24H
+http://lindaflor.net:8080/555555/555555/15868
+#EXTINF:-1,RESIDENT EVIL 24H
+http://lindaflor.net:8080/555555/555555/16032
+#EXTINF:-1,ROCKGOL 24H
+http://lindaflor.net:8080/555555/555555/16058
+#EXTINF:-1,ROUPA NOVA 24H
+http://lindaflor.net:8080/555555/555555/15869
+#EXTINF:-1,Rádio Hunter.FM - Sertanejo ao vivo
+http://lindaflor.net:8080/555555/555555/3206
+#EXTINF:-1,SABADAO SERTANEJO 24H
+http://lindaflor.net:8080/555555/555555/15870
+#EXTINF:-1,SAMPA CREW 24H
+http://lindaflor.net:8080/555555/555555/15871
+#EXTINF:-1,Scooby-Doo 24HS
+http://lindaflor.net:8080/555555/555555/480
+#EXTINF:-1,SERIES 24HS
+http://lindaflor.net:8080/555555/555555/16080
+#EXTINF:-1,SERTANEJO 24H
+http://lindaflor.net:8080/555555/555555/16049
+#EXTINF:-1,SHARK TANK 24H
+http://lindaflor.net:8080/555555/555555/15864
+#EXTINF:-1,SHE-RA 24H
+http://lindaflor.net:8080/555555/555555/15865
+#EXTINF:-1,SHOW PIXOTE 24H
+http://lindaflor.net:8080/555555/555555/15866
+#EXTINF:-1,SIMONE E SIMARIA 24H
+http://lindaflor.net:8080/555555/555555/15867
+#EXTINF:-1,Smallville 24HS
+http://lindaflor.net:8080/555555/555555/481
+#EXTINF:-1,Sobrenatural 24HS
+http://lindaflor.net:8080/555555/555555/482
+#EXTINF:-1,South Park 24HS
+http://lindaflor.net:8080/555555/555555/483
+#EXTINF:-1,STAND'UP 24H
+http://lindaflor.net:8080/555555/555555/15861
+#EXTINF:-1,STARWARS 24HS
+http://lindaflor.net:8080/555555/555555/16073
+#EXTINF:-1,STEVE JOBS 24H
+http://lindaflor.net:8080/555555/555555/16066
+#EXTINF:-1,STEVEN SEAGAL 24HS
+http://lindaflor.net:8080/555555/555555/16101
+#EXTINF:-1,STREET FIGHTERS 24H
+http://lindaflor.net:8080/555555/555555/16035
+#EXTINF:-1,STRONG BY ZUMBA 24HS
+http://lindaflor.net:8080/555555/555555/16102
+#EXTINF:-1,SUPER CAMPEOES 24H
+http://lindaflor.net:8080/555555/555555/15862
+#EXTINF:-1,SUPER CHOQUE 24H
+http://lindaflor.net:8080/555555/555555/15863
+#EXTINF:-1,Superman 24HS
+http://lindaflor.net:8080/555555/555555/485
+#EXTINF:-1,SYLVESTER STALLONE 24HS
+http://lindaflor.net:8080/555555/555555/16068
+#EXTINF:-1,TARTARUGAS NINJAS 24HS
+http://lindaflor.net:8080/555555/555555/486
+#EXTINF:-1,THE CHOSEN 24H
+http://lindaflor.net:8080/555555/555555/16065
+#EXTINF:-1,THE KING OF FIGHTER 24H
+http://lindaflor.net:8080/555555/555555/16033
+#EXTINF:-1,THE NOITE DANILO GENTILI 24H
+http://lindaflor.net:8080/555555/555555/15858
+#EXTINF:-1,TheVoice 24HS
+http://lindaflor.net:8080/555555/555555/16086
+#EXTINF:-1,Thundercats 24HS
+http://lindaflor.net:8080/555555/555555/487
+#EXTINF:-1,TIM MAIA 24H
+http://lindaflor.net:8080/555555/555555/15859
+#EXTINF:-1,TIMAO E PUMBA 24HS
+http://lindaflor.net:8080/555555/555555/488
+#EXTINF:-1,TINKER BEEL 24H
+http://lindaflor.net:8080/555555/555555/15860
+#EXTINF:-1,TO DE GRACA 24H
+http://lindaflor.net:8080/555555/555555/16036
+#EXTINF:-1,TODO MUNDO ODEIA O CHRIS 24HS
+http://lindaflor.net:8080/555555/555555/489
+#EXTINF:-1,Tom & Jerry 24HS
+http://lindaflor.net:8080/555555/555555/490
+#EXTINF:-1,TOM E JERRY 24H
+http://lindaflor.net:8080/555555/555555/16040
+#EXTINF:-1,Tomorowland 24HS
+http://lindaflor.net:8080/555555/555555/16089
+#EXTINF:-1,TOP FUNK 24H
+http://lindaflor.net:8080/555555/555555/16050
+#EXTINF:-1,TOP HITS JOVEN PAM 24H
+http://lindaflor.net:8080/555555/555555/15853
+#EXTINF:-1,TOP LATINO
+http://lindaflor.net:8080/555555/555555/15854
+#EXTINF:-1,TOPA TUDO POR DINHEIRO 24H
+http://lindaflor.net:8080/555555/555555/16057
+#EXTINF:-1,TRANSFORMERS 24H
+http://lindaflor.net:8080/555555/555555/15855
+#EXTINF:-1,TREINE EM CASA 24HS
+http://lindaflor.net:8080/555555/555555/16103
+#EXTINF:-1,TRES ESPIAS DEMAIS 24H
+http://lindaflor.net:8080/555555/555555/15856
+#EXTINF:-1,Tres Espias Demais 24HS
+http://lindaflor.net:8080/555555/555555/491
+#EXTINF:-1,TRILHA SONORA DO GUETO 24H
+http://lindaflor.net:8080/555555/555555/15857
+#EXTINF:-1,UFOS & ALIENIGENAS 24h
+http://lindaflor.net:8080/555555/555555/16029
+#EXTINF:-1,UM MALUCO NO PEDAÇO 24HS
+http://lindaflor.net:8080/555555/555555/492
+#EXTINF:-1,Uma Família da Pesada 24HS
+http://lindaflor.net:8080/555555/555555/493
+#EXTINF:-1,Ursinhos Carinhos 24HS
+http://lindaflor.net:8080/555555/555555/494
+#EXTINF:-1,VELOZES E FURIOSOS 24H
+http://lindaflor.net:8080/555555/555555/15852
+#EXTINF:-1,VINGADORES Animação 24HS
+http://lindaflor.net:8080/555555/555555/16084
+#EXTINF:-1,VIOLA MINHA VIOLA 24H
+http://lindaflor.net:8080/555555/555555/16048
+#EXTINF:-1,WESLEY SAFADAO 24H
+http://lindaflor.net:8080/555555/555555/15844
+#EXTINF:-1,X-MAN 24HS
+http://lindaflor.net:8080/555555/555555/495
+#EXTINF:-1,Xena 24HS
+http://lindaflor.net:8080/555555/555555/496
+#EXTINF:-1,YU-GI-OH 24HS
+http://lindaflor.net:8080/555555/555555/497
+#EXTINF:-1,YU-YU-Hakusho 24HS
+http://lindaflor.net:8080/555555/555555/498
+#EXTINF:-1,ZE NETO E CRISTIANO 24H
+http://lindaflor.net:8080/555555/555555/15845
+#EXTINF:-1,[24H] CAVALEIRO DO ZODIACO
+http://lindaflor.net:8080/555555/555555/15814
+#EXTINF:-1,[24H] CAVERNA DO DRAGAO
+http://lindaflor.net:8080/555555/555555/15815
+#EXTINF:-1,[24H] CHAVES
+http://lindaflor.net:8080/555555/555555/15816
+#EXTINF:-1,[24H] EU A PATROA E AS CRIANCAS
+http://lindaflor.net:8080/555555/555555/15817
+#EXTINF:-1,[24H] GALINHA PINTADINHA
+http://lindaflor.net:8080/555555/555555/15818
+#EXTINF:-1,[24H] HOMEM ARANHA
+http://lindaflor.net:8080/555555/555555/15819
+#EXTINF:-1,[24H] JONNY QUEST
+http://lindaflor.net:8080/555555/555555/15820
+#EXTINF:-1,[24H] JOSE REI DO EGITO
+http://lindaflor.net:8080/555555/555555/15821
+#EXTINF:-1,[24H] NARUTO
+http://lindaflor.net:8080/555555/555555/15822
+#EXTINF:-1,[24H] PATRULHA CANINA
+http://lindaflor.net:8080/555555/555555/7259
+#EXTINF:-1,[24H] PATRULHA CANINA
+http://lindaflor.net:8080/555555/555555/15823
+#EXTINF:-1,[24H] PEPPA PIG
+http://lindaflor.net:8080/555555/555555/15824
+#EXTINF:-1,[24H] SCOOBY DOO
+http://lindaflor.net:8080/555555/555555/15825
+#EXTINF:-1,[24H] TODO MUNDO ODEIA O CHRIS
+http://lindaflor.net:8080/555555/555555/15826
+#EXTINF:-1,[24H] TOM E JERRY
+http://lindaflor.net:8080/555555/555555/15827
+#EXTINF:-1,[24H] VAI QUE COLA
+http://lindaflor.net:8080/555555/555555/15828
+#EXTINF:-1,Radio Gospel Life
+http://lindaflor.net:8080/555555/555555/8651
+#EXTINF:-1,Radio Studio Souto - Sertanejo Universitario ao vivo
+http://lindaflor.net:8080/555555/555555/3772
+#EXTINF:-1,Rádio 1.FM Samba Hits Brazil ao vivo
+http://lindaflor.net:8080/555555/555555/3649
+#EXTINF:-1,Rádio 104 FM ao vivo
+http://lindaflor.net:8080/555555/555555/3298
+#EXTINF:-1,Rádio 105 FM ao vivo
+http://lindaflor.net:8080/555555/555555/3217
+#EXTINF:-1,Rádio 107 FM Pinda
+http://lindaflor.net:8080/555555/555555/8644
+#EXTINF:-1,Rádio 12 Gospel
+http://lindaflor.net:8080/555555/555555/8641
+#EXTINF:-1,Rádio 80 FM ao vivo
+http://lindaflor.net:8080/555555/555555/3134
+#EXTINF:-1,Rádio 80 Hits FM ao vivo
+http://lindaflor.net:8080/555555/555555/3644
+#EXTINF:-1,Rádio 80's Best ao vivo
+http://lindaflor.net:8080/555555/555555/3226
+#EXTINF:-1,Rádio 92 FM ao vivo
+http://lindaflor.net:8080/555555/555555/3288
+#EXTINF:-1,Rádio 93 FM ao vivo
+http://lindaflor.net:8080/555555/555555/3259
+#EXTINF:-1,Rádio 96 FM Natal ao vivo
+http://lindaflor.net:8080/555555/555555/3656
+#EXTINF:-1,Rádio 98 FM ao vivo
+http://lindaflor.net:8080/555555/555555/3529
+#EXTINF:-1,Rádio 98 FM Curitiba ao vivo
+http://lindaflor.net:8080/555555/555555/3284
+#EXTINF:-1,Rádio 98FM ao vivo
+http://lindaflor.net:8080/555555/555555/3221
+#EXTINF:-1,Rádio 99.5 FM ao vivo
+http://lindaflor.net:8080/555555/555555/3530
+#EXTINF:-1,Rádio 99FM ao vivo
+http://lindaflor.net:8080/555555/555555/3503
+#EXTINF:-1,Rádio A Tarde FM ao vivo
+http://lindaflor.net:8080/555555/555555/3322
+#EXTINF:-1,Rádio Alegria Porto Alegre ao vivo
+http://lindaflor.net:8080/555555/555555/3342
+#EXTINF:-1,Rádio AloSertão Sertaneja ao vivo
+http://lindaflor.net:8080/555555/555555/3266
+#EXTINF:-1,Rádio Alpha FM 101.7 ao vivo
+http://lindaflor.net:8080/555555/555555/3119
+#EXTINF:-1,Rádio Alpha FM Goiânia ao vivo
+http://lindaflor.net:8080/555555/555555/3303
+#EXTINF:-1,Rádio Alvorada FM 94.9 ao vivo
+http://lindaflor.net:8080/555555/555555/3232
+#EXTINF:-1,Rádio Antena 1 FM ao vivo
+http://lindaflor.net:8080/555555/555555/3111
+#EXTINF:-1,Rádio Antena 1 Rio ao vivo
+http://lindaflor.net:8080/555555/555555/3207
+#EXTINF:-1,Rádio Aparecida ao vivo
+http://lindaflor.net:8080/555555/555555/3511
+#EXTINF:-1,Rádio Arapuan ao vivo
+http://lindaflor.net:8080/555555/555555/3526
+#EXTINF:-1,Rádio Arena Sertaneja ao vivo
+http://lindaflor.net:8080/555555/555555/3485
+#EXTINF:-1,Rádio Atividade Espírita ao vivo
+http://lindaflor.net:8080/555555/555555/3344
+#EXTINF:-1,Rádio Atlântico Sul FM 105.7 ao vivo
+http://lindaflor.net:8080/555555/555555/3520
+#EXTINF:-1,Rádio Atlântida FM Florianópolis ao vivo
+http://lindaflor.net:8080/555555/555555/3326
+#EXTINF:-1,Rádio Atlântida FM Porto Alegre ao vivo
+http://lindaflor.net:8080/555555/555555/3216
+#EXTINF:-1,Rádio Bahia FM 88.7 ao vivo
+http://lindaflor.net:8080/555555/555555/3277
+#EXTINF:-1,Rádio Band FM 96.1 FM ao vivo
+http://lindaflor.net:8080/555555/555555/3271
+#EXTINF:-1,Rádio Band FM ao vivo
+http://lindaflor.net:8080/555555/555555/3142
+#EXTINF:-1,Rádio Band News FM - 101.7 Fortaleza ao vivo
+http://lindaflor.net:8080/555555/555555/3640
+#EXTINF:-1,Rádio Band News FM - 89.5 Belo Horizonte ao vivo
+http://lindaflor.net:8080/555555/555555/3280
+#EXTINF:-1,Rádio Band News FM - 90.3 RJ ao vivo
+http://lindaflor.net:8080/555555/555555/3210
+#EXTINF:-1,Rádio Band News FM - 90.5 Brasília ao vivo
+http://lindaflor.net:8080/555555/555555/3309
+#EXTINF:-1,Rádio Band News FM - 96.9 SP ao vivo
+http://lindaflor.net:8080/555555/555555/3114
+#EXTINF:-1,Rádio Band News FM - 99.1 Salvador ao vivo
+http://lindaflor.net:8080/555555/555555/3329
+#EXTINF:-1,Rádio Band News FM - 99.3 Porto Alegre ao vivo
+http://lindaflor.net:8080/555555/555555/3299
+#EXTINF:-1,Rádio Band News FM 96.3 Curitiba ao vivo
+http://lindaflor.net:8080/555555/555555/3328
+#EXTINF:-1,Rádio Band Vale ao vivo
+http://lindaflor.net:8080/555555/555555/3518
+#EXTINF:-1,Rádio Bandeirantes 1170 AM ao vivo
+http://lindaflor.net:8080/555555/555555/3307
+#EXTINF:-1,Rádio Bandeirantes 820 ao vivo
+http://lindaflor.net:8080/555555/555555/3523
+#EXTINF:-1,Rádio Bandeirantes ao vivo
+http://lindaflor.net:8080/555555/555555/3121
+#EXTINF:-1,Rádio Bossa Nova Brazil ao vivo
+http://lindaflor.net:8080/555555/555555/3229
+#EXTINF:-1,Rádio Brega ao vivo
+http://lindaflor.net:8080/555555/555555/3310
+#EXTINF:-1,Rádio Cabrito ao vivo
+http://lindaflor.net:8080/555555/555555/3515
+#EXTINF:-1,Rádio Café Viola Sertanejo Caipira ao vivo
+http://lindaflor.net:8080/555555/555555/3333
+#EXTINF:-1,Rádio Capital ao vivo
+http://lindaflor.net:8080/555555/555555/3224
+#EXTINF:-1,Rádio Catedral FM ao vivo
+http://lindaflor.net:8080/555555/555555/3335
+#EXTINF:-1,Rádio CBN Belo Horizonte ao vivo
+http://lindaflor.net:8080/555555/555555/3293
+#EXTINF:-1,Rádio CBN Brasília ao vivo
+http://lindaflor.net:8080/555555/555555/3331
+#EXTINF:-1,Rádio CBN Curitiba ao vivo
+http://lindaflor.net:8080/555555/555555/3355
+#EXTINF:-1,Rádio CBN Diário ao vivo
+http://lindaflor.net:8080/555555/555555/3512
+#EXTINF:-1,Rádio CBN João Pessoa ao vivo
+http://lindaflor.net:8080/555555/555555/3742
+#EXTINF:-1,Rádio CBN Recife ao vivo
+http://lindaflor.net:8080/555555/555555/3321
+#EXTINF:-1,Rádio CBN Rio de Janeiro ao vivo
+http://lindaflor.net:8080/555555/555555/3208
+#EXTINF:-1,Rádio CBN São Paulo ao vivo
+http://lindaflor.net:8080/555555/555555/3117
+#EXTINF:-1,Rádio CBN Vitória ao vivo
+http://lindaflor.net:8080/555555/555555/3658
+#EXTINF:-1,Rádio CDL 102.9 FM ao vivo
+http://lindaflor.net:8080/555555/555555/3497
+#EXTINF:-1,Rádio Cidade 100,1 ao vivo
+http://lindaflor.net:8080/555555/555555/3777
+#EXTINF:-1,Rádio Cidade 102.9 FM ao vivo
+http://lindaflor.net:8080/555555/555555/3218
+#EXTINF:-1,Rádio Cidade 99.1 FM ao vivo
+http://lindaflor.net:8080/555555/555555/3353
+#EXTINF:-1,Rádio Clube do Pará ao vivo
+http://lindaflor.net:8080/555555/555555/3482
+#EXTINF:-1,Rádio Clube FM - Brasília 105.5 ao vivo
+http://lindaflor.net:8080/555555/555555/3253
+#EXTINF:-1,Rádio Clube FM 105.1 ao vivo
+http://lindaflor.net:8080/555555/555555/3666
+#EXTINF:-1,Rádio Clube FM ao vivo
+http://lindaflor.net:8080/555555/555555/3338
+#EXTINF:-1,Rádio Coca-Cola FM ao vivo
+http://lindaflor.net:8080/555555/555555/3115
+#EXTINF:-1,Rádio Conquista FM ao vivo
+http://lindaflor.net:8080/555555/555555/3313
+#EXTINF:-1,Rádio Continental FM ao vivo
+http://lindaflor.net:8080/555555/555555/3306
+#EXTINF:-1,Rádio Cultura FM 103.3 ao vivo
+http://lindaflor.net:8080/555555/555555/3273
+#EXTINF:-1,Rádio de Jesus ao vivo
+http://lindaflor.net:8080/555555/555555/3489
+#EXTINF:-1,Rádio Deus é Amor ao vivo
+http://lindaflor.net:8080/555555/555555/3486
+#EXTINF:-1,Rádio Difusora 24h ao vivo
+http://lindaflor.net:8080/555555/555555/3504
+#EXTINF:-1,Rádio Difusora FM 97.1 ao vivo
+http://lindaflor.net:8080/555555/555555/3749
+#EXTINF:-1,Rádio Disney ao vivo
+http://lindaflor.net:8080/555555/555555/3209
+#EXTINF:-1,Rádio Diário FM 99.7 ao vivo
+http://lindaflor.net:8080/555555/555555/3491
+#EXTINF:-1,Rádio Diário FM ao vivo
+http://lindaflor.net:8080/555555/555555/3733
+#EXTINF:-1,Rádio Dumont FM ao vivo
+http://lindaflor.net:8080/555555/555555/3252
+#EXTINF:-1,Rádio Educadora FM 91.7 ao vivo
+http://lindaflor.net:8080/555555/555555/3292
+#EXTINF:-1,Rádio Eldorado FM 107.3 ao vivo
+http://lindaflor.net:8080/555555/555555/3263
+#EXTINF:-1,Rádio Eldorado FM ao vivo
+http://lindaflor.net:8080/555555/555555/3496
+#EXTINF:-1,Rádio Energia 97 FM ao vivo
+http://lindaflor.net:8080/555555/555555/3145
+#EXTINF:-1,Rádio Estereosom FM 99.9 ao vivo
+http://lindaflor.net:8080/555555/555555/3730
+#EXTINF:-1,Rádio Estilo FM ao vivo
+http://lindaflor.net:8080/555555/555555/3351
+#EXTINF:-1,Rádio Eurodance 90 ao vivo
+http://lindaflor.net:8080/555555/555555/3345
+#EXTINF:-1,Rádio Eurodance 90's - Dance Anos 90 ao vivo
+http://lindaflor.net:8080/555555/555555/3722
+#EXTINF:-1,Rádio Eurodance Mix ao vivo
+http://lindaflor.net:8080/555555/555555/3480
+#EXTINF:-1,Rádio Evangelizar 99.5 FM ao vivo
+http://lindaflor.net:8080/555555/555555/3724
+#EXTINF:-1,Rádio Evangélica FM 100.7 ao vivo
+http://lindaflor.net:8080/555555/555555/3628
+#EXTINF:-1,Rádio Extra FM ao vivo
+http://lindaflor.net:8080/555555/555555/3343
+#EXTINF:-1,Rádio Fanática FM ao vivo
+http://lindaflor.net:8080/555555/555555/3718
+#EXTINF:-1,Rádio Feliz FM São Paulo ao vivo
+http://lindaflor.net:8080/555555/555555/3290
+#EXTINF:-1,Rádio Flash Back Mix ao vivo
+http://lindaflor.net:8080/555555/555555/3334
+#EXTINF:-1,Rádio Flashback FM ao vivo
+http://lindaflor.net:8080/555555/555555/3276
+#EXTINF:-1,Rádio FM 89 ao vivo
+http://lindaflor.net:8080/555555/555555/3723
+#EXTINF:-1,Rádio FM 93.9 ao vivo
+http://lindaflor.net:8080/555555/555555/3500
+#EXTINF:-1,Rádio FM Gospel ao vivo
+http://lindaflor.net:8080/555555/555555/3745
+#EXTINF:-1,Rádio FM O Dia ao vivo
+http://lindaflor.net:8080/555555/555555/3138
+#EXTINF:-1,Rádio FM Sergipe ao vivo
+http://lindaflor.net:8080/555555/555555/3527
+#EXTINF:-1,Rádio FM Super ao vivo
+http://lindaflor.net:8080/555555/555555/3498
+#EXTINF:-1,Rádio Forró ao vivo
+http://lindaflor.net:8080/555555/555555/3506
+#EXTINF:-1,Rádio Forró Nordeste Jovem ao vivo
+http://lindaflor.net:8080/555555/555555/3513
+#EXTINF:-1,Rádio Forró Tradicional ao vivo
+http://lindaflor.net:8080/555555/555555/3720
+#EXTINF:-1,Rádio Gazeta FM ao vivo
+http://lindaflor.net:8080/555555/555555/3652
+#EXTINF:-1,Rádio Gaúcha ZH ao vivo
+http://lindaflor.net:8080/555555/555555/3116
+#EXTINF:-1,Rádio Geração Forro ao vivo
+http://lindaflor.net:8080/555555/555555/3715
+#EXTINF:-1,Rádio Geração Funk ao vivo
+http://lindaflor.net:8080/555555/555555/3261
+#EXTINF:-1,Rádio Geração Gospel ao vivo
+http://lindaflor.net:8080/555555/555555/3264
+#EXTINF:-1,Rádio Geração Hip-Hop Rap ao vivo
+http://lindaflor.net:8080/555555/555555/3272
+#EXTINF:-1,Rádio Geração MPB ao vivo
+http://lindaflor.net:8080/555555/555555/3501
+#EXTINF:-1,Rádio Geração Rock ao vivo
+http://lindaflor.net:8080/555555/555555/3363
+#EXTINF:-1,Rádio Geração Samba e Pagode ao vivo
+http://lindaflor.net:8080/555555/555555/3260
+#EXTINF:-1,Rádio Geração Sertanejo Universitário ao vivo
+http://lindaflor.net:8080/555555/555555/3219
+#EXTINF:-1,Rádio GFM Salvador ao vivo
+http://lindaflor.net:8080/555555/555555/3233
+#EXTINF:-1,Rádio Globo 104.3 FM ao vivo
+http://lindaflor.net:8080/555555/555555/3764
+#EXTINF:-1,Rádio Globo Recife ao vivo
+http://lindaflor.net:8080/555555/555555/3655
+#EXTINF:-1,Rádio Globo RJ ao vivo
+http://lindaflor.net:8080/555555/555555/3160
+#EXTINF:-1,Rádio Globo SP ao vivo
+http://lindaflor.net:8080/555555/555555/3231
+#EXTINF:-1,Rádio Gold Instrumental ao vivo
+http://lindaflor.net:8080/555555/555555/3289
+#EXTINF:-1,Rádio Gospel Cordeiro de Deus ao vivo
+http://lindaflor.net:8080/555555/555555/3507
+#EXTINF:-1,Rádio Gospel FM ao vivo
+http://lindaflor.net:8080/555555/555555/3254
+#EXTINF:-1,Rádio Gospel Hits ao vivo
+http://lindaflor.net:8080/555555/555555/3301
+#EXTINF:-1,Rádio Gospel Mais ao vivo
+http://lindaflor.net:8080/555555/555555/3499
+#EXTINF:-1,Rádio Gospel Mix ao vivo
+http://lindaflor.net:8080/555555/555555/3281
+#EXTINF:-1,Rádio Guaíba ao vivo
+http://lindaflor.net:8080/555555/555555/3235
+#EXTINF:-1,Rádio Igreja Batista Nacional
+http://lindaflor.net:8080/555555/555555/8645
+#EXTINF:-1,Rádio Inconfidência FM ao vivo
+http://lindaflor.net:8080/555555/555555/3495
+#EXTINF:-1,Rádio IPB
+http://lindaflor.net:8080/555555/555555/8646
+#EXTINF:-1,Rádio Itapema FM 102.3 ao vivo
+http://lindaflor.net:8080/555555/555555/3270
+#EXTINF:-1,Rádio Itapema FM 93.7 ao vivo
+http://lindaflor.net:8080/555555/555555/3304
+#EXTINF:-1,Rádio Itapoan FM 97.5 ao vivo
+http://lindaflor.net:8080/555555/555555/3287
+#EXTINF:-1,Rádio Itatiaia FM ao vivo
+http://lindaflor.net:8080/555555/555555/3161
+#EXTINF:-1,Rádio Jangadeiro FM 88.9 ao vivo
+http://lindaflor.net:8080/555555/555555/3325
+#EXTINF:-1,Rádio JB FM 99.9 ao vivo
+http://lindaflor.net:8080/555555/555555/3126
+#EXTINF:-1,Rádio Jornal ao vivo
+http://lindaflor.net:8080/555555/555555/3286
+#EXTINF:-1,Rádio Jovem Pan BH FM 99.1
+http://lindaflor.net:8080/555555/555555/7779
+#EXTINF:-1,Rádio Jovem Pan FM Brasília ao vivo
+http://lindaflor.net:8080/555555/555555/3340
+#EXTINF:-1,Rádio Jovem Pan FM Campinas ao vivo
+http://lindaflor.net:8080/555555/555555/3348
+#EXTINF:-1,Rádio Jovem Pan FM Curitiba ao vivo
+http://lindaflor.net:8080/555555/555555/3305
+#EXTINF:-1,Rádio Jovem Pan FM Goiânia ao vivo
+http://lindaflor.net:8080/555555/555555/3508
+#EXTINF:-1,Rádio Jovem Pan FM Itaperuna ao vivo
+http://lindaflor.net:8080/555555/555555/3623
+#EXTINF:-1,Rádio Jovem Pan FM Porto Alegre ao vivo
+http://lindaflor.net:8080/555555/555555/3339
+#EXTINF:-1,Rádio Jovem Pan FM Recife ao vivo
+http://lindaflor.net:8080/555555/555555/3502
+#EXTINF:-1,Rádio Jovem Pan FM Salvador ao vivo
+http://lindaflor.net:8080/555555/555555/3483
+#EXTINF:-1,Rádio Jovem Pan FM São José dos Campos ao vivo
+http://lindaflor.net:8080/555555/555555/3627
+#EXTINF:-1,Rádio Jovem Pan FM São Paulo ao vivo
+http://lindaflor.net:8080/555555/555555/3112
+#EXTINF:-1,Rádio Jovem Pan FM Vitória ao vivo
+http://lindaflor.net:8080/555555/555555/3613
+#EXTINF:-1,Rádio Jovem Pan News ao vivo
+http://lindaflor.net:8080/555555/555555/3158
+#EXTINF:-1,Rádio Jovem POP FM - EDM ao vivo
+http://lindaflor.net:8080/555555/555555/3510
+#EXTINF:-1,Rádio Jovem POP FM - Top 40/Hits ao vivo
+http://lindaflor.net:8080/555555/555555/3230
+#EXTINF:-1,Rádio Liberal FM ao vivo
+http://lindaflor.net:8080/555555/555555/3714
+#EXTINF:-1,Rádio Liberdade FM 92.9 ao vivo
+http://lindaflor.net:8080/555555/555555/3257
+#EXTINF:-1,Rádio Liberdade FM ao vivo
+http://lindaflor.net:8080/555555/555555/3349
+#EXTINF:-1,Rádio Liderança FM 94.3 ao vivo
+http://lindaflor.net:8080/555555/555555/3725
+#EXTINF:-1,Rádio Litoral FM - Vitória ao vivo
+http://lindaflor.net:8080/555555/555555/3352
+#EXTINF:-1,Rádio LUNA FM - Brasil ao vivo
+http://lindaflor.net:8080/555555/555555/3265
+#EXTINF:-1,Rádio Maanaim ao vivo
+http://lindaflor.net:8080/555555/555555/3614
+#EXTINF:-1,Rádio Mania ao vivo
+http://lindaflor.net:8080/555555/555555/3211
+#EXTINF:-1,Rádio Massa FM Curitiba ao vivo
+http://lindaflor.net:8080/555555/555555/3294
+#EXTINF:-1,Rádio Melodia FM (BR Only) ao vivo
+http://lindaflor.net:8080/555555/555555/3296
+#EXTINF:-1,Rádio Melody 94.1 FM ao vivo
+http://lindaflor.net:8080/555555/555555/3528
+#EXTINF:-1,Rádio Metropolitana 98.5 FM ao vivo
+http://lindaflor.net:8080/555555/555555/3113
+#EXTINF:-1,Rádio Metropolitana Funk ao vivo
+http://lindaflor.net:8080/555555/555555/3223
+#EXTINF:-1,Rádio Metropolitana Light ao vivo
+http://lindaflor.net:8080/555555/555555/3269
+#EXTINF:-1,Rádio Metropolitana Pop ao vivo
+http://lindaflor.net:8080/555555/555555/3212
+#EXTINF:-1,Rádio Metropolitana Sertanejo ao vivo
+http://lindaflor.net:8080/555555/555555/3122
+#EXTINF:-1,Rádio Metrópole 101.3 FM ao vivo
+http://lindaflor.net:8080/555555/555555/3300
+#EXTINF:-1,Rádio MGT Love Hits ao vivo
+http://lindaflor.net:8080/555555/555555/3282
+#EXTINF:-1,Rádio MGT Sertaneja ao vivo
+http://lindaflor.net:8080/555555/555555/3234
+#EXTINF:-1,Rádio Mix FM Porto Alegre ao vivo
+http://lindaflor.net:8080/555555/555555/3275
+#EXTINF:-1,Rádio Mix FM Rio ao vivo
+http://lindaflor.net:8080/555555/555555/3202
+#EXTINF:-1,Rádio MIX São Paulo - 106.3 FM 
+http://lindaflor.net:8080/555555/555555/3110
+#EXTINF:-1,Rádio Mood FM ao vivo
+http://lindaflor.net:8080/555555/555555/3327
+#EXTINF:-1,Rádio Mundial Radio ao vivo
+http://lindaflor.net:8080/555555/555555/3672
+#EXTINF:-1,Rádio Mundo Livre FM Curitiba ao vivo
+http://lindaflor.net:8080/555555/555555/3336
+#EXTINF:-1,Rádio Nacional Rio de Janeiro ao vivo
+http://lindaflor.net:8080/555555/555555/3647
+#EXTINF:-1,Rádio Nativa 102.7 FM ao vivo
+http://lindaflor.net:8080/555555/555555/3283
+#EXTINF:-1,Rádio Nativa FM - São José dos Campos ao vivo
+http://lindaflor.net:8080/555555/555555/3525
+#EXTINF:-1,Rádio Nativa FM - São Paulo ao vivo
+http://lindaflor.net:8080/555555/555555/3215
+#EXTINF:-1,Rádio Nativa FM Santa Maria ao vivo
+http://lindaflor.net:8080/555555/555555/3612
+#EXTINF:-1,Rádio Nova Brasil 104.7 Salvador ao vivo
+http://lindaflor.net:8080/555555/555555/3318
+#EXTINF:-1,Rádio Nova Brasil 89.5 RJ ao vivo
+http://lindaflor.net:8080/555555/555555/3297
+#EXTINF:-1,Rádio Nova Brasil 89.7 SP ao vivo
+http://lindaflor.net:8080/555555/555555/3152
+#EXTINF:-1,Rádio Nova Brasil 93.5 Aracaju ao vivo
+http://lindaflor.net:8080/555555/555555/3726
+#EXTINF:-1,Rádio Nova Brasil 94.3 Recife ao vivo
+http://lindaflor.net:8080/555555/555555/3262
+#EXTINF:-1,Rádio Nova Brasil FM ao vivo
+http://lindaflor.net:8080/555555/555555/3320
+#EXTINF:-1,Rádio Nova FM Campinas ao vivo
+http://lindaflor.net:8080/555555/555555/3317
+#EXTINF:-1,Rádio Pajuçara 103.7 FM ao vivo
+http://lindaflor.net:8080/555555/555555/3767
+#EXTINF:-1,Rádio Parada MPB ao vivo
+http://lindaflor.net:8080/555555/555555/3354
+#EXTINF:-1,Rádio Paranaíba FM ao vivo
+http://lindaflor.net:8080/555555/555555/3479
+#EXTINF:-1,Rádio Perfeito Louvor
+http://lindaflor.net:8080/555555/555555/8654
+#EXTINF:-1,Rádio Piatã FM 94.3 ao vivo
+http://lindaflor.net:8080/555555/555555/3295
+#EXTINF:-1,Rádio Planeta 80 ao vivo
+http://lindaflor.net:8080/555555/555555/3493
+#EXTINF:-1,Rádio Planeta Reggae ao vivo
+http://lindaflor.net:8080/555555/555555/3291
+#EXTINF:-1,Rádio Portal Forró ao vivo
+http://lindaflor.net:8080/555555/555555/3759
+#EXTINF:-1,Rádio Prata FM ao vivo
+http://lindaflor.net:8080/555555/555555/3487
+#EXTINF:-1,Rádio Rauland FM ao vivo
+http://lindaflor.net:8080/555555/555555/3516
+#EXTINF:-1,Rádio Recife FM ao vivo
+http://lindaflor.net:8080/555555/555555/3350
+#EXTINF:-1,Rádio Rede Aleluia ao vivo
+http://lindaflor.net:8080/555555/555555/3225
+#EXTINF:-1,Rádio Reggae ao vivo
+http://lindaflor.net:8080/555555/555555/3488
+#EXTINF:-1,Rádio Regional FM 106.5 ao vivo
+http://lindaflor.net:8080/555555/555555/3629
+#EXTINF:-1,Rádio Rio de Janeiro 1400 AM ao vivo
+http://lindaflor.net:8080/555555/555555/3509
+#EXTINF:-1,Rádio Rock FM Rio ao vivo
+http://lindaflor.net:8080/555555/555555/3324
+#EXTINF:-1,Rádio Rock Lovers ao vivo
+http://lindaflor.net:8080/555555/555555/3302
+#EXTINF:-1,Rádio Romantismo Sertanejo ao vivo
+http://lindaflor.net:8080/555555/555555/3751
+#EXTINF:-1,Rádio Romântica FM ao vivo
+http://lindaflor.net:8080/555555/555555/3356
+#EXTINF:-1,Rádio RPC FM ao vivo
+http://lindaflor.net:8080/555555/555555/3332
+#EXTINF:-1,Rádio S.U. ao vivo
+http://lindaflor.net:8080/555555/555555/3357
+#EXTINF:-1,Rádio Samba dos Gêmeos ao vivo
+http://lindaflor.net:8080/555555/555555/3653
+#EXTINF:-1,Rádio SAUDADE RIO ao vivo
+http://lindaflor.net:8080/555555/555555/3505
+#EXTINF:-1,Rádio Sertaneja Pop ao vivo
+http://lindaflor.net:8080/555555/555555/3315
+#EXTINF:-1,Rádio Sertaneja Raiz ao vivo
+http://lindaflor.net:8080/555555/555555/3255
+#EXTINF:-1,Rádio Sky Gospel
+http://lindaflor.net:8080/555555/555555/8623
+#EXTINF:-1,Rádio Sociedade ao vivo
+http://lindaflor.net:8080/555555/555555/3316
+#EXTINF:-1,Rádio Soft Music ao vivo
+http://lindaflor.net:8080/555555/555555/3360
+#EXTINF:-1,Rádio Som Sertanejo ao vivo
+http://lindaflor.net:8080/555555/555555/3279
+#EXTINF:-1,Rádio Sul America Paradiso FM ao vivo
+http://lindaflor.net:8080/555555/555555/3227
+#EXTINF:-1,Rádio Super Notícia FM ao vivo
+http://lindaflor.net:8080/555555/555555/3319
+#EXTINF:-1,Rádio Só Flashback ao vivo
+http://lindaflor.net:8080/555555/555555/3258
+#EXTINF:-1,Rádio Só Kakarecos Disco ao vivo
+http://lindaflor.net:8080/555555/555555/3762
+#EXTINF:-1,Rádio Terra FM ao vivo
+http://lindaflor.net:8080/555555/555555/3347
+#EXTINF:-1,Rádio Top FM 104.1 ao vivo
+http://lindaflor.net:8080/555555/555555/3228
+#EXTINF:-1,Rádio Transamérica Belo Horizonte ao vivo
+http://lindaflor.net:8080/555555/555555/3654
+#EXTINF:-1,Rádio Transamérica Hits ao vivo
+http://lindaflor.net:8080/555555/555555/3278
+#EXTINF:-1,Rádio Transamérica Light Curitiba ao vivo
+http://lindaflor.net:8080/555555/555555/3358
+#EXTINF:-1,Rádio Transamérica POP Curitiba ao vivo
+http://lindaflor.net:8080/555555/555555/3274
+#EXTINF:-1,Rádio Transamérica POP Montes Claros ao vivo
+http://lindaflor.net:8080/555555/555555/3268
+#EXTINF:-1,Rádio Transamérica POP Recife ao vivo
+http://lindaflor.net:8080/555555/555555/3514
+#EXTINF:-1,Rádio Transamérica POP Rio de Janeiro ao vivo
+http://lindaflor.net:8080/555555/555555/3256
+#EXTINF:-1,Rádio Transamérica POP Salvador ao vivo
+http://lindaflor.net:8080/555555/555555/3490
+#EXTINF:-1,Rádio Transamérica POP SP ao vivo
+http://lindaflor.net:8080/555555/555555/3146
+#EXTINF:-1,Rádio Transmundial 60 70 80 e 90 ao vivo
+http://lindaflor.net:8080/555555/555555/3484
+#EXTINF:-1,Rádio Tropical 107.9 FM ao vivo
+http://lindaflor.net:8080/555555/555555/3267
+#EXTINF:-1,Rádio Tupi AM 1280 ao vivo
+http://lindaflor.net:8080/555555/555555/3120
+#EXTINF:-1,Rádio USP - São Paulo ao vivo
+http://lindaflor.net:8080/555555/555555/3359
+#EXTINF:-1,Rádio Verdinha 810 AM ao vivo
+http://lindaflor.net:8080/555555/555555/3323
+#EXTINF:-1,Rádio Vibe Mundial ao vivo
+http://lindaflor.net:8080/555555/555555/3521
+#EXTINF:-1,Rádio Vida FM 104.9
+http://lindaflor.net:8080/555555/555555/8636
+#EXTINF:-1,Rádio VillaMix ao vivo
+http://lindaflor.net:8080/555555/555555/3341
+#EXTINF:-1,Rádio Viola 98.1 FM ao vivo
+http://lindaflor.net:8080/555555/555555/3650
+#EXTINF:-1,Rádio Viola Viva ao vivo
+http://lindaflor.net:8080/555555/555555/3314
+#EXTINF:-1,Rádio Viva o Samba ao vivo
+http://lindaflor.net:8080/555555/555555/3361
+#EXTINF:-1,Rádio Web Coringão ao vivo
+http://lindaflor.net:8080/555555/555555/3642
+#EXTINF:-1,Rádio Youngospel Web Station
+http://lindaflor.net:8080/555555/555555/8639
+#EXTINF:-1,Web Rádio Estação Brasil
+http://lindaflor.net:8080/555555/555555/14197
+#EXTINF:-1,XXX BRASILEIRINHAS: AMIGAS DA MINHA IRMA
+http://lindaflor.net:8080/555555/555555/6897
+#EXTINF:-1,XXX BRASILEIRINHAS: DEPOIS DOS 40
+http://lindaflor.net:8080/555555/555555/6902
+#EXTINF:-1,XXX BRASILEIRINHAS: ESTRELAS EM BUSCA DO PRAZER
+http://lindaflor.net:8080/555555/555555/6903
+#EXTINF:-1,XXX BRASILEIRINHAS: FAZENDO SACANAGEM
+http://lindaflor.net:8080/555555/555555/6904
+#EXTINF:-1,XXX DORCEL TV
+http://lindaflor.net:8080/555555/555555/403
+#EXTINF:-1,XXX PLAYBOY
+http://lindaflor.net:8080/555555/555555/409
+#EXTINF:-1,XXX Playboy TV SD
+http://lindaflor.net:8080/555555/555555/410
+#EXTINF:-1,XXX PRIVATE HD
+http://lindaflor.net:8080/555555/555555/411
+#EXTINF:-1,XXX RUSNOCH
+http://lindaflor.net:8080/555555/555555/413
+#EXTINF:-1,XXX Sextreme SD
+http://lindaflor.net:8080/555555/555555/417
+#EXTINF:-1,XXX Sexy Hot SD
+http://lindaflor.net:8080/555555/555555/418
+#EXTINF:-1,XXX SHALUN TV
+http://lindaflor.net:8080/555555/555555/419
+#EXTINF:-1,XXX VIVID RED
+http://lindaflor.net:8080/555555/555555/421
+#EXTINF:-1,XXX Adultos: A Casa das Brasileirinhas 1
+http://lindaflor.net:8080/555555/555555/13138
+#EXTINF:-1,XXX Adultos: A Casa das Brasileirinhas 2
+http://lindaflor.net:8080/555555/555555/13139
+#EXTINF:-1,XXX Adultos: Anal
+http://lindaflor.net:8080/555555/555555/13140
+#EXTINF:-1,XXX Adultos: BI MASCULINO
+http://lindaflor.net:8080/555555/555555/13141
+#EXTINF:-1,XXX Adultos: ESCOLA DAS BRASILEIRINHAS
+http://lindaflor.net:8080/555555/555555/13142
+#EXTINF:-1,XXX Adultos: Lesbicas
+http://lindaflor.net:8080/555555/555555/13143
+#EXTINF:-1,XXX Adultos: PORNO 4K
+http://lindaflor.net:8080/555555/555555/13144
+#EXTINF:-1,XXX BLUE HUSTLER
+http://lindaflor.net:8080/555555/555555/14181
+#EXTINF:-1,XXX BRAZZERS EUROPE
+http://lindaflor.net:8080/555555/555555/14182
+#EXTINF:-1,XXX CANDY
+http://lindaflor.net:8080/555555/555555/14183
+#EXTINF:-1,XXX CENTOXCENTO
+http://lindaflor.net:8080/555555/555555/14184
+#EXTINF:-1,XXX EROXX
+http://lindaflor.net:8080/555555/555555/14185
+#EXTINF:-1,XXX PASSION
+http://lindaflor.net:8080/555555/555555/14186
+#EXTINF:-1,XXX PENTHOUSE BLACK
+http://lindaflor.net:8080/555555/555555/14187
+#EXTINF:-1,XXX PENTHOUSE QUICKIES
+http://lindaflor.net:8080/555555/555555/14188
+#EXTINF:-1,XXX PINK-O
+http://lindaflor.net:8080/555555/555555/14189
+#EXTINF:-1,XXX REDLIGHT
+http://lindaflor.net:8080/555555/555555/14190
+#EXTINF:-1,XXX SCT
+http://lindaflor.net:8080/555555/555555/14191
+#EXTINF:-1,XXX SEXT6SENSO
+http://lindaflor.net:8080/555555/555555/14192
+#EXTINF:-1,XXX SEXTREME
+http://lindaflor.net:8080/555555/555555/14193
+#EXTINF:-1,XXX VENUS
+http://lindaflor.net:8080/555555/555555/14194
+#EXTINF:-1,#24 KITCHEN
+http://lindaflor.net:8080/555555/555555/13880
+#EXTINF:-1,#24 Kitchen HD
+http://lindaflor.net:8080/555555/555555/13881
+#EXTINF:-1,#A BOLA TV
+http://lindaflor.net:8080/555555/555555/13784
+#EXTINF:-1,#A BOLA TV HD
+http://lindaflor.net:8080/555555/555555/13783
+#EXTINF:-1,#AFRO MUSIC
+http://lindaflor.net:8080/555555/555555/13911
+#EXTINF:-1,#AR TV
+http://lindaflor.net:8080/555555/555555/13878
+#EXTINF:-1,#AXN BLACK
+http://lindaflor.net:8080/555555/555555/13855
+#EXTINF:-1,#AXN MOVIES HD
+http://lindaflor.net:8080/555555/555555/13856
+#EXTINF:-1,#AXN WHITE
+http://lindaflor.net:8080/555555/555555/13857
+#EXTINF:-1,#AXN WHITE HD
+http://lindaflor.net:8080/555555/555555/13858
+#EXTINF:-1,#BBC Entertainment
+http://lindaflor.net:8080/555555/555555/13896
+#EXTINF:-1,#BBC WORLD NEWS HD
+http://lindaflor.net:8080/555555/555555/13895
+#EXTINF:-1,#BLAZE
+http://lindaflor.net:8080/555555/555555/13864
+#EXTINF:-1,#BLAZE HD
+http://lindaflor.net:8080/555555/555555/13865
+#EXTINF:-1,#BTV
+http://lindaflor.net:8080/555555/555555/13813
+#EXTINF:-1,#BTV  FHD
+http://lindaflor.net:8080/555555/555555/13814
+#EXTINF:-1,#CACA E PESCA HD
+http://lindaflor.net:8080/555555/555555/13827
+#EXTINF:-1,#Cacavision
+http://lindaflor.net:8080/555555/555555/13828
+#EXTINF:-1,#CANAL 11
+http://lindaflor.net:8080/555555/555555/13799
+#EXTINF:-1,#Canal 11 FHD
+http://lindaflor.net:8080/555555/555555/13800
+#EXTINF:-1,#CANAL Q
+http://lindaflor.net:8080/555555/555555/13876
+#EXTINF:-1,#CANCAO NOVA
+http://lindaflor.net:8080/555555/555555/13919
+#EXTINF:-1,#CBS Reality
+http://lindaflor.net:8080/555555/555555/13868
+#EXTINF:-1,#CINEMUNDO
+http://lindaflor.net:8080/555555/555555/13848
+#EXTINF:-1,#CINEMUNDO FHD
+http://lindaflor.net:8080/555555/555555/13849
+#EXTINF:-1,#CMTV
+http://lindaflor.net:8080/555555/555555/13781
+#EXTINF:-1,#CMTV HD
+http://lindaflor.net:8080/555555/555555/13782
+#EXTINF:-1,#CNBC Europe
+http://lindaflor.net:8080/555555/555555/13903
+#EXTINF:-1,#CNN
+http://lindaflor.net:8080/555555/555555/13902
+#EXTINF:-1,#CRIME   INVESTIGATION
+http://lindaflor.net:8080/555555/555555/13869
+#EXTINF:-1,#Deutsche Welle
+http://lindaflor.net:8080/555555/555555/13887
+#EXTINF:-1,#DOG TV HD
+http://lindaflor.net:8080/555555/555555/13890
+#EXTINF:-1,#E! ENTERTAINMENT
+http://lindaflor.net:8080/555555/555555/13884
+#EXTINF:-1,#E! Entertainment HD
+http://lindaflor.net:8080/555555/555555/13885
+#EXTINF:-1,#ELEVEN SPORT 1  HD
+http://lindaflor.net:8080/555555/555555/13816
+#EXTINF:-1,#ELEVEN SPORTS 1
+http://lindaflor.net:8080/555555/555555/13815
+#EXTINF:-1,#ELEVEN SPORTS 2 HD
+http://lindaflor.net:8080/555555/555555/13817
+#EXTINF:-1,#ELEVEN SPORTS 3 HD
+http://lindaflor.net:8080/555555/555555/13818
+#EXTINF:-1,#ELEVEN SPORTS 4 HD
+http://lindaflor.net:8080/555555/555555/13819
+#EXTINF:-1,#ELEVEN SPORTS 5
+http://lindaflor.net:8080/555555/555555/13820
+#EXTINF:-1,#ELEVEN SPORTS 5 HD
+http://lindaflor.net:8080/555555/555555/13821
+#EXTINF:-1,#ELEVEN SPORTS 6 HD
+http://lindaflor.net:8080/555555/555555/13822
+#EXTINF:-1,#ES: #0 FHD
+http://lindaflor.net:8080/555555/555555/13926
+#EXTINF:-1,#ES: #0 SD
+http://lindaflor.net:8080/555555/555555/13925
+#EXTINF:-1,#ES: #VAMOS
+http://lindaflor.net:8080/555555/555555/13927
+#EXTINF:-1,#ES: 24 HORAS
+http://lindaflor.net:8080/555555/555555/14018
+#EXTINF:-1,#ES: 7RM FHD
+http://lindaflor.net:8080/555555/555555/14012
+#EXTINF:-1,#ES: 7RM HD
+http://lindaflor.net:8080/555555/555555/14017
+#EXTINF:-1,#ES: A3SERIES FHD
+http://lindaflor.net:8080/555555/555555/13980
+#EXTINF:-1,#ES: AMC FHD
+http://lindaflor.net:8080/555555/555555/13986
+#EXTINF:-1,#ES: ANDALUCIA TV
+http://lindaflor.net:8080/555555/555555/13978
+#EXTINF:-1,#ES: Antena 3 FullHD
+http://lindaflor.net:8080/555555/555555/13932
+#EXTINF:-1,#ES: Antena 3 HD
+http://lindaflor.net:8080/555555/555555/13931
+#EXTINF:-1,#ES: AXN FullHD
+http://lindaflor.net:8080/555555/555555/13988
+#EXTINF:-1,#ES: AXN HD
+http://lindaflor.net:8080/555555/555555/13987
+#EXTINF:-1,#ES: AXN White FullHD
+http://lindaflor.net:8080/555555/555555/13990
+#EXTINF:-1,#ES: AXN White HD
+http://lindaflor.net:8080/555555/555555/13989
+#EXTINF:-1,#ES: BARCA TV HD
+http://lindaflor.net:8080/555555/555555/13996
+#EXTINF:-1,#ES: Bein LaLiga bar FullHD
+http://lindaflor.net:8080/555555/555555/13994
+#EXTINF:-1,#ES: Bein LaLiga bar HD
+http://lindaflor.net:8080/555555/555555/13993
+#EXTINF:-1,#ES: Bein Sports España FullHD
+http://lindaflor.net:8080/555555/555555/13992
+#EXTINF:-1,#ES: Bein Sports España HD
+http://lindaflor.net:8080/555555/555555/13991
+#EXTINF:-1,#ES: BEMAD FHD
+http://lindaflor.net:8080/555555/555555/14013
+#EXTINF:-1,#ES: CALLE 13 FullHD
+http://lindaflor.net:8080/555555/555555/13969
+#EXTINF:-1,#ES: CALLE 13 HD
+http://lindaflor.net:8080/555555/555555/13968
+#EXTINF:-1,#ES: CANAL ORBE21 SD
+http://lindaflor.net:8080/555555/555555/13959
+#EXTINF:-1,#ES: CANAL PANDA
+http://lindaflor.net:8080/555555/555555/13960
+#EXTINF:-1,#ES: Canal+ COCINA
+http://lindaflor.net:8080/555555/555555/13958
+#EXTINF:-1,#ES: Canal+ Toros
+http://lindaflor.net:8080/555555/555555/13961
+#EXTINF:-1,#ES: CLAN TV FHD
+http://lindaflor.net:8080/555555/555555/14014
+#EXTINF:-1,#ES: Comedy Central FullHD
+http://lindaflor.net:8080/555555/555555/13967
+#EXTINF:-1,#ES: Comedy Central HD
+http://lindaflor.net:8080/555555/555555/13966
+#EXTINF:-1,#ES: COSMO FHD
+http://lindaflor.net:8080/555555/555555/14015
+#EXTINF:-1,#ES: Cuatro FullHD
+http://lindaflor.net:8080/555555/555555/13934
+#EXTINF:-1,#ES: CUATRO HD
+http://lindaflor.net:8080/555555/555555/13933
+#EXTINF:-1,#ES: Disney Channel FHD
+http://lindaflor.net:8080/555555/555555/13947
+#EXTINF:-1,#ES: Factoria de Ficcion
+http://lindaflor.net:8080/555555/555555/13998
+#EXTINF:-1,#ES: FOX HD
+http://lindaflor.net:8080/555555/555555/13963
+#EXTINF:-1,#ES: FOX LIFE HD
+http://lindaflor.net:8080/555555/555555/13964
+#EXTINF:-1,#ES: FOX NEWS
+http://lindaflor.net:8080/555555/555555/13965
+#EXTINF:-1,#ES: Gol TV
+http://lindaflor.net:8080/555555/555555/13979
+#EXTINF:-1,#ES: HISTORIA
+http://lindaflor.net:8080/555555/555555/14011
+#EXTINF:-1,#ES: Hollywood FullHD
+http://lindaflor.net:8080/555555/555555/13971
+#EXTINF:-1,#ES: Hollywood HD
+http://lindaflor.net:8080/555555/555555/13970
+#EXTINF:-1,#ES: La 1 FullHD
+http://lindaflor.net:8080/555555/555555/13929
+#EXTINF:-1,#ES: La 1 HD
+http://lindaflor.net:8080/555555/555555/13928
+#EXTINF:-1,#ES: La 2 FullHD
+http://lindaflor.net:8080/555555/555555/14019
+#EXTINF:-1,#ES: La 2 HD
+http://lindaflor.net:8080/555555/555555/13930
+#EXTINF:-1,#ES: LA SEXTA FullHD
+http://lindaflor.net:8080/555555/555555/13938
+#EXTINF:-1,#ES: LA SEXTA HD
+http://lindaflor.net:8080/555555/555555/13937
+#EXTINF:-1,#ES: Lebrija TV
+http://lindaflor.net:8080/555555/555555/14010
+#EXTINF:-1,#ES: LIGA TV BAR
+http://lindaflor.net:8080/555555/555555/13962
+#EXTINF:-1,#ES: Mega
+http://lindaflor.net:8080/555555/555555/13977
+#EXTINF:-1,#ES: Movistar Accion FHD
+http://lindaflor.net:8080/555555/555555/13940
+#EXTINF:-1,#ES: Movistar Accion HD
+http://lindaflor.net:8080/555555/555555/13939
+#EXTINF:-1,#ES: MOVISTAR CineDoc&Roll FHD
+http://lindaflor.net:8080/555555/555555/13951
+#EXTINF:-1,#ES: MOVISTAR CineDoc&Roll HD
+http://lindaflor.net:8080/555555/555555/13950
+#EXTINF:-1,#ES: Movistar CineN HD
+http://lindaflor.net:8080/555555/555555/13946
+#EXTINF:-1,#ES: Movistar Comedia FHD
+http://lindaflor.net:8080/555555/555555/13952
+#EXTINF:-1,#ES: MOVISTAR DCINE HD
+http://lindaflor.net:8080/555555/555555/13945
+#EXTINF:-1,#ES: Movistar Deportes 1
+http://lindaflor.net:8080/555555/555555/13956
+#EXTINF:-1,#ES: Movistar DEPORTES 2
+http://lindaflor.net:8080/555555/555555/13957
+#EXTINF:-1,#ES: Movistar Drama FHD
+http://lindaflor.net:8080/555555/555555/13942
+#EXTINF:-1,#ES: Movistar Drama HD
+http://lindaflor.net:8080/555555/555555/13941
+#EXTINF:-1,#ES: Movistar Estrenos FHD
+http://lindaflor.net:8080/555555/555555/13949
+#EXTINF:-1,#ES: Movistar Estrenos HD
+http://lindaflor.net:8080/555555/555555/13948
+#EXTINF:-1,#ES: MOVISTAR F1 FulHD
+http://lindaflor.net:8080/555555/555555/13954
+#EXTINF:-1,#ES: Movistar Golf
+http://lindaflor.net:8080/555555/555555/13955
+#EXTINF:-1,#ES: MOVISTAR SERIES FHD
+http://lindaflor.net:8080/555555/555555/13944
+#EXTINF:-1,#ES: MOVISTAR SERIES HD
+http://lindaflor.net:8080/555555/555555/13943
+#EXTINF:-1,#ES: Movistar Seriesmania FHD
+http://lindaflor.net:8080/555555/555555/13953
+#EXTINF:-1,#ES: NatGeo Wild FullHD
+http://lindaflor.net:8080/555555/555555/13985
+#EXTINF:-1,#ES: NatGeo Wild HD
+http://lindaflor.net:8080/555555/555555/13984
+#EXTINF:-1,#ES: National Geographic FullHD
+http://lindaflor.net:8080/555555/555555/13983
+#EXTINF:-1,#ES: National Geographic HD
+http://lindaflor.net:8080/555555/555555/13982
+#EXTINF:-1,#ES: NEOX HD
+http://lindaflor.net:8080/555555/555555/13999
+#EXTINF:-1,#ES: NOVA
+http://lindaflor.net:8080/555555/555555/13976
+#EXTINF:-1,#ES: Odisea HD
+http://lindaflor.net:8080/555555/555555/13981
+#EXTINF:-1,#ES: Paramount Channel
+http://lindaflor.net:8080/555555/555555/14000
+#EXTINF:-1,#ES: Real Madrid HD
+http://lindaflor.net:8080/555555/555555/13995
+#EXTINF:-1,#ES: RTVC
+http://lindaflor.net:8080/555555/555555/14016
+#EXTINF:-1,#ES: Syfy FullHD
+http://lindaflor.net:8080/555555/555555/13973
+#EXTINF:-1,#ES: Syfy HD
+http://lindaflor.net:8080/555555/555555/13972
+#EXTINF:-1,#ES: Taquilla 1
+http://lindaflor.net:8080/555555/555555/14001
+#EXTINF:-1,#ES: Taquilla 2
+http://lindaflor.net:8080/555555/555555/14002
+#EXTINF:-1,#ES: Taquilla 3
+http://lindaflor.net:8080/555555/555555/14003
+#EXTINF:-1,#ES: Taquilla 4
+http://lindaflor.net:8080/555555/555555/14004
+#EXTINF:-1,#ES: Taquilla 5
+http://lindaflor.net:8080/555555/555555/14005
+#EXTINF:-1,#ES: Taquilla 6
+http://lindaflor.net:8080/555555/555555/14006
+#EXTINF:-1,#ES: Taquilla 7
+http://lindaflor.net:8080/555555/555555/14007
+#EXTINF:-1,#ES: Taquilla 8
+http://lindaflor.net:8080/555555/555555/14008
+#EXTINF:-1,#ES: Taquilla 9
+http://lindaflor.net:8080/555555/555555/14009
+#EXTINF:-1,#ES: TCM FullHD
+http://lindaflor.net:8080/555555/555555/13997
+#EXTINF:-1,#ES: Telecinco FullHD
+http://lindaflor.net:8080/555555/555555/13936
+#EXTINF:-1,#ES: TELECINCO HD
+http://lindaflor.net:8080/555555/555555/13935
+#EXTINF:-1,#ES: TNT FullHD
+http://lindaflor.net:8080/555555/555555/13975
+#EXTINF:-1,#ES: TNT HD
+http://lindaflor.net:8080/555555/555555/13974
+#EXTINF:-1,#Euro News
+http://lindaflor.net:8080/555555/555555/13906
+#EXTINF:-1,#Eurochannel
+http://lindaflor.net:8080/555555/555555/13852
+#EXTINF:-1,#Euronews
+http://lindaflor.net:8080/555555/555555/13907
+#EXTINF:-1,#Eurosport 1
+http://lindaflor.net:8080/555555/555555/13830
+#EXTINF:-1,#EUROSPORT 1 HD
+http://lindaflor.net:8080/555555/555555/13831
+#EXTINF:-1,#EUROSPORT 2
+http://lindaflor.net:8080/555555/555555/13832
+#EXTINF:-1,#EUROSPORT 2 HD
+http://lindaflor.net:8080/555555/555555/13833
+#EXTINF:-1,#FASHION TV HD
+http://lindaflor.net:8080/555555/555555/13886
+#EXTINF:-1,#FIGHT NETWORK HD
+http://lindaflor.net:8080/555555/555555/13835
+#EXTINF:-1,#FINE LIVING NETWORK HD
+http://lindaflor.net:8080/555555/555555/13889
+#EXTINF:-1,#FOOD NETWORK HD
+http://lindaflor.net:8080/555555/555555/13882
+#EXTINF:-1,#FOX COMEDY
+http://lindaflor.net:8080/555555/555555/13859
+#EXTINF:-1,#FOX COMEDY HD
+http://lindaflor.net:8080/555555/555555/13860
+#EXTINF:-1,#FOX CRIME
+http://lindaflor.net:8080/555555/555555/13861
+#EXTINF:-1,#FOX CRIME HD
+http://lindaflor.net:8080/555555/555555/13863
+#EXTINF:-1,#FOX LIFE HD
+http://lindaflor.net:8080/555555/555555/13862
+#EXTINF:-1,#FOX MOVIES
+http://lindaflor.net:8080/555555/555555/13850
+#EXTINF:-1,#FOX MOVIES FHD
+http://lindaflor.net:8080/555555/555555/13851
+#EXTINF:-1,#FOX News
+http://lindaflor.net:8080/555555/555555/13908
+#EXTINF:-1,#France 24
+http://lindaflor.net:8080/555555/555555/13905
+#EXTINF:-1,#FUEL TV
+http://lindaflor.net:8080/555555/555555/13837
+#EXTINF:-1,#Harry Potter Live (CANAL 24/7)
+http://lindaflor.net:8080/555555/555555/13920
+#EXTINF:-1,#HOLLYWOOD
+http://lindaflor.net:8080/555555/555555/13846
+#EXTINF:-1,#HOLLYWOOD HD
+http://lindaflor.net:8080/555555/555555/13847
+#EXTINF:-1,#JIM JAM
+http://lindaflor.net:8080/555555/555555/13796
+#EXTINF:-1,#KOMBAT SPORT
+http://lindaflor.net:8080/555555/555555/13834
+#EXTINF:-1,#KURIAKOS CINE
+http://lindaflor.net:8080/555555/555555/13854
+#EXTINF:-1,#KURIAKOS TV
+http://lindaflor.net:8080/555555/555555/13918
+#EXTINF:-1,#LATINO:   NEX TV
+http://lindaflor.net:8080/555555/555555/13663
+#EXTINF:-1,#LATINO:   PORTAL FOXMIX
+http://lindaflor.net:8080/555555/555555/13664
+#EXTINF:-1,#LATINO:  13 TV
+http://lindaflor.net:8080/555555/555555/13665
+#EXTINF:-1,#LATINO:  5 El Lider
+http://lindaflor.net:8080/555555/555555/13666
+#EXTINF:-1,#LATINO:  Acento Tv
+http://lindaflor.net:8080/555555/555555/13667
+#EXTINF:-1,#LATINO:  Action Sports
+http://lindaflor.net:8080/555555/555555/13668
+#EXTINF:-1,#LATINO:  Al Jazeera
+http://lindaflor.net:8080/555555/555555/13669
+#EXTINF:-1,#LATINO:  Antena 3 Internacional
+http://lindaflor.net:8080/555555/555555/13670
+#EXTINF:-1,#LATINO:  ATB Tv
+http://lindaflor.net:8080/555555/555555/13671
+#EXTINF:-1,#LATINO:  Be Mad
+http://lindaflor.net:8080/555555/555555/13672
+#EXTINF:-1,#LATINO:  BHTV
+http://lindaflor.net:8080/555555/555555/13673
+#EXTINF:-1,#LATINO:  Bloomberg USA
+http://lindaflor.net:8080/555555/555555/13674
+#EXTINF:-1,#LATINO:  BOREAL Television
+http://lindaflor.net:8080/555555/555555/13675
+#EXTINF:-1,#LATINO:  Buena TV
+http://lindaflor.net:8080/555555/555555/13676
+#EXTINF:-1,#LATINO:  C-SPAN
+http://lindaflor.net:8080/555555/555555/13677
+#EXTINF:-1,#LATINO:  C-SPAN 2
+http://lindaflor.net:8080/555555/555555/13678
+#EXTINF:-1,#LATINO:  C-SPAN 3
+http://lindaflor.net:8080/555555/555555/13679
+#EXTINF:-1,#LATINO:  Canal 10 Chetumal
+http://lindaflor.net:8080/555555/555555/13680
+#EXTINF:-1,#LATINO:  Canal 10 Chiapas
+http://lindaflor.net:8080/555555/555555/13681
+#EXTINF:-1,#LATINO:  CANAL 15 FRESNILLO
+http://lindaflor.net:8080/555555/555555/13682
+#EXTINF:-1,#LATINO:  Canal 15 Zacatecas
+http://lindaflor.net:8080/555555/555555/13683
+#EXTINF:-1,#LATINO:  CANAL 20 ZACATECAS
+http://lindaflor.net:8080/555555/555555/13684
+#EXTINF:-1,#LATINO:  Canal 26
+http://lindaflor.net:8080/555555/555555/13685
+#EXTINF:-1,#LATINO:  Canal 4 Monclova
+http://lindaflor.net:8080/555555/555555/13686
+#EXTINF:-1,#LATINO:  Canal 4.1
+http://lindaflor.net:8080/555555/555555/13687
+#EXTINF:-1,#LATINO:  Canal 4.2
+http://lindaflor.net:8080/555555/555555/13688
+#EXTINF:-1,#LATINO:  CANAL 52 Ticavision (Costa Rica)
+http://lindaflor.net:8080/555555/555555/13689
+#EXTINF:-1,#LATINO:  Canal 6 (Michoacan)
+http://lindaflor.net:8080/555555/555555/13690
+#EXTINF:-1,#LATINO:  Canal 9 Multivision
+http://lindaflor.net:8080/555555/555555/13691
+#EXTINF:-1,#LATINO:  Canal Judicial
+http://lindaflor.net:8080/555555/555555/13692
+#EXTINF:-1,#LATINO:  Canal Once 1
+http://lindaflor.net:8080/555555/555555/13693
+#EXTINF:-1,#LATINO:  Canal Wow TV
+http://lindaflor.net:8080/555555/555555/13694
+#EXTINF:-1,#LATINO:  CBS
+http://lindaflor.net:8080/555555/555555/13695
+#EXTINF:-1,#LATINO:  Classic Arts Showcase
+http://lindaflor.net:8080/555555/555555/13696
+#EXTINF:-1,#LATINO:  Divinity
+http://lindaflor.net:8080/555555/555555/13697
+#EXTINF:-1,#LATINO:  DMAX EspaÃ±a
+http://lindaflor.net:8080/555555/555555/13698
+#EXTINF:-1,#LATINO:  DW NEWS
+http://lindaflor.net:8080/555555/555555/13699
+#EXTINF:-1,#LATINO:  El 13
+http://lindaflor.net:8080/555555/555555/13700
+#EXTINF:-1,#LATINO:  Extrema TV(Costa Rica)
+http://lindaflor.net:8080/555555/555555/13701
+#EXTINF:-1,#LATINO:  FDF
+http://lindaflor.net:8080/555555/555555/13702
+#EXTINF:-1,#LATINO:  France 24
+http://lindaflor.net:8080/555555/555555/13703
+#EXTINF:-1,#LATINO:  Genial Tv
+http://lindaflor.net:8080/555555/555555/13704
+#EXTINF:-1,#LATINO:  Hechos Tv
+http://lindaflor.net:8080/555555/555555/13705
+#EXTINF:-1,#LATINO:  La Mega Mundial
+http://lindaflor.net:8080/555555/555555/13706
+#EXTINF:-1,#LATINO:  Lifedesign
+http://lindaflor.net:8080/555555/555555/13707
+#EXTINF:-1,#LATINO:  Living Outdoors
+http://lindaflor.net:8080/555555/555555/13708
+#EXTINF:-1,#LATINO:  Luna Tv
+http://lindaflor.net:8080/555555/555555/13709
+#EXTINF:-1,#LATINO:  MC Play
+http://lindaflor.net:8080/555555/555555/13710
+#EXTINF:-1,#LATINO:  MEGAVISION
+http://lindaflor.net:8080/555555/555555/13711
+#EXTINF:-1,#LATINO:  MICROvision 10
+http://lindaflor.net:8080/555555/555555/13712
+#EXTINF:-1,#LATINO:  Milenio TV
+http://lindaflor.net:8080/555555/555555/13713
+#EXTINF:-1,#LATINO:  MTV
+http://lindaflor.net:8080/555555/555555/13714
+#EXTINF:-1,#LATINO:  MTV Dance
+http://lindaflor.net:8080/555555/555555/13715
+#EXTINF:-1,#LATINO:  MTV LIVE
+http://lindaflor.net:8080/555555/555555/13716
+#EXTINF:-1,#LATINO:  Multimedios Costa Rica
+http://lindaflor.net:8080/555555/555555/13717
+#EXTINF:-1,#LATINO:  MusicTop
+http://lindaflor.net:8080/555555/555555/13718
+#EXTINF:-1,#LATINO:  NBC
+http://lindaflor.net:8080/555555/555555/13719
+#EXTINF:-1,#LATINO:  NYC Times Square
+http://lindaflor.net:8080/555555/555555/13720
+#EXTINF:-1,#LATINO:  NYC Times Square (47th & Broadway)
+http://lindaflor.net:8080/555555/555555/13721
+#EXTINF:-1,#LATINO:  Paramount Channel
+http://lindaflor.net:8080/555555/555555/13722
+#EXTINF:-1,#LATINO:  PERU TV
+http://lindaflor.net:8080/555555/555555/13723
+#EXTINF:-1,#LATINO:  Pinguino TV
+http://lindaflor.net:8080/555555/555555/13724
+#EXTINF:-1,#LATINO:  Radio Sanborja (Peru)
+http://lindaflor.net:8080/555555/555555/13725
+#EXTINF:-1,#LATINO:  RCG TV1
+http://lindaflor.net:8080/555555/555555/13726
+#EXTINF:-1,#LATINO:  RCG TV2
+http://lindaflor.net:8080/555555/555555/13727
+#EXTINF:-1,#LATINO:  READY TV
+http://lindaflor.net:8080/555555/555555/13728
+#EXTINF:-1,#LATINO:  Redbull TV
+http://lindaflor.net:8080/555555/555555/13729
+#EXTINF:-1,#LATINO:  ROMANA TV
+http://lindaflor.net:8080/555555/555555/13730
+#EXTINF:-1,#LATINO:  Rtv ce
+http://lindaflor.net:8080/555555/555555/13731
+#EXTINF:-1,#LATINO:  SQCS Chetumal
+http://lindaflor.net:8080/555555/555555/13732
+#EXTINF:-1,#LATINO:  Sur Tv
+http://lindaflor.net:8080/555555/555555/13733
+#EXTINF:-1,#LATINO:  Syria News
+http://lindaflor.net:8080/555555/555555/13734
+#EXTINF:-1,#LATINO:  tdn tv
+http://lindaflor.net:8080/555555/555555/13735
+#EXTINF:-1,#LATINO:  Telecanal 28
+http://lindaflor.net:8080/555555/555555/13736
+#EXTINF:-1,#LATINO:  TELEFORMULA
+http://lindaflor.net:8080/555555/555555/13737
+#EXTINF:-1,#LATINO:  Telemadrid
+http://lindaflor.net:8080/555555/555555/13738
+#EXTINF:-1,#LATINO:  TEN Honduras
+http://lindaflor.net:8080/555555/555555/13739
+#EXTINF:-1,#LATINO:  TMTV
+http://lindaflor.net:8080/555555/555555/13740
+#EXTINF:-1,#LATINO:  TMZ
+http://lindaflor.net:8080/555555/555555/13741
+#EXTINF:-1,#LATINO:  TOP Latino TV
+http://lindaflor.net:8080/555555/555555/13742
+#EXTINF:-1,#LATINO:  Trace Latina 1
+http://lindaflor.net:8080/555555/555555/13743
+#EXTINF:-1,#LATINO:  TRACE LATINA 2
+http://lindaflor.net:8080/555555/555555/13744
+#EXTINF:-1,#LATINO:  Trace tropical
+http://lindaflor.net:8080/555555/555555/13745
+#EXTINF:-1,#LATINO:  Trace Urban
+http://lindaflor.net:8080/555555/555555/13746
+#EXTINF:-1,#LATINO:  Travel HD
+http://lindaflor.net:8080/555555/555555/13747
+#EXTINF:-1,#LATINO:  TRT WORLD
+http://lindaflor.net:8080/555555/555555/13748
+#EXTINF:-1,#LATINO:  TSi
+http://lindaflor.net:8080/555555/555555/13749
+#EXTINF:-1,#LATINO:  TV GALICIA
+http://lindaflor.net:8080/555555/555555/13750
+#EXTINF:-1,#LATINO:  TV HIDALGO
+http://lindaflor.net:8080/555555/555555/13751
+#EXTINF:-1,#LATINO:  TV MARTÃ (Cuba)
+http://lindaflor.net:8080/555555/555555/13752
+#EXTINF:-1,#LATINO:  TV PLATA
+http://lindaflor.net:8080/555555/555555/13753
+#EXTINF:-1,#LATINO:  TV Sur 14 (Costa Rica)
+http://lindaflor.net:8080/555555/555555/13754
+#EXTINF:-1,#LATINO:  Ultra TV Aguascalientes
+http://lindaflor.net:8080/555555/555555/13755
+#EXTINF:-1,#LATINO:  Ultra TV Puebla
+http://lindaflor.net:8080/555555/555555/13756
+#EXTINF:-1,#LATINO:  VALLEVISION
+http://lindaflor.net:8080/555555/555555/13757
+#EXTINF:-1,#LATINO:  Weather Nation Tv
+http://lindaflor.net:8080/555555/555555/13758
+#EXTINF:-1,#LATINO:  WGN Chicago
+http://lindaflor.net:8080/555555/555555/13759
+#EXTINF:-1,#LATINO: 24 TV CULTURALES
+http://lindaflor.net:8080/555555/555555/13760
+#EXTINF:-1,#LATINO: DW Amerika
+http://lindaflor.net:8080/555555/555555/13761
+#EXTINF:-1,#LATINO: LA SUPER TV
+http://lindaflor.net:8080/555555/555555/13762
+#EXTINF:-1,#LATINO: Telemax
+http://lindaflor.net:8080/555555/555555/13763
+#EXTINF:-1,#LOCALVISAO TV HD
+http://lindaflor.net:8080/555555/555555/13877
+#EXTINF:-1,#M6
+http://lindaflor.net:8080/555555/555555/13897
+#EXTINF:-1,#Marvel (24HORAS/7)
+http://lindaflor.net:8080/555555/555555/13922
+#EXTINF:-1,#MCM POP
+http://lindaflor.net:8080/555555/555555/13912
+#EXTINF:-1,#MEZZO LIVE HD
+http://lindaflor.net:8080/555555/555555/13909
+#EXTINF:-1,#Motorvision
+http://lindaflor.net:8080/555555/555555/13836
+#EXTINF:-1,#MTV PORTUGAL
+http://lindaflor.net:8080/555555/555555/13914
+#EXTINF:-1,#MTV PORTUGAL HD
+http://lindaflor.net:8080/555555/555555/13917
+#EXTINF:-1,#MTV Rocks
+http://lindaflor.net:8080/555555/555555/13913
+#EXTINF:-1,#My Cuisine
+http://lindaflor.net:8080/555555/555555/13883
+#EXTINF:-1,#NetFlix TV (24HORAS/7)
+http://lindaflor.net:8080/555555/555555/13921
+#EXTINF:-1,#NOS Studios FHD
+http://lindaflor.net:8080/555555/555555/13853
+#EXTINF:-1,#ODISSEIA
+http://lindaflor.net:8080/555555/555555/13866
+#EXTINF:-1,#Odisseia  HD
+http://lindaflor.net:8080/555555/555555/13867
+#EXTINF:-1,#OUTDOOR CHANNEL HD
+http://lindaflor.net:8080/555555/555555/13888
+#EXTINF:-1,#PANDA
+http://lindaflor.net:8080/555555/555555/13794
+#EXTINF:-1,#PANDA BIGGS
+http://lindaflor.net:8080/555555/555555/13795
+#EXTINF:-1,#PORTO CANAL
+http://lindaflor.net:8080/555555/555555/13779
+#EXTINF:-1,#Porto Canal HD
+http://lindaflor.net:8080/555555/555555/13780
+#EXTINF:-1,#REAL MADRID
+http://lindaflor.net:8080/555555/555555/13826
+#EXTINF:-1,#RTP 1
+http://lindaflor.net:8080/555555/555555/13764
+#EXTINF:-1,#RTP 1 FHD
+http://lindaflor.net:8080/555555/555555/13765
+#EXTINF:-1,#RTP 2
+http://lindaflor.net:8080/555555/555555/13766
+#EXTINF:-1,#RTP 2 HD
+http://lindaflor.net:8080/555555/555555/13767
+#EXTINF:-1,#RTP 3
+http://lindaflor.net:8080/555555/555555/13777
+#EXTINF:-1,#RTP 3 HD
+http://lindaflor.net:8080/555555/555555/13778
+#EXTINF:-1,#RTP Acores
+http://lindaflor.net:8080/555555/555555/13875
+#EXTINF:-1,#RTP Africa
+http://lindaflor.net:8080/555555/555555/13872
+#EXTINF:-1,#RTP INTERNACIONAL
+http://lindaflor.net:8080/555555/555555/13870
+#EXTINF:-1,#RTP Madeira
+http://lindaflor.net:8080/555555/555555/13874
+#EXTINF:-1,#RTP Memoria
+http://lindaflor.net:8080/555555/555555/13873
+#EXTINF:-1,#SIC
+http://lindaflor.net:8080/555555/555555/13768
+#EXTINF:-1,#SIC CARAS
+http://lindaflor.net:8080/555555/555555/13785
+#EXTINF:-1,#SIC Caras HD
+http://lindaflor.net:8080/555555/555555/13786
+#EXTINF:-1,#SIC FHD
+http://lindaflor.net:8080/555555/555555/13770
+#EXTINF:-1,#SIC HD
+http://lindaflor.net:8080/555555/555555/13769
+#EXTINF:-1,#SIC K
+http://lindaflor.net:8080/555555/555555/13797
+#EXTINF:-1,#SIC K HD
+http://lindaflor.net:8080/555555/555555/13798
+#EXTINF:-1,#SIC MULHER
+http://lindaflor.net:8080/555555/555555/13787
+#EXTINF:-1,#SIC Mulher HD
+http://lindaflor.net:8080/555555/555555/13788
+#EXTINF:-1,#SIC NOTICIAS
+http://lindaflor.net:8080/555555/555555/13773
+#EXTINF:-1,#SIC Noticias HD
+http://lindaflor.net:8080/555555/555555/13774
+#EXTINF:-1,#SIC RADICAL
+http://lindaflor.net:8080/555555/555555/13789
+#EXTINF:-1,#SIC Radical HD
+http://lindaflor.net:8080/555555/555555/13790
+#EXTINF:-1,#SKY NEWS
+http://lindaflor.net:8080/555555/555555/13898
+#EXTINF:-1,#SPORT TV
+http://lindaflor.net:8080/555555/555555/13801
+#EXTINF:-1,#Sport TV  HD
+http://lindaflor.net:8080/555555/555555/13802
+#EXTINF:-1,#SPORT TV 1
+http://lindaflor.net:8080/555555/555555/13803
+#EXTINF:-1,#SPORT TV 1 HD
+http://lindaflor.net:8080/555555/555555/13804
+#EXTINF:-1,#SPORT TV 2
+http://lindaflor.net:8080/555555/555555/13805
+#EXTINF:-1,#SPORT TV 2 HD
+http://lindaflor.net:8080/555555/555555/13806
+#EXTINF:-1,#SPORT TV 3
+http://lindaflor.net:8080/555555/555555/13807
+#EXTINF:-1,#SPORT TV 3 HD
+http://lindaflor.net:8080/555555/555555/13808
+#EXTINF:-1,#SPORT TV 4
+http://lindaflor.net:8080/555555/555555/13809
+#EXTINF:-1,#SPORT TV 4 HD
+http://lindaflor.net:8080/555555/555555/13810
+#EXTINF:-1,#SPORT TV 5
+http://lindaflor.net:8080/555555/555555/13811
+#EXTINF:-1,#SPORT TV 5  HD
+http://lindaflor.net:8080/555555/555555/13812
+#EXTINF:-1,#SPORT TV NBA FHD
+http://lindaflor.net:8080/555555/555555/13823
+#EXTINF:-1,#SPORTING TV
+http://lindaflor.net:8080/555555/555555/13824
+#EXTINF:-1,#SPORTING TV HD
+http://lindaflor.net:8080/555555/555555/13825
+#EXTINF:-1,#SUPER RTL
+http://lindaflor.net:8080/555555/555555/13891
+#EXTINF:-1,#TCV INTERNACIONAL
+http://lindaflor.net:8080/555555/555555/13892
+#EXTINF:-1,#Tom And Jerry (24HORAS/7)
+http://lindaflor.net:8080/555555/555555/13924
+#EXTINF:-1,#Tom Sawyer (24HORAS/7)
+http://lindaflor.net:8080/555555/555555/13923
+#EXTINF:-1,#TOROS TV HD
+http://lindaflor.net:8080/555555/555555/13829
+#EXTINF:-1,#TPA INTERNACIONAL
+http://lindaflor.net:8080/555555/555555/13893
+#EXTINF:-1,#TRACE TOCA
+http://lindaflor.net:8080/555555/555555/13916
+#EXTINF:-1,#TRACE URBAN
+http://lindaflor.net:8080/555555/555555/13910
+#EXTINF:-1,#TRAVEL CHANNEL HD
+http://lindaflor.net:8080/555555/555555/13879
+#EXTINF:-1,#TV Galicia
+http://lindaflor.net:8080/555555/555555/13904
+#EXTINF:-1,#TV5 MONDE EUROPE
+http://lindaflor.net:8080/555555/555555/13900
+#EXTINF:-1,#TVCine Action
+http://lindaflor.net:8080/555555/555555/13844
+#EXTINF:-1,#TVCine Action HD
+http://lindaflor.net:8080/555555/555555/13845
+#EXTINF:-1,#TVCine Edition
+http://lindaflor.net:8080/555555/555555/13840
+#EXTINF:-1,#TVCine Edition HD
+http://lindaflor.net:8080/555555/555555/13841
+#EXTINF:-1,#TVCine Emotion
+http://lindaflor.net:8080/555555/555555/13842
+#EXTINF:-1,#TVCine Emotion HD
+http://lindaflor.net:8080/555555/555555/13843
+#EXTINF:-1,#TVCine Top
+http://lindaflor.net:8080/555555/555555/13838
+#EXTINF:-1,#TVCine Top HD
+http://lindaflor.net:8080/555555/555555/13839
+#EXTINF:-1,#TVE 24 HORAS
+http://lindaflor.net:8080/555555/555555/13899
+#EXTINF:-1,#TVE Internacional
+http://lindaflor.net:8080/555555/555555/13901
+#EXTINF:-1,#TVI
+http://lindaflor.net:8080/555555/555555/13771
+#EXTINF:-1,#TVI 24
+http://lindaflor.net:8080/555555/555555/13775
+#EXTINF:-1,#TVI 24 HD
+http://lindaflor.net:8080/555555/555555/13776
+#EXTINF:-1,#TVI FHD
+http://lindaflor.net:8080/555555/555555/13772
+#EXTINF:-1,#TVI FICCAO
+http://lindaflor.net:8080/555555/555555/13791
+#EXTINF:-1,#TVI FICÃ‡ÃƒO HD
+http://lindaflor.net:8080/555555/555555/13792
+#EXTINF:-1,#TVI INTERNACIONAL
+http://lindaflor.net:8080/555555/555555/13871
+#EXTINF:-1,#TVI REALITY
+http://lindaflor.net:8080/555555/555555/13793
+#EXTINF:-1,#US: ESPN 4K
+http://lindaflor.net:8080/555555/555555/14174
+#EXTINF:-1,#USA:  BET Jams HD
+http://lindaflor.net:8080/555555/555555/14172
+#EXTINF:-1,#USA:  BET Soul HD
+http://lindaflor.net:8080/555555/555555/14173
+#EXTINF:-1,#USA: A and E HD
+http://lindaflor.net:8080/555555/555555/14041
+#EXTINF:-1,#USA: ABC Cleveland
+http://lindaflor.net:8080/555555/555555/14031
+#EXTINF:-1,#USA: ABC FAMILY/SPARK
+http://lindaflor.net:8080/555555/555555/14032
+#EXTINF:-1,#USA: ABC HD
+http://lindaflor.net:8080/555555/555555/14026
+#EXTINF:-1,#USA: ABC houston
+http://lindaflor.net:8080/555555/555555/14030
+#EXTINF:-1,#USA: ABC Kansas City
+http://lindaflor.net:8080/555555/555555/14029
+#EXTINF:-1,#USA: ABC News HD
+http://lindaflor.net:8080/555555/555555/14027
+#EXTINF:-1,#USA: ABC Sacramento HD
+http://lindaflor.net:8080/555555/555555/14028
+#EXTINF:-1,#USA: ActionMax
+http://lindaflor.net:8080/555555/555555/14042
+#EXTINF:-1,#USA: AFN Prime Atlantic
+http://lindaflor.net:8080/555555/555555/14043
+#EXTINF:-1,#USA: AFN Prime Pacific
+http://lindaflor.net:8080/555555/555555/14044
+#EXTINF:-1,#USA: AFN Sports
+http://lindaflor.net:8080/555555/555555/14045
+#EXTINF:-1,#USA: AFN Sports 2
+http://lindaflor.net:8080/555555/555555/14046
+#EXTINF:-1,#USA: AMC HD
+http://lindaflor.net:8080/555555/555555/14033
+#EXTINF:-1,#USA: Animal Planet HD
+http://lindaflor.net:8080/555555/555555/14047
+#EXTINF:-1,#USA: BBC America HD
+http://lindaflor.net:8080/555555/555555/14048
+#EXTINF:-1,#USA: BEIN Sports HD
+http://lindaflor.net:8080/555555/555555/14035
+#EXTINF:-1,#USA: BET HD
+http://lindaflor.net:8080/555555/555555/14049
+#EXTINF:-1,#USA: BET Her HD
+http://lindaflor.net:8080/555555/555555/14171
+#EXTINF:-1,#USA: Big Ten Network
+http://lindaflor.net:8080/555555/555555/14050
+#EXTINF:-1,#USA: Bloomberg HD
+http://lindaflor.net:8080/555555/555555/14051
+#EXTINF:-1,#USA: Boomerang HD
+http://lindaflor.net:8080/555555/555555/14052
+#EXTINF:-1,#USA: Bravo
+http://lindaflor.net:8080/555555/555555/14053
+#EXTINF:-1,#USA: BTN HD
+http://lindaflor.net:8080/555555/555555/14054
+#EXTINF:-1,#USA: C-SPAN 1 HD
+http://lindaflor.net:8080/555555/555555/14055
+#EXTINF:-1,#USA: C-SPAN 2 HD
+http://lindaflor.net:8080/555555/555555/14056
+#EXTINF:-1,#USA: C-SPAN 3 HD
+http://lindaflor.net:8080/555555/555555/14057
+#EXTINF:-1,#USA: Cartoon Network
+http://lindaflor.net:8080/555555/555555/14058
+#EXTINF:-1,#USA: CBN HD
+http://lindaflor.net:8080/555555/555555/14059
+#EXTINF:-1,#USA: CBS
+http://lindaflor.net:8080/555555/555555/14060
+#EXTINF:-1,#USA: CBS 2 HD
+http://lindaflor.net:8080/555555/555555/14062
+#EXTINF:-1,#USA: CBS 2 WBM (Chicago) HD
+http://lindaflor.net:8080/555555/555555/14063
+#EXTINF:-1,#USA: CBS Sports HQ
+http://lindaflor.net:8080/555555/555555/14061
+#EXTINF:-1,#USA: Cinemax 5
+http://lindaflor.net:8080/555555/555555/14064
+#EXTINF:-1,#USA: Cinemax MoreMax HD
+http://lindaflor.net:8080/555555/555555/14065
+#EXTINF:-1,#USA: CMT HD
+http://lindaflor.net:8080/555555/555555/14066
+#EXTINF:-1,#USA: CNBC HD
+http://lindaflor.net:8080/555555/555555/14067
+#EXTINF:-1,#USA: CNN HD
+http://lindaflor.net:8080/555555/555555/14036
+#EXTINF:-1,#USA: Comedy Central
+http://lindaflor.net:8080/555555/555555/14068
+#EXTINF:-1,#USA: Cooking Channel HD
+http://lindaflor.net:8080/555555/555555/14069
+#EXTINF:-1,#USA: CP24
+http://lindaflor.net:8080/555555/555555/14168
+#EXTINF:-1,#USA: Crime & Investigation HD
+http://lindaflor.net:8080/555555/555555/14070
+#EXTINF:-1,#USA: CW HD
+http://lindaflor.net:8080/555555/555555/14071
+#EXTINF:-1,#USA: Destination America
+http://lindaflor.net:8080/555555/555555/14072
+#EXTINF:-1,#USA: Discovery Channel HD
+http://lindaflor.net:8080/555555/555555/14073
+#EXTINF:-1,#USA: Discovery Family HD
+http://lindaflor.net:8080/555555/555555/14074
+#EXTINF:-1,#USA: Discovery HD
+http://lindaflor.net:8080/555555/555555/14034
+#EXTINF:-1,#USA: Discovery Science HD
+http://lindaflor.net:8080/555555/555555/14075
+#EXTINF:-1,#USA: Discovery Velocity HD
+http://lindaflor.net:8080/555555/555555/14076
+#EXTINF:-1,#USA: Disney Channel HD
+http://lindaflor.net:8080/555555/555555/14077
+#EXTINF:-1,#USA: Disney Jr. HD
+http://lindaflor.net:8080/555555/555555/14078
+#EXTINF:-1,#USA: DIY Network HD**
+http://lindaflor.net:8080/555555/555555/14079
+#EXTINF:-1,#USA: DTX HD
+http://lindaflor.net:8080/555555/555555/14080
+#EXTINF:-1,#USA: E! HD
+http://lindaflor.net:8080/555555/555555/14081
+#EXTINF:-1,#USA: ESPN
+http://lindaflor.net:8080/555555/555555/14082
+#EXTINF:-1,#USA: ESPN 2 HD
+http://lindaflor.net:8080/555555/555555/14083
+#EXTINF:-1,#USA: ESPN 3
+http://lindaflor.net:8080/555555/555555/14084
+#EXTINF:-1,#USA: ESPN Deportes HD
+http://lindaflor.net:8080/555555/555555/14085
+#EXTINF:-1,#USA: ESPN News US HD
+http://lindaflor.net:8080/555555/555555/14087
+#EXTINF:-1,#USA: ESPN plus
+http://lindaflor.net:8080/555555/555555/14088
+#EXTINF:-1,#USA: ESPN U HD
+http://lindaflor.net:8080/555555/555555/14086
+#EXTINF:-1,#USA: Food Network HD
+http://lindaflor.net:8080/555555/555555/14090
+#EXTINF:-1,#USA: FOX 25 HD
+http://lindaflor.net:8080/555555/555555/14037
+#EXTINF:-1,#USA: FOX Business Network HD
+http://lindaflor.net:8080/555555/555555/14091
+#EXTINF:-1,#USA: FOX HD
+http://lindaflor.net:8080/555555/555555/14092
+#EXTINF:-1,#USA: FOX News
+http://lindaflor.net:8080/555555/555555/14093
+#EXTINF:-1,#USA: Fox Soccer Plus
+http://lindaflor.net:8080/555555/555555/14089
+#EXTINF:-1,#USA: FOX Sports 1 HD
+http://lindaflor.net:8080/555555/555555/14095
+#EXTINF:-1,#USA: FOX Sports 2 HD
+http://lindaflor.net:8080/555555/555555/14094
+#EXTINF:-1,#USA: Fox Sports Arizona HD
+http://lindaflor.net:8080/555555/555555/14096
+#EXTINF:-1,#USA: FOX SPORTS Carolina HD
+http://lindaflor.net:8080/555555/555555/14097
+#EXTINF:-1,#USA: FOX SPORTS College Atlantic HD
+http://lindaflor.net:8080/555555/555555/14098
+#EXTINF:-1,#USA: FOX SPORTS DEPORTES HD
+http://lindaflor.net:8080/555555/555555/14099
+#EXTINF:-1,#USA: Fox Sports Detroit HD
+http://lindaflor.net:8080/555555/555555/14100
+#EXTINF:-1,#USA: Fox Sports Florida HD
+http://lindaflor.net:8080/555555/555555/14101
+#EXTINF:-1,#USA: Fox Sports North HD
+http://lindaflor.net:8080/555555/555555/14103
+#EXTINF:-1,#USA: FOX SPORTS PRIME TICKET HD
+http://lindaflor.net:8080/555555/555555/14105
+#EXTINF:-1,#USA: Fox Sports Racing HD
+http://lindaflor.net:8080/555555/555555/14106
+#EXTINF:-1,#USA: Fox Sports Sun HD
+http://lindaflor.net:8080/555555/555555/14104
+#EXTINF:-1,#USA: Fox Sports Tennessee HD
+http://lindaflor.net:8080/555555/555555/14102
+#EXTINF:-1,#USA: Fox Sports Wisconsin HD
+http://lindaflor.net:8080/555555/555555/14107
+#EXTINF:-1,#USA: Freeform HD
+http://lindaflor.net:8080/555555/555555/14108
+#EXTINF:-1,#USA: FX HD
+http://lindaflor.net:8080/555555/555555/14109
+#EXTINF:-1,#USA: FXX HD
+http://lindaflor.net:8080/555555/555555/14110
+#EXTINF:-1,#USA: GOL TV HD
+http://lindaflor.net:8080/555555/555555/14169
+#EXTINF:-1,#USA: Golf HD
+http://lindaflor.net:8080/555555/555555/14111
+#EXTINF:-1,#USA: GSN HD
+http://lindaflor.net:8080/555555/555555/14112
+#EXTINF:-1,#USA: H2
+http://lindaflor.net:8080/555555/555555/14114
+#EXTINF:-1,#USA: HallMark HD
+http://lindaflor.net:8080/555555/555555/14115
+#EXTINF:-1,#USA: HBO Comedy HD
+http://lindaflor.net:8080/555555/555555/14116
+#EXTINF:-1,#USA: HBO Family HD
+http://lindaflor.net:8080/555555/555555/14038
+#EXTINF:-1,#USA: HBO HD
+http://lindaflor.net:8080/555555/555555/14117
+#EXTINF:-1,#USA: HBO Signature HD
+http://lindaflor.net:8080/555555/555555/14118
+#EXTINF:-1,#USA: HBO Zone
+http://lindaflor.net:8080/555555/555555/14119
+#EXTINF:-1,#USA: HGTV HD
+http://lindaflor.net:8080/555555/555555/14039
+#EXTINF:-1,#USA: History
+http://lindaflor.net:8080/555555/555555/14120
+#EXTINF:-1,#USA: Home & Health
+http://lindaflor.net:8080/555555/555555/14113
+#EXTINF:-1,#USA: IFC HD
+http://lindaflor.net:8080/555555/555555/14121
+#EXTINF:-1,#USA: Investigation Discovery
+http://lindaflor.net:8080/555555/555555/14122
+#EXTINF:-1,#USA: Life Time
+http://lindaflor.net:8080/555555/555555/14123
+#EXTINF:-1,#USA: LMN HD
+http://lindaflor.net:8080/555555/555555/14124
+#EXTINF:-1,#USA: MLB Network
+http://lindaflor.net:8080/555555/555555/14125
+#EXTINF:-1,#USA: MSNBC HD
+http://lindaflor.net:8080/555555/555555/14126
+#EXTINF:-1,#USA: MTV HD
+http://lindaflor.net:8080/555555/555555/14127
+#EXTINF:-1,#USA: Nat Geo hd
+http://lindaflor.net:8080/555555/555555/14128
+#EXTINF:-1,#USA: Nat Geo Wild HD
+http://lindaflor.net:8080/555555/555555/14129
+#EXTINF:-1,#USA: NBA TV HD
+http://lindaflor.net:8080/555555/555555/14130
+#EXTINF:-1,#USA: NBC ATLANTA GA WXIA
+http://lindaflor.net:8080/555555/555555/14025
+#EXTINF:-1,#USA: NBC Golf
+http://lindaflor.net:8080/555555/555555/14131
+#EXTINF:-1,#USA: NBC Sports Bay Area
+http://lindaflor.net:8080/555555/555555/14175
+#EXTINF:-1,#USA: NBC Sports Boston
+http://lindaflor.net:8080/555555/555555/14176
+#EXTINF:-1,#USA: NBC Sports California
+http://lindaflor.net:8080/555555/555555/14177
+#EXTINF:-1,#USA: NBC Sports Chicago
+http://lindaflor.net:8080/555555/555555/14178
+#EXTINF:-1,#USA: NBC Sports Northwest
+http://lindaflor.net:8080/555555/555555/14179
+#EXTINF:-1,#USA: NBC Sports Philadelphia
+http://lindaflor.net:8080/555555/555555/14180
+#EXTINF:-1,#USA: NBCSN HD
+http://lindaflor.net:8080/555555/555555/14132
+#EXTINF:-1,#USA: NFL Network HD
+http://lindaflor.net:8080/555555/555555/14158
+#EXTINF:-1,#USA: NFL NOW HD
+http://lindaflor.net:8080/555555/555555/14159
+#EXTINF:-1,#USA: NFL Red Zone HD
+http://lindaflor.net:8080/555555/555555/14160
+#EXTINF:-1,#USA: NHL Network HD
+http://lindaflor.net:8080/555555/555555/14133
+#EXTINF:-1,#USA: Nick Jr. HD
+http://lindaflor.net:8080/555555/555555/14134
+#EXTINF:-1,#USA: Nickolodean HD
+http://lindaflor.net:8080/555555/555555/14135
+#EXTINF:-1,#USA: Nicktoons HD
+http://lindaflor.net:8080/555555/555555/14137
+#EXTINF:-1,#USA: OWN HD
+http://lindaflor.net:8080/555555/555555/14138
+#EXTINF:-1,#USA: Oxygen HD
+http://lindaflor.net:8080/555555/555555/14139
+#EXTINF:-1,#USA: PBS HD
+http://lindaflor.net:8080/555555/555555/14140
+#EXTINF:-1,#USA: PBS KIDS
+http://lindaflor.net:8080/555555/555555/14136
+#EXTINF:-1,#USA: Reelz HD
+http://lindaflor.net:8080/555555/555555/14141
+#EXTINF:-1,#USA: SEC Network HD
+http://lindaflor.net:8080/555555/555555/14142
+#EXTINF:-1,#USA: ShowTime
+http://lindaflor.net:8080/555555/555555/14143
+#EXTINF:-1,#USA: ShowTime 2 HD
+http://lindaflor.net:8080/555555/555555/14144
+#EXTINF:-1,#USA: Spike HD
+http://lindaflor.net:8080/555555/555555/14145
+#EXTINF:-1,#USA: Starz Edge
+http://lindaflor.net:8080/555555/555555/14146
+#EXTINF:-1,#USA: Sundance HD
+http://lindaflor.net:8080/555555/555555/14147
+#EXTINF:-1,#USA: SYFY HD
+http://lindaflor.net:8080/555555/555555/14148
+#EXTINF:-1,#USA: TBS HD
+http://lindaflor.net:8080/555555/555555/14040
+#EXTINF:-1,#USA: Tennis HD
+http://lindaflor.net:8080/555555/555555/14149
+#EXTINF:-1,#USA: The Weather Channel HD
+http://lindaflor.net:8080/555555/555555/14150
+#EXTINF:-1,#USA: TLC HD
+http://lindaflor.net:8080/555555/555555/14151
+#EXTINF:-1,#USA: TNT HD
+http://lindaflor.net:8080/555555/555555/14152
+#EXTINF:-1,#USA: Travel Channel HD
+http://lindaflor.net:8080/555555/555555/14153
+#EXTINF:-1,#USA: TRU TV HD *
+http://lindaflor.net:8080/555555/555555/14154
+#EXTINF:-1,#USA: TSN HD 1
+http://lindaflor.net:8080/555555/555555/14020
+#EXTINF:-1,#USA: TSN HD 2
+http://lindaflor.net:8080/555555/555555/14021
+#EXTINF:-1,#USA: TSN HD 3
+http://lindaflor.net:8080/555555/555555/14022
+#EXTINF:-1,#USA: TSN HD 4
+http://lindaflor.net:8080/555555/555555/14023
+#EXTINF:-1,#USA: TSN HD 5
+http://lindaflor.net:8080/555555/555555/14024
+#EXTINF:-1,#USA: TV Land HD
+http://lindaflor.net:8080/555555/555555/14155
+#EXTINF:-1,#USA: TyC Sports HD
+http://lindaflor.net:8080/555555/555555/14170
+#EXTINF:-1,#USA: UFC FIGHT PASS
+http://lindaflor.net:8080/555555/555555/14167
+#EXTINF:-1,#USA: Universal HD
+http://lindaflor.net:8080/555555/555555/14156
+#EXTINF:-1,#USA: USA Network
+http://lindaflor.net:8080/555555/555555/14157
+#EXTINF:-1,#USA: Velocity HD
+http://lindaflor.net:8080/555555/555555/14161
+#EXTINF:-1,#USA: VH1 HD
+http://lindaflor.net:8080/555555/555555/14162
+#EXTINF:-1,#USA: WGN America HD
+http://lindaflor.net:8080/555555/555555/14163
+#EXTINF:-1,#USA: Willow Cricket HD
+http://lindaflor.net:8080/555555/555555/14164
+#EXTINF:-1,#USA: WWE Network HD
+http://lindaflor.net:8080/555555/555555/14165
+#EXTINF:-1,#USA: WWE Network HD NXT
+http://lindaflor.net:8080/555555/555555/14166
+#EXTINF:-1,#VH1
+http://lindaflor.net:8080/555555/555555/13915
+#EXTINF:-1,#ZAP Viva FHD
 http://lindaflor.net:8080/232323/232323/170
 #EXTINF:-1,Discovery Channel HD
 http://lindaflor.net:8080/232323/232323/317
