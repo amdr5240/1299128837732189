@@ -4748,3 +4748,946 @@ http://srv.tvprodigital.net:80/@moxe@mix/@123456/34942
 http://srv.tvprodigital.net:80/@moxe@mix/@123456/34864
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1200px-Logo_AE_Germany.svg.png" group-title="FILMES E SERIES",A&E HD
+http://natv.pw:80/formiga/formiga/2017
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1200px-Logo_AE_Germany.svg.png" group-title="FILMES E SERIES",A&E HD²
+http://natv.pw:80/formiga/formiga/18397
+#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS HD" tvg-logo="https://3.bp.blogspot.com/-fmwFOCSFHRE/WVbriBZ6nLI/AAAAAAAAOYc/nyadJ4Lj610PGkyVW3uJNNTxkmtlt5xiQCLcBGAs/s320/ALL%2BSports.png" group-title="ESPORTES",ALL SPORTS HD
+http://natv.pw:80/formiga/formiga/18593
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="FILMES E SERIES",AMC HD
+http://natv.pw:80/formiga/formiga/2016
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="FILMES E SERIES",AMC HD²
+http://natv.pw:80/formiga/formiga/18332
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://1.bp.blogspot.com/-rlIRGyW2JUY/XGBAhNw0ujI/AAAAAAAAC5Y/w7oB0SRdX74zwktOY0hLzlTmhPKBWT3GwCLcBGAs/s1600/animalplanet.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD
+http://natv.pw:80/formiga/formiga/2015
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD²" tvg-logo="https://1.bp.blogspot.com/-rlIRGyW2JUY/XGBAhNw0ujI/AAAAAAAAC5Y/w7oB0SRdX74zwktOY0hLzlTmhPKBWT3GwCLcBGAs/s1600/animalplanet.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD²
+http://natv.pw:80/formiga/formiga/18591
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://sigaband.files.wordpress.com/2013/12/a4c97-arte_1_logo-svg.png" group-title="VARIEDADES",ARTE 1 HD
+http://natv.pw:80/formiga/formiga/2014
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD²" tvg-logo="https://sigaband.files.wordpress.com/2013/12/a4c97-arte_1_logo-svg.png" group-title="VARIEDADES",ARTE 1 HD²
+http://natv.pw:80/formiga/formiga/18602
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://ap.imagensbrasil.org/images/2017/04/28/axn.png" group-title="FILMES E SERIES",AXN HD
+http://natv.pw:80/formiga/formiga/2013
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD²" tvg-logo="https://ap.imagensbrasil.org/images/2017/04/28/axn.png" group-title="FILMES E SERIES",AXN HD²
+http://natv.pw:80/formiga/formiga/18495
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="INFANTIL",BABY TV HD
+http://natv.pw:80/formiga/formiga/2012
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND CAMPINAS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS ABERTOS",BAND CAMPINAS HD
+http://natv.pw:80/formiga/formiga/1937
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/1280px-BandNews_TV_logo_2010.svg.png" group-title="NOTÍCIAS",BAND NEWS HD
+http://natv.pw:80/formiga/formiga/2010
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/1280px-BandNews_TV_logo_2010.svg.png" group-title="NOTÍCIAS",BAND NEWS HD²
+http://natv.pw:80/formiga/formiga/18611
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS ABERTOS",BAND RJ HD
+http://natv.pw:80/formiga/formiga/19058
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS ABERTOS",BAND SP HD
+http://natv.pw:80/formiga/formiga/18303
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS ABERTOS",BAND SP HD²
+http://natv.pw:80/formiga/formiga/2127
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="ESPORTES",BAND SPORTS HD
+http://natv.pw:80/formiga/formiga/2009
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD²" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="ESPORTES",BAND SPORTS HD²
+http://natv.pw:80/formiga/formiga/18620
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="MUSICAIS",BIS HD
+http://natv.pw:80/formiga/formiga/2008
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD²" tvg-logo="https://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="MUSICAIS",BIS HD²
+http://natv.pw:80/formiga/formiga/18623
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="INFANTIL",BOOMERANG HD
+http://natv.pw:80/formiga/formiga/2007
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="INFANTIL",BOOMERANG HD²
+http://natv.pw:80/formiga/formiga/18625
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canalbrasilb.png" group-title="FILMES E SERIES",CANAL BRASIL HD
+http://natv.pw:80/formiga/formiga/18298
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://4.bp.blogspot.com/-qWiKzPaF5FU/WhhMqYrjJmI/AAAAAAAABXk/YU2uh_h20i0eN1nLpc81jTY1hRPClUaKQCLcBGAs/s1600/canalsony.png" group-title="FILMES E SERIES",CANAL SONY HD
+http://natv.pw:80/formiga/formiga/2006
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD²" tvg-logo="https://4.bp.blogspot.com/-qWiKzPaF5FU/WhhMqYrjJmI/AAAAAAAABXk/YU2uh_h20i0eN1nLpc81jTY1hRPClUaKQCLcBGAs/s1600/canalsony.png" group-title="FILMES E SERIES",CANAL SONY HD²
+http://natv.pw:80/formiga/formiga/18629
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://4.bp.blogspot.com/-d6xvP6M0VSo/WiBWLTaMLqI/AAAAAAAABgc/n5ZNCM1ZMQcKkGrJ5kX1xh7KUBfLficYQCLcBGAs/s1600/CartoonNetwork.png" group-title="INFANTIL",CARTOON NETWORK HD
+http://natv.pw:80/formiga/formiga/18296
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD²" tvg-logo="https://4.bp.blogspot.com/-d6xvP6M0VSo/WiBWLTaMLqI/AAAAAAAABgc/n5ZNCM1ZMQcKkGrJ5kX1xh7KUBfLficYQCLcBGAs/s1600/CartoonNetwork.png" group-title="INFANTIL",CARTOON NETWORK HD²
+http://natv.pw:80/formiga/formiga/18631
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png" group-title="FILMES E SERIES",CINEMAX HD
+http://natv.pw:80/formiga/formiga/2004
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png" group-title="FILMES E SERIES",CINEMAX HD²
+http://natv.pw:80/formiga/formiga/18634
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL HD" tvg-logo="https://www.set.org.br/wp-content/uploads/2017/01/CNN_Brasil.png" group-title="NOTÍCIAS",CNN BRASIL HD
+http://natv.pw:80/formiga/formiga/24099
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="COMBATE",COMBATE HD
+http://natv.pw:80/formiga/formiga/2003
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="COMBATE",COMBATE HD²
+http://natv.pw:80/formiga/formiga/18369
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Comedy_Central_2018_vertical_alt.png" group-title="VARIEDADES",COMEDY CENTRAL HD
+http://natv.pw:80/formiga/formiga/2002
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD²" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Comedy_Central_2018_vertical_alt.png" group-title="VARIEDADES",COMEDY CENTRAL HD²
+http://natv.pw:80/formiga/formiga/18639
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE HD" tvg-logo="https://fcf.com.br///wp-content/uploads/2016/11/logo-COPASC-PRO.png" group-title="ESPORTES",COPA CATARINENSE HD
+http://natv.pw:80/formiga/formiga/20427
+#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE HD²" tvg-logo="https://fcf.com.br///wp-content/uploads/2016/11/logo-COPASC-PRO.png" group-title="ESPORTES",COPA CATARINENSE HD²
+http://natv.pw:80/formiga/formiga/20428
+#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png" group-title="ESPORTES",COPA NORDESTE HD
+http://natv.pw:80/formiga/formiga/22625
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA HD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="VARIEDADES",CURTA HD
+http://natv.pw:80/formiga/formiga/2119
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="DAZN 1 HD" tvg-logo="https://i.imgur.com/O636VAn.jpg" group-title="ESPORTES",DAZN 1 HD
+http://natv.pw:80/formiga/formiga/18364
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="https://i.imgur.com/O636VAn.jpg" group-title="ESPORTES",DAZN 2 HD
+http://natv.pw:80/formiga/formiga/18365
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://2.bp.blogspot.com/-jHasdqgcF7Y/Wh8TWTJ9oBI/AAAAAAAABcg/-wgqU7snsIo4oxWNqS6bvO2fdyOLVRLhgCLcBGAs/s1600/Discovery_Channel2.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
+http://natv.pw:80/formiga/formiga/2000
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD²" tvg-logo="https://2.bp.blogspot.com/-jHasdqgcF7Y/Wh8TWTJ9oBI/AAAAAAAABcg/-wgqU7snsIo4oxWNqS6bvO2fdyOLVRLhgCLcBGAs/s1600/Discovery_Channel2.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD²
+http://natv.pw:80/formiga/formiga/18292
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="VARIEDADES",DISCOVERY H&H HD
+http://natv.pw:80/formiga/formiga/1998
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="VARIEDADES",DISCOVERY H&H HD²
+http://natv.pw:80/formiga/formiga/18654
+#EXTINF:-1 tvg-id="HGTV" tvg-name="DISCOVERY HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/800px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTÁRIOS",DISCOVERY HGTV HD
+http://natv.pw:80/formiga/formiga/1999
+#EXTINF:-1 tvg-id="HGTV" tvg-name="DISCOVERY HGTV HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/800px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTÁRIOS",DISCOVERY HGTV HD²
+http://natv.pw:80/formiga/formiga/18652
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="INFANTIL",DISCOVERY KIDS HD
+http://natv.pw:80/formiga/formiga/1997
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="INFANTIL",DISCOVERY KIDS HD²
+http://natv.pw:80/formiga/formiga/18287
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://3.bp.blogspot.com/-5fHUS4ZQY6s/Wh8TYKPrFxI/AAAAAAAABc0/bOlqT3P3TS0kD5pNg4POWr8-aVXRadkpACLcBGAs/s1600/Discovery_Science.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
+http://natv.pw:80/formiga/formiga/1996
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD²" tvg-logo="https://3.bp.blogspot.com/-5fHUS4ZQY6s/Wh8TYKPrFxI/AAAAAAAABc0/bOlqT3P3TS0kD5pNg4POWr8-aVXRadkpACLcBGAs/s1600/Discovery_Science.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD²
+http://natv.pw:80/formiga/formiga/18286
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://2.bp.blogspot.com/-6fuGD-JoXfU/Wh8TYrX7afI/AAAAAAAABc8/JX-3bF9Jpj4Uc1tI5pDni--J3bz-Rq84wCLcBGAs/s1600/Discovery_Theather.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER HD
+http://natv.pw:80/formiga/formiga/1995
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD²" tvg-logo="https://2.bp.blogspot.com/-6fuGD-JoXfU/Wh8TYrX7afI/AAAAAAAABc8/JX-3bF9Jpj4Uc1tI5pDni--J3bz-Rq84wCLcBGAs/s1600/Discovery_Theather.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER HD²
+http://natv.pw:80/formiga/formiga/18664
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://2.bp.blogspot.com/-fdaqX0O2UdU/Wh8TZPuM3kI/AAAAAAAABc4/GWq6jO2mWpEOuWIPKr7cyBaZq_1hcPV4ACLcBGAs/s1600/Discovery_Turbo.png" group-title="VARIEDADES",DISCOVERY TURBO HD
+http://natv.pw:80/formiga/formiga/1994
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD²" tvg-logo="https://2.bp.blogspot.com/-fdaqX0O2UdU/Wh8TZPuM3kI/AAAAAAAABc4/GWq6jO2mWpEOuWIPKr7cyBaZq_1hcPV4ACLcBGAs/s1600/Discovery_Turbo.png" group-title="VARIEDADES",DISCOVERY TURBO HD²
+http://natv.pw:80/formiga/formiga/18288
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://4.bp.blogspot.com/-2KK7Vhg9_wg/Wh8TZkL6hBI/AAAAAAAABdA/gYZWJOnmeJImO9veG9J2GneKaE2xP7pWgCLcBGAs/s1600/Discovery_World.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD HD
+http://natv.pw:80/formiga/formiga/1993
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD²" tvg-logo="https://4.bp.blogspot.com/-2KK7Vhg9_wg/Wh8TZkL6hBI/AAAAAAAABdA/gYZWJOnmeJImO9veG9J2GneKaE2xP7pWgCLcBGAs/s1600/Discovery_World.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD HD²
+http://natv.pw:80/formiga/formiga/18670
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-7Mr-nE8bbh4/WiBR11V8dLI/AAAAAAAABgE/iSaKIQ2PKGgATJ-ia2OSc7yuJxqBlJEgwCLcBGAs/s1600/disneychannel.png" group-title="INFANTIL",DISNEY CHANNEL HD
+http://natv.pw:80/formiga/formiga/1992
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD²" tvg-logo="https://1.bp.blogspot.com/-7Mr-nE8bbh4/WiBR11V8dLI/AAAAAAAABgE/iSaKIQ2PKGgATJ-ia2OSc7yuJxqBlJEgwCLcBGAs/s1600/disneychannel.png" group-title="INFANTIL",DISNEY CHANNEL HD²
+http://natv.pw:80/formiga/formiga/18284
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR HD" tvg-logo="https://1.bp.blogspot.com/-LJn1UpJHzKQ/WiBWMDx5jwI/AAAAAAAABgs/VpADoCZ7CDsJqm48-Komu0C0NeIuTRaiwCLcBGAs/s1600/disneyjr.png" group-title="INFANTIL",DISNEY JR HD
+http://natv.pw:80/formiga/formiga/1991
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR HD²" tvg-logo="https://1.bp.blogspot.com/-LJn1UpJHzKQ/WiBWMDx5jwI/AAAAAAAABgs/VpADoCZ7CDsJqm48-Komu0C0NeIuTRaiwCLcBGAs/s1600/disneyjr.png" group-title="INFANTIL",DISNEY JR HD²
+http://natv.pw:80/formiga/formiga/18282
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD" tvg-logo="https://1.bp.blogspot.com/-4OBvZRqXyAE/WiBWMRKO2xI/AAAAAAAABgw/-vPNRIcoCQYQyn0ptuisZRQFPfFoOMOaACLcBGAs/s320/disneyxd.png" group-title="INFANTIL",DISNEY XD HD
+http://natv.pw:80/formiga/formiga/1990
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD²" tvg-logo="https://1.bp.blogspot.com/-4OBvZRqXyAE/WiBWMRKO2xI/AAAAAAAABgw/-vPNRIcoCQYQyn0ptuisZRQFPfFoOMOaACLcBGAs/s320/disneyxd.png" group-title="INFANTIL",DISNEY XD HD²
+http://natv.pw:80/formiga/formiga/19032
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="https://3.bp.blogspot.com/-Ky1NRw9rHPs/WhtB_ZxOfiI/AAAAAAAABa0/h7aE-wVyI_YDmLPMjN0eaaJEW9-UC9VaQCLcBGAs/s1600/Ecanal.png" group-title="VARIEDADES",E! HD
+http://natv.pw:80/formiga/formiga/18280
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="EI PLUS 1 HD" tvg-logo="https://i.imgur.com/EYi4AB7.jpg" group-title="ESPORTES",EI PLUS 1 HD
+http://natv.pw:80/formiga/formiga/18513
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="EI PLUS 2 HD" tvg-logo="https://i.imgur.com/EYi4AB7.jpg" group-title="ESPORTES",EI PLUS 2 HD
+http://natv.pw:80/formiga/formiga/19047
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="ESPN 2 HD" tvg-logo="https://www.usasevens.com/las-vegas/files/2017/12/ESPN-Logo.png" group-title="ESPORTES",ESPN 2 HD
+http://natv.pw:80/formiga/formiga/1989
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD²" tvg-logo="https://www.usasevens.com/las-vegas/files/2017/12/ESPN-Logo.png" group-title="ESPORTES",ESPN 2 HD²
+http://natv.pw:80/formiga/formiga/18685
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="ESPORTES",ESPN BRASIL HD
+http://natv.pw:80/formiga/formiga/1988
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="ESPORTES",ESPN BRASIL HD²
+http://natv.pw:80/formiga/formiga/18688
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://4.bp.blogspot.com/-1FctOEGQ12E/Wi6jGQUDS8I/AAAAAAAABuQ/oKBf8i0TOqUqIAokAvBwJVS9U6sNKoSzACLcBGAs/s1600/espnextra.png" group-title="ESPORTES",ESPN EXTRA HD
+http://natv.pw:80/formiga/formiga/18278
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN EXTRA SD" tvg-logo="https://4.bp.blogspot.com/-1FctOEGQ12E/Wi6jGQUDS8I/AAAAAAAABuQ/oKBf8i0TOqUqIAokAvBwJVS9U6sNKoSzACLcBGAs/s1600/espnextra.png" group-title="ESPORTES",ESPN EXTRA SD
+http://natv.pw:80/formiga/formiga/25155
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD" tvg-logo="https://www.usasevens.com/las-vegas/files/2017/12/ESPN-Logo.png" group-title="ESPORTES",ESPN HD
+http://natv.pw:80/formiga/formiga/1987
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD²" tvg-logo="https://www.usasevens.com/las-vegas/files/2017/12/ESPN-Logo.png" group-title="ESPORTES",ESPN HD²
+http://natv.pw:80/formiga/formiga/19048
+#EXTINF:-1 tvg-id="FashionTVBrasil.br" tvg-name="FASHION TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/230px-Fashion_TV_logo.svg.png" group-title="VARIEDADES",FASHION TV HD
+http://natv.pw:80/formiga/formiga/18396
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD" tvg-logo="https://4.bp.blogspot.com/-BIEpemIc1cE/Wi6hsdP_SzI/AAAAAAAABt8/2sQe6JbQqJMV814251L3NqWOcos3li_3gCLcBGAs/s1600/fishtv.png" group-title="ESPORTES",FISH TV HD
+http://natv.pw:80/formiga/formiga/1986
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD²" tvg-logo="https://4.bp.blogspot.com/-BIEpemIc1cE/Wi6hsdP_SzI/AAAAAAAABt8/2sQe6JbQqJMV814251L3NqWOcos3li_3gCLcBGAs/s1600/fishtv.png" group-title="ESPORTES",FISH TV HD²
+http://natv.pw:80/formiga/formiga/18689
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://1.bp.blogspot.com/-Z2fL1W6QYug/WhtCA91TO9I/AAAAAAAABa4/v2PTe-cJrAAcgRIUOha1qowJDegaaE2sgCLcBGAs/s1600/foodnetwork.png" group-title="VARIEDADES",FOOD NETWORK HD
+http://natv.pw:80/formiga/formiga/1985
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD²" tvg-logo="https://1.bp.blogspot.com/-Z2fL1W6QYug/WhtCA91TO9I/AAAAAAAABa4/v2PTe-cJrAAcgRIUOha1qowJDegaaE2sgCLcBGAs/s1600/foodnetwork.png" group-title="VARIEDADES",FOOD NETWORK HD²
+http://natv.pw:80/formiga/formiga/18692
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD" tvg-logo="https://3.bp.blogspot.com/-Hw_k3C1qzYI/Whg80aK7lMI/AAAAAAAABV8/PQQDASpd_MgNjfi4Dwvoaaa6kldRxhT9wCLcBGAs/s1600/fox.png" group-title="FILMES E SERIES",FOX HD
+http://natv.pw:80/formiga/formiga/1984
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE HD" tvg-logo="https://1.bp.blogspot.com/-SchaEqWW8tw/Whg88oqvPVI/AAAAAAAABWI/Qxw8SSlwosU9WvGpIlhSwYfMgqgdal2fwCLcBGAs/s1600/foxlife.png" group-title="FILMES E SERIES",FOX LIFE HD
+http://natv.pw:80/formiga/formiga/1983
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE HD²" tvg-logo="https://1.bp.blogspot.com/-SchaEqWW8tw/Whg88oqvPVI/AAAAAAAABWI/Qxw8SSlwosU9WvGpIlhSwYfMgqgdal2fwCLcBGAs/s1600/foxlife.png" group-title="FILMES E SERIES",FOX LIFE HD²
+http://natv.pw:80/formiga/formiga/18699
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 HD" tvg-logo="https://2.bp.blogspot.com/-kfkMBXoozXQ/WiA2nZ9vCWI/AAAAAAAABfI/XE6EV4YlFR4oi6gb3PgXeVk7-wo19HqUwCLcBGAs/s1600/foxpremium1.png" group-title="FILMES E SERIES",FOX PREMIUM 1 HD
+http://natv.pw:80/formiga/formiga/1982
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 HD" tvg-logo="https://3.bp.blogspot.com/-wFaA7Hscy4I/WiA2nx1vZeI/AAAAAAAABfM/QQzOJMyaW_0ujlPjpWQ3AcI1rCA14PvrACLcBGAs/s1600/foxpremium2.png" group-title="FILMES E SERIES",FOX PREMIUM 2 HD
+http://natv.pw:80/formiga/formiga/1981
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 HD²" tvg-logo="https://3.bp.blogspot.com/-wFaA7Hscy4I/WiA2nx1vZeI/AAAAAAAABfM/QQzOJMyaW_0ujlPjpWQ3AcI1rCA14PvrACLcBGAs/s1600/foxpremium2.png" group-title="FILMES E SERIES",FOX PREMIUM 2 HD²
+http://natv.pw:80/formiga/formiga/18274
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://2.bp.blogspot.com/-sgCNaCmIbBU/Wh_-ZhZHAqI/AAAAAAAABd8/aphhHB2L4C0Wski0MvtuyPKmWSZG1-9HQCLcBGAs/s1600/foxsports2.png" group-title="ESPORTES",FOX SPORTS 2 HD
+http://natv.pw:80/formiga/formiga/1980
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD²" tvg-logo="https://2.bp.blogspot.com/-sgCNaCmIbBU/Wh_-ZhZHAqI/AAAAAAAABd8/aphhHB2L4C0Wski0MvtuyPKmWSZG1-9HQCLcBGAs/s1600/foxsports2.png" group-title="ESPORTES",FOX SPORTS 2 HD²
+http://natv.pw:80/formiga/formiga/18707
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="FOX SPORTS HD" tvg-logo="https://2.bp.blogspot.com/-W2fYT-zi8tw/Wh_-ZJ39DzI/AAAAAAAABd4/xcoFURA9sCQrG6uZ45OBVLnk2UqaR2soQCLcBGAs/s1600/foxsports.png" group-title="ESPORTES",FOX SPORTS HD
+http://natv.pw:80/formiga/formiga/1979
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="FOX SPORTS HD²" tvg-logo="https://2.bp.blogspot.com/-W2fYT-zi8tw/Wh_-ZJ39DzI/AAAAAAAABd4/xcoFURA9sCQrG6uZ45OBVLnk2UqaR2soQCLcBGAs/s1600/foxsports.png" group-title="ESPORTES",FOX SPORTS HD²
+http://natv.pw:80/formiga/formiga/18710
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://1.bp.blogspot.com/-d_r3b3F3R5A/Whg9BVbk5SI/AAAAAAAABWM/Ibgn8886bm42OHb0K6x4MybHwW9qOisuwCLcBGAs/s1600/fx.png" group-title="FILMES E SERIES",FX HD
+http://natv.pw:80/formiga/formiga/1978
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="https://4.bp.blogspot.com/-awZzY4oHP3Q/Wm99jDpVbqI/AAAAAAAAB6U/kAaguIHE1FI6BXv4QYfgZEnpUNmgHVmhQCLcBGAs/s1600/globodf.png" group-title="REDE GLOBO",GLOBO BRASILIA HD
+http://natv.pw:80/formiga/formiga/18358
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA HD²" tvg-logo="https://4.bp.blogspot.com/-awZzY4oHP3Q/Wm99jDpVbqI/AAAAAAAAB6U/kAaguIHE1FI6BXv4QYfgZEnpUNmgHVmhQCLcBGAs/s1600/globodf.png" group-title="REDE GLOBO",GLOBO BRASILIA HD²
+http://natv.pw:80/formiga/formiga/19111
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="https://1.bp.blogspot.com/-UqysF2coZ0Q/W2Rx0zZQvJI/AAAAAAAACTg/7RNxUBhZVWoalfRB2QG7aQv44qoNAtpDQCPcBGAYYCw/s1600/nsctv.png" group-title="REDE GLOBO",GLOBO EPTV CAMPINAS FHD
+http://natv.pw:80/formiga/formiga/18343
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="REDE GLOBO",GLOBO EPTV CAMPINAS HD
+http://natv.pw:80/formiga/formiga/18723
+#EXTINF:-1 tvg-id="Verdesmares.br" tvg-name="GLOBO GAZETA ES HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvgazetaalagoas.png" group-title="REDE GLOBO",GLOBO GAZETA ES HD
+http://natv.pw:80/formiga/formiga/19114
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GLOBO INTER TV ALTO LITORAL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="REDE GLOBO",GLOBO INTER TV ALTO LITORAL HD
+http://natv.pw:80/formiga/formiga/19406
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO MANAUS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="REDE GLOBO",GLOBO MANAUS SD
+http://natv.pw:80/formiga/formiga/19466
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS HD" tvg-logo="https://2.bp.blogspot.com/-pIevhpQT0Z8/WoYSvmJuFKI/AAAAAAAAB94/-2_J-sW1DGsX3zaMXbRNfSVQcODzBEBiQCLcBGAs/s1600/globo-mg.png" group-title="REDE GLOBO",GLOBO MINAS HD
+http://natv.pw:80/formiga/formiga/1977
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS HD²" tvg-logo="https://2.bp.blogspot.com/-pIevhpQT0Z8/WoYSvmJuFKI/AAAAAAAAB94/-2_J-sW1DGsX3zaMXbRNfSVQcODzBEBiQCLcBGAs/s1600/globo-mg.png" group-title="REDE GLOBO",GLOBO MINAS HD²
+http://natv.pw:80/formiga/formiga/18361
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://2.bp.blogspot.com/-MPgU2pZ1tUQ/WiAXTKscnBI/AAAAAAAABek/9Jh6RXOba94RVYibulWqx-qp6UKzGx7kgCLcBGAs/s1600/globonews.png" group-title="NOTÍCIAS",GLOBO NEWS HD
+http://natv.pw:80/formiga/formiga/1976
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD²" tvg-logo="https://2.bp.blogspot.com/-MPgU2pZ1tUQ/WiAXTKscnBI/AAAAAAAABek/9Jh6RXOba94RVYibulWqx-qp6UKzGx7kgCLcBGAs/s1600/globonews.png" group-title="NOTÍCIAS",GLOBO NEWS HD²
+http://natv.pw:80/formiga/formiga/18923
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://4.bp.blogspot.com/-3Xc-oO3YO9E/WoYSvuf1v-I/AAAAAAAAB98/16K4Wy_5WWAD0hPMOvc_oWvj2oSNi5vkACLcBGAs/s1600/globo-nordeste.png" group-title="REDE GLOBO",GLOBO NORDESTE HD
+http://natv.pw:80/formiga/formiga/1975
+#EXTINF:-1 tvg-id="NSCTVBlumenauHD.br" tvg-name="GLOBO NSC BLUMENAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="REDE GLOBO",GLOBO NSC BLUMENAL HD
+http://natv.pw:80/formiga/formiga/25313
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GLOBO RBS HD" tvg-logo="https://4.bp.blogspot.com/-jtLn98uBXYc/Wm99ky66LbI/AAAAAAAAB68/_LOfYUCpIpYjEQCf1wvlDSNI_kT067A6gCLcBGAs/s1600/rbsrs.png" group-title="REDE GLOBO",GLOBO RBS HD
+http://natv.pw:80/formiga/formiga/2063
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GLOBO RBS HD²" tvg-logo="https://4.bp.blogspot.com/-jtLn98uBXYc/Wm99ky66LbI/AAAAAAAAB68/_LOfYUCpIpYjEQCf1wvlDSNI_kT067A6gCLcBGAs/s1600/rbsrs.png" group-title="REDE GLOBO",GLOBO RBS HD²
+http://natv.pw:80/formiga/formiga/19183
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://3.bp.blogspot.com/-1lp0y51a85g/WoTeruA-L6I/AAAAAAAAB9c/r7LyZkJUfj0LDGl-bsRALqd667bWLfEIwCLcBGAs/s1600/grj.png" group-title="REDE GLOBO",GLOBO RJ HD
+http://natv.pw:80/formiga/formiga/1974
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD²" tvg-logo="https://3.bp.blogspot.com/-1lp0y51a85g/WoTeruA-L6I/AAAAAAAAB9c/r7LyZkJUfj0LDGl-bsRALqd667bWLfEIwCLcBGAs/s1600/grj.png" group-title="REDE GLOBO",GLOBO RJ HD²
+http://natv.pw:80/formiga/formiga/18336
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC TV HD" tvg-logo="https://1.bp.blogspot.com/-oQLO6AHh8m0/W2Rx1Q6mtQI/AAAAAAAACTU/ot8NTXSEYL4NdBaBMjOiRv8-h9t2xBcaQCLcBGAs/s1600/rpc.png" group-title="REDE GLOBO",GLOBO RPC TV HD
+http://natv.pw:80/formiga/formiga/1973
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC TV HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="REDE GLOBO",GLOBO RPC TV HD²
+http://natv.pw:80/formiga/formiga/18718
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO S.J.R.P HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvtem.png" group-title="REDE GLOBO",GLOBO S.J.R.P HD
+http://natv.pw:80/formiga/formiga/20890
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO SC HD" tvg-logo="https://1.bp.blogspot.com/-UqysF2coZ0Q/W2Rx0zZQvJI/AAAAAAAACTg/7RNxUBhZVWoalfRB2QG7aQv44qoNAtpDQCPcBGAYYCw/s1600/nsctv.png" group-title="REDE GLOBO",GLOBO SC HD
+http://natv.pw:80/formiga/formiga/18722
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="https://2.bp.blogspot.com/-zXkeaygUnTA/WoTerU7_M1I/AAAAAAAAB9Y/L0U03FkDWc4XJy9QifNgBZLMVyIZbAd-gCLcBGAs/s1600/gsp.png" group-title="REDE GLOBO",GLOBO SP HD
+http://natv.pw:80/formiga/formiga/2157
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD²" tvg-logo="https://2.bp.blogspot.com/-zXkeaygUnTA/WoTerU7_M1I/AAAAAAAAB9Y/L0U03FkDWc4XJy9QifNgBZLMVyIZbAd-gCLcBGAs/s1600/gsp.png" group-title="REDE GLOBO",GLOBO SP HD²
+http://natv.pw:80/formiga/formiga/18330
+#EXTINF:-1 tvg-id="TV Anhanguera Goiânia" tvg-name="GLOBO TV ANHANGHERA GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a0/Logo_TV_Anhanguera_2019.png" group-title="REDE GLOBO",GLOBO TV ANHANGHERA GOIANIA HD
+http://natv.pw:80/formiga/formiga/25670
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO TV BAHIA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="REDE GLOBO",GLOBO TV BAHIA HD
+http://natv.pw:80/formiga/formiga/18724
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO TV BAHIA SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="REDE GLOBO",GLOBO TV BAHIA SD
+http://natv.pw:80/formiga/formiga/19128
+#EXTINF:-1 tvg-id="TVCaboBrancoHD.br" tvg-name="GLOBO TV CABO BRANCO HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-cabo-branco_m.png" group-title="REDE GLOBO",GLOBO TV CABO BRANCO HD
+http://natv.pw:80/formiga/formiga/23629
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO TV MIRANTE HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="REDE GLOBO",GLOBO TV MIRANTE HD
+http://natv.pw:80/formiga/formiga/19026
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO TV MORENA FHD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5b/Logotipo_da_TV_Morena.png" group-title="REDE GLOBO",GLOBO TV MORENA FHD²
+http://natv.pw:80/formiga/formiga/19144
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO TV MORENA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5b/Logotipo_da_TV_Morena.png" group-title="REDE GLOBO",GLOBO TV MORENA HD
+http://natv.pw:80/formiga/formiga/19143
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="REDE GLOBO",GLOBO TV RIO SUL HD
+http://natv.pw:80/formiga/formiga/18715
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO TV VERDES MARES HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="REDE GLOBO",GLOBO TV VERDES MARES HD
+http://natv.pw:80/formiga/formiga/18306
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO TV VERDES MARES SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="REDE GLOBO",GLOBO TV VERDES MARES SD
+http://natv.pw:80/formiga/formiga/19516
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="https://2.bp.blogspot.com/-BhbsAXrnwYs/WiBWMvSzpNI/AAAAAAAABg0/GxlaOZ0nS0wyp8gy8D_aJNgTAC6UWXMJwCLcBGAs/s1600/gloob.png" group-title="INFANTIL",GLOOB HD
+http://natv.pw:80/formiga/formiga/1971
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD²" tvg-logo="https://2.bp.blogspot.com/-BhbsAXrnwYs/WiBWMvSzpNI/AAAAAAAABg0/GxlaOZ0nS0wyp8gy8D_aJNgTAC6UWXMJwCLcBGAs/s1600/gloob.png" group-title="INFANTIL",GLOOB HD²
+http://natv.pw:80/formiga/formiga/18726
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloobinho-logo.png" group-title="INFANTIL",GLOOBINHO HD
+http://natv.pw:80/formiga/formiga/23889
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="https://1.bp.blogspot.com/-B_PrvQhkEEc/Whs8P7SSSbI/AAAAAAAABZU/Rci0Cc57MZ8F05bh8vhBuBYe0DH7qtIagCLcBGAs/s1600/gnt.png" group-title="VARIEDADES",GNT HD
+http://natv.pw:80/formiga/formiga/1970
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="https://2.bp.blogspot.com/-GcxnKIsdeys/Wh8TZq3xlVI/AAAAAAAABdE/MyqV1HlfTaQ03ukmU6-2SXrey79U0fvBACLcBGAs/s1600/History2.png" group-title="DOCUMENTÁRIOS",H2 HD
+http://natv.pw:80/formiga/formiga/1969
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://4.bp.blogspot.com/-15CL3AgyytU/WhXBuolPliI/AAAAAAAABUI/17F8zuH-3zEE0oKVh2Zk4_O9SmULy00AwCLcBGAs/s1600/hbo2.png" group-title="HBO",HBO 2 HD
+http://natv.pw:80/formiga/formiga/1964
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD²" tvg-logo="https://4.bp.blogspot.com/-15CL3AgyytU/WhXBuolPliI/AAAAAAAABUI/17F8zuH-3zEE0oKVh2Zk4_O9SmULy00AwCLcBGAs/s1600/hbo2.png" group-title="HBO",HBO 2 HD²
+http://natv.pw:80/formiga/formiga/18773
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://2.bp.blogspot.com/-Rzizh0oKbZo/WhXBvUPKVbI/AAAAAAAABUM/s8Q1xvAihIUfdWDLcBXFFfM0sX38iTHuQCLcBGAs/s1600/hbofamily.png" group-title="HBO",HBO FAMILY HD
+http://natv.pw:80/formiga/formiga/1968
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://2.bp.blogspot.com/-l_OR3-jrhrc/WhXBstTkjrI/AAAAAAAABUE/nsm7_Pd2ZlIQPwaRCPu9hzzKAxSgCfE6QCLcBGAs/s1600/hbo.png" group-title="HBO",HBO HD
+http://natv.pw:80/formiga/formiga/1967
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD²" tvg-logo="https://2.bp.blogspot.com/-l_OR3-jrhrc/WhXBstTkjrI/AAAAAAAABUE/nsm7_Pd2ZlIQPwaRCPu9hzzKAxSgCfE6QCLcBGAs/s1600/hbo.png" group-title="HBO",HBO HD²
+http://natv.pw:80/formiga/formiga/18778
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="https://i.imgur.com/JrsiBXX.png" group-title="HBO",HBO MUNDI HD
+http://natv.pw:80/formiga/formiga/1959
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="https://2.bp.blogspot.com/-HsYv0q6A1to/XNtI-8bw35I/AAAAAAAADHQ/-ac5PB9WxPEizH2aNTO_OjhYJXvjQfaXwCLcBGAs/s1600/hboplus.png" group-title="HBO",HBO PLUS HD
+http://natv.pw:80/formiga/formiga/1966
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD²" tvg-logo="https://2.bp.blogspot.com/-HsYv0q6A1to/XNtI-8bw35I/AAAAAAAADHQ/-ac5PB9WxPEizH2aNTO_OjhYJXvjQfaXwCLcBGAs/s1600/hboplus.png" group-title="HBO",HBO PLUS HD²
+http://natv.pw:80/formiga/formiga/18783
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO POP HD" tvg-logo="https://i.imgur.com/DnmUjVW.png" group-title="HBO",HBO POP HD
+http://natv.pw:80/formiga/formiga/1958
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://4.bp.blogspot.com/-W0PvbzX9Ca8/WhXBwjFbi-I/AAAAAAAABUU/E93FbbZcWZczBMMNzppjfaRPteOdS_TXwCLcBGAs/s1600/hbosignature.png" group-title="HBO",HBO SIGNATURE HD
+http://natv.pw:80/formiga/formiga/1965
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD²" tvg-logo="https://4.bp.blogspot.com/-W0PvbzX9Ca8/WhXBwjFbi-I/AAAAAAAABUU/E93FbbZcWZczBMMNzppjfaRPteOdS_TXwCLcBGAs/s1600/hbosignature.png" group-title="HBO",HBO SIGNATURE HD²
+http://natv.pw:80/formiga/formiga/18787
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="https://i.imgur.com/k4GWpAA.png" group-title="HBO",HBO XTREME HD
+http://natv.pw:80/formiga/formiga/18260
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD²" tvg-logo="https://i.imgur.com/k4GWpAA.png" group-title="HBO",HBO XTREME HD²
+http://natv.pw:80/formiga/formiga/18799
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://3.bp.blogspot.com/-q3Fmbh0snec/Wh8TZypcPTI/AAAAAAAABdM/epvt-aD3Ka0SZY6V5WMJaUs7kUHci0BLwCLcBGAs/s1600/History_Channel.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL HD
+http://natv.pw:80/formiga/formiga/1963
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL HD²" tvg-logo="https://3.bp.blogspot.com/-q3Fmbh0snec/Wh8TZypcPTI/AAAAAAAABdM/epvt-aD3Ka0SZY6V5WMJaUs7kUHci0BLwCLcBGAs/s1600/History_Channel.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL HD²
+http://natv.pw:80/formiga/formiga/18790
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="https://3.bp.blogspot.com/-ZMjdaD1tEec/Wh8TXqDSXPI/AAAAAAAABcw/UtDkbUuZ0fwSGJ_C0unvH2tGxOdtk_WiQCLcBGAs/s1600/Discovery_Investigacao.png" group-title="DOCUMENTÁRIOS",INVESTIGATION DISCOVERY HD
+http://natv.pw:80/formiga/formiga/2088
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGATION DISCOVERY HD²" tvg-logo="https://3.bp.blogspot.com/-ZMjdaD1tEec/Wh8TXqDSXPI/AAAAAAAABcw/UtDkbUuZ0fwSGJ_C0unvH2tGxOdtk_WiQCLcBGAs/s1600/Discovery_Investigacao.png" group-title="DOCUMENTÁRIOS",INVESTIGATION DISCOVERY HD²
+http://natv.pw:80/formiga/formiga/18793
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://4.bp.blogspot.com/-HMLnY6H4uoI/WhtB5eWKOnI/AAAAAAAABas/R2MlEfDiD-wuRq1kPfg4a-sqkBlhiWnAgCLcBGAs/s1600/lifetime.png" group-title="VARIEDADES",LIFETIME HD
+http://natv.pw:80/formiga/formiga/1961
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT HD" tvg-logo="https://3.bp.blogspot.com/-yyoikgKX-K8/Whs8SltCxKI/AAAAAAAABZY/34TD6DZUisIJXyp0V__imuq0o4JGersAwCLcBGAs/s1600/masiglobosat.png" group-title="VARIEDADES",MAIS GLOBOSAT HD
+http://natv.pw:80/formiga/formiga/1960
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://4.bp.blogspot.com/-hLOcq729luU/WhT0ZL5SGmI/AAAAAAAABSc/VIsGSBy3deQoVh7nqw9Dlp8tXJHtOLXCgCEwYBhgL/s1600/megapix.png" group-title="FILMES E SERIES",MEGAPIX HD
+http://natv.pw:80/formiga/formiga/1957
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD²" tvg-logo="https://4.bp.blogspot.com/-hLOcq729luU/WhT0ZL5SGmI/AAAAAAAABSc/VIsGSBy3deQoVh7nqw9Dlp8tXJHtOLXCgCEwYBhgL/s1600/megapix.png" group-title="FILMES E SERIES",MEGAPIX HD²
+http://natv.pw:80/formiga/formiga/18803
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://4.bp.blogspot.com/-ryvv2kUCsi0/Whs8XlapGFI/AAAAAAAABZk/FPYss5urcsgHHwsW67R7bYXAzRrs0foswCLcBGAs/s1600/mtv.png" group-title="MUSICAIS",MTV HD
+http://natv.pw:80/formiga/formiga/1956
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD²" tvg-logo="https://4.bp.blogspot.com/-ryvv2kUCsi0/Whs8XlapGFI/AAAAAAAABZk/FPYss5urcsgHHwsW67R7bYXAzRrs0foswCLcBGAs/s1600/mtv.png" group-title="MUSICAIS",MTV HD²
+http://natv.pw:80/formiga/formiga/18806
+#EXTINF:-1 tvg-id="Mtvlive.br" tvg-name="MTV LIVE HD" tvg-logo="https://2.bp.blogspot.com/-T2ul_RZ_d9s/W2x-jLVEpAI/AAAAAAAACV4/btTLj4JTKBIKSbmbdkNWvArLMYmuFTRSgCLcBGAs/s1600/MTVLIVE.png" group-title="MUSICAIS",MTV LIVE HD
+http://natv.pw:80/formiga/formiga/18297
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://3.bp.blogspot.com/-WbNyWpseGFc/Whs8UK0P-qI/AAAAAAAABZc/91A56OPsOnIVlzSQ2cTcu4VuPsi21dlrgCLcBGAs/s1600/multishow.png" group-title="VARIEDADES",MULTISHOW HD
+http://natv.pw:80/formiga/formiga/1955
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD²" tvg-logo="https://3.bp.blogspot.com/-WbNyWpseGFc/Whs8UK0P-qI/AAAAAAAABZc/91A56OPsOnIVlzSQ2cTcu4VuPsi21dlrgCLcBGAs/s1600/multishow.png" group-title="VARIEDADES",MULTISHOW HD²
+http://natv.pw:80/formiga/formiga/18808
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS HD" tvg-logo="https://1.bp.blogspot.com/-0VLY-EEwV-U/W2yBqshGAhI/AAAAAAAACWU/0_3L0R_nC7Qv8_zVs0Vtsa4rcs4AfFUrgCLcBGAs/s1600/NATGEOKIDS.png" group-title="INFANTIL",NAT GEO KIDS HD
+http://natv.pw:80/formiga/formiga/1954
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS HD²" tvg-logo="https://1.bp.blogspot.com/-0VLY-EEwV-U/W2yBqshGAhI/AAAAAAAACWU/0_3L0R_nC7Qv8_zVs0Vtsa4rcs4AfFUrgCLcBGAs/s1600/NATGEOKIDS.png" group-title="INFANTIL",NAT GEO KIDS HD²
+http://natv.pw:80/formiga/formiga/18811
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD HD" tvg-logo="https://1.bp.blogspot.com/-rQvZ3-bSfXc/W4rWzMkSN0I/AAAAAAAACYM/mieUTFGn-jcfR06Va7JmgjmzoB0jqfFagCLcBGAs/s1600/nationalgeographicwild.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD HD
+http://natv.pw:80/formiga/formiga/1953
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://3.bp.blogspot.com/-aUbQ5NjmNK4/Wh8TaxP4PgI/AAAAAAAABdQ/BZQ8ROkbg_46nwlPiukQ6ZpU9UYT_L4bwCLcBGAs/s1600/NatcionalGeographic.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HD
+http://natv.pw:80/formiga/formiga/18819
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="https://3.bp.blogspot.com/-MDFnGSlo41Q/WiBWNd4ODtI/AAAAAAAABhA/Cr4MLSxeMD0yiDh_ZftshGyJYKj8QpbeQCLcBGAs/s1600/nickjr.png" group-title="INFANTIL",NICK JR HD
+http://natv.pw:80/formiga/formiga/18557
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD²" tvg-logo="https://3.bp.blogspot.com/-MDFnGSlo41Q/WiBWNd4ODtI/AAAAAAAABhA/Cr4MLSxeMD0yiDh_ZftshGyJYKj8QpbeQCLcBGAs/s1600/nickjr.png" group-title="INFANTIL",NICK JR HD²
+http://natv.pw:80/formiga/formiga/18821
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/b/bc/Nickelodeon_Logo_2004.png/revision/latest?cb=20180220165222" group-title="INFANTIL",NICKELODEON HD
+http://natv.pw:80/formiga/formiga/1950
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_Canal_OFF.png" group-title="ESPORTES",OFF HD
+http://natv.pw:80/formiga/formiga/1949
+#EXTINF:-1 tvg-id="TV Pai Eterno" tvg-name="PAI ETERNO HD" tvg-logo="https://diocesedeparanagua.org.br/wp-content/uploads/2019/05/tvpaieterno1-326x245.jpg" group-title="RELIGIOSOS",PAI ETERNO HD
+http://natv.pw:80/formiga/formiga/25317
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD" tvg-logo="https://1.bp.blogspot.com/-0X2KFi9idzg/WhzV8smyRMI/AAAAAAAABcA/YjgxEYIQ1ycqJ3n5vHbQ-lrISctrgO-HQCLcBGAs/s1600/paramount_channel.png" group-title="FILMES E SERIES",PARAMOUNT HD
+http://natv.pw:80/formiga/formiga/1948
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE",PREMIERE 2 HD
+http://natv.pw:80/formiga/formiga/19136
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD²" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE",PREMIERE 2 HD²
+http://natv.pw:80/formiga/formiga/1947
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE",PREMIERE 3 HD
+http://natv.pw:80/formiga/formiga/19137
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD²" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE",PREMIERE 3 HD²
+http://natv.pw:80/formiga/formiga/1946
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE",PREMIERE 4 HD
+http://natv.pw:80/formiga/formiga/19138
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD²" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE",PREMIERE 4 HD²
+http://natv.pw:80/formiga/formiga/1945
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE",PREMIERE 5 HD
+http://natv.pw:80/formiga/formiga/1944
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD²" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE",PREMIERE 5 HD²
+http://natv.pw:80/formiga/formiga/19139
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE",PREMIERE 6 HD
+http://natv.pw:80/formiga/formiga/1943
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD²" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE",PREMIERE 6 HD²
+http://natv.pw:80/formiga/formiga/19140
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE",PREMIERE 7 HD
+http://natv.pw:80/formiga/formiga/19141
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE",PREMIERE CLUBES HD
+http://natv.pw:80/formiga/formiga/1941
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD²" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE",PREMIERE CLUBES HD²
+http://natv.pw:80/formiga/formiga/18847
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BAHIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="RECORD",RECORD BAHIA HD
+http://natv.pw:80/formiga/formiga/18728
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BRASILIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="RECORD",RECORD BRASILIA HD
+http://natv.pw:80/formiga/formiga/18423
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD CAMPINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="RECORD",RECORD CAMPINAS HD
+http://natv.pw:80/formiga/formiga/18500
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD MINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="RECORD",RECORD MINAS HD
+http://natv.pw:80/formiga/formiga/18419
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://2.bp.blogspot.com/-KVp2_3vrBDQ/WiAXTo4_6fI/AAAAAAAABes/Npo1YTXMN6QNzhK0mYwo1ko01kfg55pwwCLcBGAs/s320/recordnews.png" group-title="NOTÍCIAS",RECORD NEWS HD
+http://natv.pw:80/formiga/formiga/18237
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD NORDESTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="RECORD",RECORD NORDESTE HD
+http://natv.pw:80/formiga/formiga/18735
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD PARANA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="RECORD",RECORD PARANA HD
+http://natv.pw:80/formiga/formiga/18731
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD PARANA HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="RECORD",RECORD PARANA HD²
+http://natv.pw:80/formiga/formiga/18429
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RJ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="RECORD",RECORD RJ HD
+http://natv.pw:80/formiga/formiga/18415
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RJ HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="RECORD",RECORD RJ HD²
+http://natv.pw:80/formiga/formiga/18734
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="RECORD",RECORD RS HD
+http://natv.pw:80/formiga/formiga/18930
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SERGIPE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="RECORD",RECORD SERGIPE HD
+http://natv.pw:80/formiga/formiga/18502
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="RECORD",RECORD SP HD
+http://natv.pw:80/formiga/formiga/18498
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="RECORD",RECORD SP HD²
+http://natv.pw:80/formiga/formiga/18732
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! HD" tvg-logo="https://2.bp.blogspot.com/-KUaQuudyPgM/Wg7yAZypfqI/AAAAAAAABIA/euldIr-IoBYgUwZsw4gI4I3kkO3iz0h4ACPcBGAYYCw/s1600/redetv.png" group-title="CANAIS ABERTOS",REDETV! HD
+http://natv.pw:80/formiga/formiga/18233
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! HD²" tvg-logo="https://2.bp.blogspot.com/-KUaQuudyPgM/Wg7yAZypfqI/AAAAAAAABIA/euldIr-IoBYgUwZsw4gI4I3kkO3iz0h4ACPcBGAYYCw/s1600/redetv.png" group-title="CANAIS ABERTOS",REDETV! HD²
+http://natv.pw:80/formiga/formiga/18849
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="RÁ-TIM-BUM HD" tvg-logo="https://2.bp.blogspot.com/-qp69iFLI4oo/WiBWNynjgPI/AAAAAAAABhM/HPJyr-b8KFYXCX_GVCc6zHDDZVr3Z14LgCLcBGAs/s1600/tvratimbum.png" group-title="INFANTIL",RÁ-TIM-BUM HD
+http://natv.pw:80/formiga/formiga/18211
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="SAO JOSE RIO PRETO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="RECORD",SAO JOSE RIO PRETO SD
+http://natv.pw:80/formiga/formiga/18730
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT GOIAS HD" tvg-logo="https://1.bp.blogspot.com/-t1__ul1AEh4/Wg7yCSo2fwI/AAAAAAAABIU/ABvZwhlo8-AhfIQ8WqvjWQl8NC-3XpoQgCPcBGAYYCw/s1600/sbt.png" group-title="CANAIS ABERTOS",SBT GOIAS HD
+http://natv.pw:80/formiga/formiga/18751
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT NORDESTE HD" tvg-logo="https://1.bp.blogspot.com/-t1__ul1AEh4/Wg7yCSo2fwI/AAAAAAAABIU/ABvZwhlo8-AhfIQ8WqvjWQl8NC-3XpoQgCPcBGAYYCw/s1600/sbt.png" group-title="CANAIS ABERTOS",SBT NORDESTE HD
+http://natv.pw:80/formiga/formiga/18750
+#EXTINF:-1 tvg-id="RedeMassa.br" tvg-name="SBT PR HD" tvg-logo="https://1.bp.blogspot.com/-t1__ul1AEh4/Wg7yCSo2fwI/AAAAAAAABIU/ABvZwhlo8-AhfIQ8WqvjWQl8NC-3XpoQgCPcBGAYYCw/s1600/sbt.png" group-title="CANAIS ABERTOS",SBT PR HD
+http://natv.pw:80/formiga/formiga/31193
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RJ HD" tvg-logo="https://1.bp.blogspot.com/-t1__ul1AEh4/Wg7yCSo2fwI/AAAAAAAABIU/ABvZwhlo8-AhfIQ8WqvjWQl8NC-3XpoQgCPcBGAYYCw/s1600/sbt.png" group-title="CANAIS ABERTOS",SBT RJ HD
+http://natv.pw:80/formiga/formiga/1936
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RS HD" tvg-logo="https://1.bp.blogspot.com/-t1__ul1AEh4/Wg7yCSo2fwI/AAAAAAAABIU/ABvZwhlo8-AhfIQ8WqvjWQl8NC-3XpoQgCPcBGAYYCw/s1600/sbt.png" group-title="CANAIS ABERTOS",SBT RS HD
+http://natv.pw:80/formiga/formiga/18746
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SANTA CATARINA HD" tvg-logo="https://1.bp.blogspot.com/-t1__ul1AEh4/Wg7yCSo2fwI/AAAAAAAABIU/ABvZwhlo8-AhfIQ8WqvjWQl8NC-3XpoQgCPcBGAYYCw/s1600/sbt.png" group-title="CANAIS ABERTOS",SBT SANTA CATARINA HD
+http://natv.pw:80/formiga/formiga/18744
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SERGIPE HD" tvg-logo="https://1.bp.blogspot.com/-t1__ul1AEh4/Wg7yCSo2fwI/AAAAAAAABIU/ABvZwhlo8-AhfIQ8WqvjWQl8NC-3XpoQgCPcBGAYYCw/s1600/sbt.png" group-title="CANAIS ABERTOS",SBT SERGIPE HD
+http://natv.pw:80/formiga/formiga/18745
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD" tvg-logo="https://1.bp.blogspot.com/-t1__ul1AEh4/Wg7yCSo2fwI/AAAAAAAABIU/ABvZwhlo8-AhfIQ8WqvjWQl8NC-3XpoQgCPcBGAYYCw/s1600/sbt.png" group-title="CANAIS ABERTOS",SBT SP HD
+http://natv.pw:80/formiga/formiga/2141
+#EXTINF:-1 tvg-id="SmithsonianChannel" tvg-name="SMITHSONIAN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png" group-title="DOCUMENTÁRIOS",SMITHSONIAN HD
+http://natv.pw:80/formiga/formiga/25580
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://4.bp.blogspot.com/-FxFsNWI9n2g/Whg9Gs-QSYI/AAAAAAAABWc/5qEp_OW-3YQo-8ejUrDHm_84m35ddbBkACLcBGAs/s1600/space.png" group-title="FILMES E SERIES",SPACE HD
+http://natv.pw:80/formiga/formiga/1935
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD²" tvg-logo="https://4.bp.blogspot.com/-FxFsNWI9n2g/Whg9Gs-QSYI/AAAAAAAABWc/5qEp_OW-3YQo-8ejUrDHm_84m35ddbBkACLcBGAs/s1600/space.png" group-title="FILMES E SERIES",SPACE HD²
+http://natv.pw:80/formiga/formiga/18851
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://2.bp.blogspot.com/-LLemuxlYKjk/WhDa1XUDULI/AAAAAAAABMA/0CSEXOPl8s8rqqSNgKNddsrrgY62Kkn0gCLcBGAs/s1600/sportv2.png" group-title="ESPORTES",SPORTV 2 HD
+http://natv.pw:80/formiga/formiga/1934
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="https://2.bp.blogspot.com/-LLemuxlYKjk/WhDa1XUDULI/AAAAAAAABMA/0CSEXOPl8s8rqqSNgKNddsrrgY62Kkn0gCLcBGAs/s1600/sportv2.png" group-title="ESPORTES",SPORTV 2 HD²
+http://natv.pw:80/formiga/formiga/18854
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://3.bp.blogspot.com/-lNqhG8IfVF8/WhDa2AceJxI/AAAAAAAABMI/RNCVZOJa8Eclxhs_iQ1tdSzQ6TgwsaW5gCLcBGAs/s1600/sportv3.png" group-title="ESPORTES",SPORTV 3 HD
+http://natv.pw:80/formiga/formiga/1933
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="https://3.bp.blogspot.com/-lNqhG8IfVF8/WhDa2AceJxI/AAAAAAAABMI/RNCVZOJa8Eclxhs_iQ1tdSzQ6TgwsaW5gCLcBGAs/s1600/sportv3.png" group-title="ESPORTES",SPORTV 3 HD²
+http://natv.pw:80/formiga/formiga/18859
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://2.bp.blogspot.com/-tiQuwAQ6wB8/WhDa2mWPG2I/AAAAAAAABMM/xnWWtVtjhQs4nHKcOpMgOi5MC8VMG9ylwCLcBGAs/s1600/spotv.png" group-title="ESPORTES",SPORTV HD
+http://natv.pw:80/formiga/formiga/1932
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD²" tvg-logo="https://2.bp.blogspot.com/-tiQuwAQ6wB8/WhDa2mWPG2I/AAAAAAAABMM/xnWWtVtjhQs4nHKcOpMgOi5MC8VMG9ylwCLcBGAs/s1600/spotv.png" group-title="ESPORTES",SPORTV HD²
+http://natv.pw:80/formiga/formiga/18862
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL HD
+http://natv.pw:80/formiga/formiga/1931
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL HD²
+http://natv.pw:80/formiga/formiga/18865
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="https://3.bp.blogspot.com/-ueCxtO_Sh6o/WjGVF6zK0rI/AAAAAAAABz0/BC6wgpU11Zgm1WjubVdKIv9kIea1JbCVQCLcBGAs/s1600/syfy.png" group-title="FILMES E SERIES",SYFY HD
+http://natv.pw:80/formiga/formiga/1930
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD²" tvg-logo="https://3.bp.blogspot.com/-ueCxtO_Sh6o/WjGVF6zK0rI/AAAAAAAABz0/BC6wgpU11Zgm1WjubVdKIv9kIea1JbCVQCLcBGAs/s1600/syfy.png" group-title="FILMES E SERIES",SYFY HD²
+http://natv.pw:80/formiga/formiga/18868
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="https://4.bp.blogspot.com/-NNgRkkNgRhw/Whg9W0VV3QI/AAAAAAAABWw/GdkHPcpjZN8GhAevrXD4DSK3RJxw68fXwCLcBGAs/s1600/tbs.png" group-title="FILMES E SERIES",TBS HD
+http://natv.pw:80/formiga/formiga/1929
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://1.bp.blogspot.com/-DH1qs9c6vdI/WhTzmBEkALI/AAAAAAAABSI/WWveOYIRdlwfwVAnRL5EUm4CFiM2xwC9ACLcBGAs/s1600/tcaction.png" group-title="TELECINE",TELECINE ACTION HD
+http://natv.pw:80/formiga/formiga/1928
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD²" tvg-logo="https://1.bp.blogspot.com/-DH1qs9c6vdI/WhTzmBEkALI/AAAAAAAABSI/WWveOYIRdlwfwVAnRL5EUm4CFiM2xwC9ACLcBGAs/s1600/tcaction.png" group-title="TELECINE",TELECINE ACTION HD²
+http://natv.pw:80/formiga/formiga/18871
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://3.bp.blogspot.com/-4v3fTyeNX1g/WhRdeZL89-I/AAAAAAAABRk/JZ3r5R3ewVcyR2wErdh_nejC0uj-0GxmACLcBGAs/s1600/tccult.png" group-title="TELECINE",TELECINE CULT HD
+http://natv.pw:80/formiga/formiga/1927
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD²" tvg-logo="https://3.bp.blogspot.com/-4v3fTyeNX1g/WhRdeZL89-I/AAAAAAAABRk/JZ3r5R3ewVcyR2wErdh_nejC0uj-0GxmACLcBGAs/s1600/tccult.png" group-title="TELECINE",TELECINE CULT HD²
+http://natv.pw:80/formiga/formiga/18875
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://4.bp.blogspot.com/-5hUWClTVHmk/WhTzzUr8zFI/AAAAAAAABSQ/Vi65_PEliLEwIORmlnKPf0g1QBDSYuA8wCLcBGAs/s1600/tcfun.png" group-title="TELECINE",TELECINE FUN HD
+http://natv.pw:80/formiga/formiga/1926
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD²" tvg-logo="https://4.bp.blogspot.com/-5hUWClTVHmk/WhTzzUr8zFI/AAAAAAAABSQ/Vi65_PEliLEwIORmlnKPf0g1QBDSYuA8wCLcBGAs/s1600/tcfun.png" group-title="TELECINE",TELECINE FUN HD²
+http://natv.pw:80/formiga/formiga/18878
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://1.bp.blogspot.com/-R2Ah85FOm4Q/WhTzvEIabdI/AAAAAAAABSM/dSs-OSHD5xsG2lY7SJHI7RX_Qvl69vYZQCLcBGAs/s1600/tcpipoca.png" group-title="TELECINE",TELECINE PIPOCA HD
+http://natv.pw:80/formiga/formiga/1925
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD²" tvg-logo="https://1.bp.blogspot.com/-R2Ah85FOm4Q/WhTzvEIabdI/AAAAAAAABSM/dSs-OSHD5xsG2lY7SJHI7RX_Qvl69vYZQCLcBGAs/s1600/tcpipoca.png" group-title="TELECINE",TELECINE PIPOCA HD²
+http://natv.pw:80/formiga/formiga/18880
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://3.bp.blogspot.com/-sMcD-0qxqd8/WhTzkrK1q0I/AAAAAAAABSE/8qtuusvx9bML1btJ86p_cIdWycXXBS2jACLcBGAs/s1600/tcpremium.png" group-title="TELECINE",TELECINE PREMIUM HD
+http://natv.pw:80/formiga/formiga/1924
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD²" tvg-logo="https://3.bp.blogspot.com/-sMcD-0qxqd8/WhTzkrK1q0I/AAAAAAAABSE/8qtuusvx9bML1btJ86p_cIdWycXXBS2jACLcBGAs/s1600/tcpremium.png" group-title="TELECINE",TELECINE PREMIUM HD²
+http://natv.pw:80/formiga/formiga/18883
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://4.bp.blogspot.com/-7XT5BYZORIA/WhT0QNEF5MI/AAAAAAAABSY/Tq91Hf6sOTQMy7j8yLAxa0eKqGuqSqsfACLcBGAs/s1600/tctouch.png" group-title="TELECINE",TELECINE TOUCH HD
+http://natv.pw:80/formiga/formiga/1923
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD²" tvg-logo="https://4.bp.blogspot.com/-7XT5BYZORIA/WhT0QNEF5MI/AAAAAAAABSY/Tq91Hf6sOTQMy7j8yLAxa0eKqGuqSqsfACLcBGAs/s1600/tctouch.png" group-title="TELECINE",TELECINE TOUCH HD²
+http://natv.pw:80/formiga/formiga/18886
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="https://4.bp.blogspot.com/-Ud_YcamaDAY/WhtB9talAbI/AAAAAAAABaw/VO8NyBHz3y4vqYCbRT0ko4qL5EhOiVKKACLcBGAs/s1600/tlc.png" group-title="VARIEDADES",TLC HD
+http://natv.pw:80/formiga/formiga/1922
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD²" tvg-logo="https://4.bp.blogspot.com/-Ud_YcamaDAY/WhtB9talAbI/AAAAAAAABaw/VO8NyBHz3y4vqYCbRT0ko4qL5EhOiVKKACLcBGAs/s1600/tlc.png" group-title="VARIEDADES",TLC HD²
+http://natv.pw:80/formiga/formiga/18981
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://2.bp.blogspot.com/-tNOLUCyIhjI/Whg9DnrtfxI/AAAAAAAABWU/aNJERfr9uxobNx-UFRDzNK7yHR8Il5SjgCLcBGAs/s1600/tntfilmes.png" group-title="FILMES E SERIES",TNT HD
+http://natv.pw:80/formiga/formiga/1921
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD²" tvg-logo="https://2.bp.blogspot.com/-tNOLUCyIhjI/Whg9DnrtfxI/AAAAAAAABWU/aNJERfr9uxobNx-UFRDzNK7yHR8Il5SjgCLcBGAs/s1600/tntfilmes.png" group-title="FILMES E SERIES",TNT HD²
+http://natv.pw:80/formiga/formiga/18889
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES HD" tvg-logo="https://3.bp.blogspot.com/-rr---_21J9w/Whg9EHPQcTI/AAAAAAAABWY/KvJHpzhqC-gCj31ePc2wx-OE_39--2QmACLcBGAs/s1600/tntseries.png" group-title="FILMES E SERIES",TNT SÉRIES HD
+http://natv.pw:80/formiga/formiga/18215
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES HD²" tvg-logo="https://3.bp.blogspot.com/-rr---_21J9w/Whg9EHPQcTI/AAAAAAAABWY/KvJHpzhqC-gCj31ePc2wx-OE_39--2QmACLcBGAs/s1600/tntseries.png" group-title="FILMES E SERIES",TNT SÉRIES HD²
+http://natv.pw:80/formiga/formiga/18893
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://3.bp.blogspot.com/-SnH6o66fSAM/WiBWNrBKjzI/AAAAAAAABhI/6Du28FLwgnYqtBzQ1aVYBBpAcXFaV5OzQCLcBGAs/s1600/tooncast.png" group-title="INFANTIL",TOONCAST HD
+http://natv.pw:80/formiga/formiga/18214
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="TV DIARIO FORTALEZA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/1200px-TV_Di%C3%A1rio_logo.svg.png" group-title="CANAIS ABERTOS",TV DIARIO FORTALEZA FHD
+http://natv.pw:80/formiga/formiga/19518
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA SP HD" tvg-logo="https://1.bp.blogspot.com/-40ZtGMw3eBE/V0YQ-u6iHaI/AAAAAAAAsPA/-lmAbaB3dpsxVCVamk7tksBNKgOzY4TrgCLcB/s1600/LOGO-GAZETA-COR.png" group-title="CANAIS ABERTOS",TV GAZETA SP HD
+http://natv.pw:80/formiga/formiga/19112
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL HD
+http://natv.pw:80/formiga/formiga/1920
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL HD²
+http://natv.pw:80/formiga/formiga/18897
+#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_VH1_IT.png" group-title="MUSICAIS",VH1 HD
+http://natv.pw:80/formiga/formiga/18209
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="https://3.bp.blogspot.com/-s1odC6DUJ5g/W7PPsLj373I/AAAAAAAAClQ/Us5B2iuDuMUpZFOoSssm0rCYcoprsVUbQCLcBGAs/s1600/viva.png" group-title="VARIEDADES",VIVA HD
+http://natv.pw:80/formiga/formiga/1919
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://4.bp.blogspot.com/-REJyS7YoLy0/Whg8y1-JntI/AAAAAAAABV4/lvv4l82gfgUjWjlMqIEVNhxVpY8UirFNACLcBGAs/s1600/warner_channel.png" group-title="FILMES E SERIES",WARNER CHANNEL HD
+http://natv.pw:80/formiga/formiga/1918
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD²" tvg-logo="https://4.bp.blogspot.com/-REJyS7YoLy0/Whg8y1-JntI/AAAAAAAABV4/lvv4l82gfgUjWjlMqIEVNhxVpY8UirFNACLcBGAs/s1600/warner_channel.png" group-title="FILMES E SERIES",WARNER CHANNEL HD²
+http://natv.pw:80/formiga/formiga/18900
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO HD" tvg-logo="https://1.bp.blogspot.com/-WksRcgbFtn4/Wi61lDmOwuI/AAAAAAAABuk/fgpo_qv2SAIQWqSz8LK2dW7VM0msU1T7QCLcBGAs/s1600/zoomoo.png" group-title="INFANTIL",ZOOMOO HD
+http://natv.pw:80/formiga/formiga/18195
+#EXTINF:-1 tvg-id="RedeMassa.br" tvg-name="SBT ES HD" tvg-logo="https://1.bp.blogspot.com/-t1__ul1AEh4/Wg7yCSo2fwI/AAAAAAAABIU/ABvZwhlo8-AhfIQ8WqvjWQl8NC-3XpoQgCPcBGAYYCw/s1600/sbt.png" group-title="CANAIS ABERTOS",SBT ES HD
+http://natv.pw:80/formiga/formiga/31196
+#EXTINF:-1 tvg-id="SBTGoianiaTVSerraDourada.br" tvg-name="SBT GO HD" tvg-logo="https://1.bp.blogspot.com/-t1__ul1AEh4/Wg7yCSo2fwI/AAAAAAAABIU/ABvZwhlo8-AhfIQ8WqvjWQl8NC-3XpoQgCPcBGAYYCw/s1600/sbt.png" group-title="CANAIS ABERTOS",SBT GO HD
+http://natv.pw:80/formiga/formiga/31197
+#EXTINF:-1 tvg-id="RedeMassa.br" tvg-name="SBT MG HD" tvg-logo="https://1.bp.blogspot.com/-t1__ul1AEh4/Wg7yCSo2fwI/AAAAAAAABIU/ABvZwhlo8-AhfIQ8WqvjWQl8NC-3XpoQgCPcBGAYYCw/s1600/sbt.png" group-title="CANAIS ABERTOS",SBT MG HD
+http://natv.pw:80/formiga/formiga/31198
+#EXTINF:-1 tvg-id="RedeMassa.br" tvg-name="SBT BA HD" tvg-logo="https://1.bp.blogspot.com/-t1__ul1AEh4/Wg7yCSo2fwI/AAAAAAAABIU/ABvZwhlo8-AhfIQ8WqvjWQl8NC-3XpoQgCPcBGAYYCw/s1600/sbt.png" group-title="CANAIS ABERTOS",SBT BA HD
+http://natv.pw:80/formiga/formiga/31199
+#EXTINF:-1 tvg-id="BandTVGoianiaHD.br" tvg-name="BAND GO HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS ABERTOS",BAND GO HD
+http://natv.pw:80/formiga/formiga/31200
+#EXTINF:-1 tvg-id="BandTVGoianiaHD.br" tvg-name="BAND SERGIPE HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS ABERTOS",BAND SERGIPE HD
+http://natv.pw:80/formiga/formiga/31201
+#EXTINF:-1 tvg-id="Band Bahia HD" tvg-name="BAND TAROBA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS ABERTOS",BAND TAROBA HD
+http://natv.pw:80/formiga/formiga/31202
+#EXTINF:-1 tvg-id="Record TV Minas" tvg-name="RECORD SAO JOSE RIO PRETO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="RECORD",RECORD SAO JOSE RIO PRETO HD
+http://natv.pw:80/formiga/formiga/31203
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="TV SANTA CRUZ BAHIA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="REDE GLOBO",TV SANTA CRUZ BAHIA HD
+http://natv.pw:80/formiga/formiga/31204
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO MANAUS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="REDE GLOBO",GLOBO MANAUS HD
+http://natv.pw:80/formiga/formiga/31205
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO PARAIBA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="REDE GLOBO",GLOBO PARAIBA HD
+http://natv.pw:80/formiga/formiga/31206
+#EXTINF:-1 tvg-id="NSCfloripa.br" tvg-name="NSCTV FLORIANOPOLIS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="REDE GLOBO",NSCTV FLORIANOPOLIS HD
+http://natv.pw:80/formiga/formiga/31207
+#EXTINF:-1 tvg-id="TVCaboBrancoHD.br" tvg-name="INTERTV CABO FRIO HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="REDE GLOBO",INTERTV CABO FRIO HD
+http://natv.pw:80/formiga/formiga/31208
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD LEG" tvg-logo="https://ap.imagensbrasil.org/images/2017/04/28/axn.png" group-title="LEGENDADOS",AXN HD LEG
+http://natv.pw:80/formiga/formiga/31209
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD LEG" tvg-logo="https://4.bp.blogspot.com/-qWiKzPaF5FU/WhhMqYrjJmI/AAAAAAAABXk/YU2uh_h20i0eN1nLpc81jTY1hRPClUaKQCLcBGAs/s1600/canalsony.png" group-title="LEGENDADOS",CANAL SONY HD LEG
+http://natv.pw:80/formiga/formiga/31211
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD LEG" tvg-logo="https://3.bp.blogspot.com/-Hw_k3C1qzYI/Whg80aK7lMI/AAAAAAAABV8/PQQDASpd_MgNjfi4Dwvoaaa6kldRxhT9wCLcBGAs/s1600/fox.png" group-title="LEGENDADOS",FOX HD LEG
+http://natv.pw:80/formiga/formiga/31213
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD LEG" tvg-logo="https://1.bp.blogspot.com/-d_r3b3F3R5A/Whg9BVbk5SI/AAAAAAAABWM/Ibgn8886bm42OHb0K6x4MybHwW9qOisuwCLcBGAs/s1600/fx.png" group-title="LEGENDADOS",FX HD LEG
+http://natv.pw:80/formiga/formiga/31215
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD LEG" tvg-logo="https://4.bp.blogspot.com/-REJyS7YoLy0/Whg8y1-JntI/AAAAAAAABV4/lvv4l82gfgUjWjlMqIEVNhxVpY8UirFNACLcBGAs/s1600/warner_channel.png" group-title="LEGENDADOS",WARNER CHANNEL HD LEG
+http://natv.pw:80/formiga/formiga/31216
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD LEG" tvg-logo="https://3.bp.blogspot.com/-sMcD-0qxqd8/WhTzkrK1q0I/AAAAAAAABSE/8qtuusvx9bML1btJ86p_cIdWycXXBS2jACLcBGAs/s1600/tcpremium.png" group-title="LEGENDADOS",TELECINE PREMIUM HD LEG
+http://natv.pw:80/formiga/formiga/31218
+#EXTINF:-1 tvg-id="Polishop.br" tvg-name="POLISHOPTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Polishop.jpg" group-title="VARIEDADES",POLISHOPTV HD
+http://natv.pw:80/formiga/formiga/31219
+#EXTINF:-1 tvg-id="" tvg-name="SHOP TIME HD" tvg-logo="https://4.bp.blogspot.com/-FpqJa2VVlTQ/UqN53jIDp4I/AAAAAAAAfzY/oAWCs9FQxDU/w1200-h630-p-k-no-nu/shoptime.png" group-title="VARIEDADES",SHOP TIME HD
+http://natv.pw:80/formiga/formiga/31220
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV" tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="PORTUGAL",PT: BTV
+http://natv.pw:80/formiga/formiga/31224
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1200px-Logo_AE_Germany.svg.png" group-title="FILMES E SERIES",A&E SD
+http://natv.pw:80/formiga/formiga/2135
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1200px-Logo_AE_Germany.svg.png" group-title="FILMES E SERIES",A&E SD²
+http://natv.pw:80/formiga/formiga/18589
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="FILMES E SERIES",AMC SD
+http://natv.pw:80/formiga/formiga/2134
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="FILMES E SERIES",AMC SD²
+http://natv.pw:80/formiga/formiga/18590
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://1.bp.blogspot.com/-rlIRGyW2JUY/XGBAhNw0ujI/AAAAAAAAC5Y/w7oB0SRdX74zwktOY0hLzlTmhPKBWT3GwCLcBGAs/s1600/animalplanet.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET SD
+http://natv.pw:80/formiga/formiga/2133
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD²" tvg-logo="https://1.bp.blogspot.com/-rlIRGyW2JUY/XGBAhNw0ujI/AAAAAAAAC5Y/w7oB0SRdX74zwktOY0hLzlTmhPKBWT3GwCLcBGAs/s1600/animalplanet.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET SD²
+http://natv.pw:80/formiga/formiga/18592
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://ap.imagensbrasil.org/images/2017/04/28/axn.png" group-title="FILMES E SERIES",AXN SD
+http://natv.pw:80/formiga/formiga/2131
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD²" tvg-logo="https://ap.imagensbrasil.org/images/2017/04/28/axn.png" group-title="FILMES E SERIES",AXN SD²
+http://natv.pw:80/formiga/formiga/18305
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="INFANTIL",BABY TV SD
+http://natv.pw:80/formiga/formiga/2130
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND CAMPINAS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS ABERTOS",BAND CAMPINAS SD
+http://natv.pw:80/formiga/formiga/2011
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/1280px-BandNews_TV_logo_2010.svg.png" group-title="NOTÍCIAS",BAND NEWS SD
+http://natv.pw:80/formiga/formiga/2129
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="ESPORTES",BAND SPORTS SD
+http://natv.pw:80/formiga/formiga/2128
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD²" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="ESPORTES",BAND SPORTS SD²
+http://natv.pw:80/formiga/formiga/19044
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="https://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="MUSICAIS",BIS SD
+http://natv.pw:80/formiga/formiga/18300
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD²" tvg-logo="https://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="MUSICAIS",BIS SD²
+http://natv.pw:80/formiga/formiga/19045
+#EXTINF:-1 tvg-id="Boavontadetv.br" tvg-name="BOA VONTADE TV SD" tvg-logo="https://cdn.mitvstatic.com/channels/br_boa-vontade-tv_m.png" group-title="RELIGIOSOS",BOA VONTADE TV SD
+http://natv.pw:80/formiga/formiga/18299
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="INFANTIL",BOOMERANG SD
+http://natv.pw:80/formiga/formiga/18626
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="INFANTIL",BOOMERANG SD²
+http://natv.pw:80/formiga/formiga/19046
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canalbrasilb.png" group-title="FILMES E SERIES",CANAL BRASIL SD
+http://natv.pw:80/formiga/formiga/2029
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD²" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canalbrasilb.png" group-title="FILMES E SERIES",CANAL BRASIL SD²
+http://natv.pw:80/formiga/formiga/19041
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="VARIEDADES",CANAL DO BOI SD
+http://natv.pw:80/formiga/formiga/19461
+#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL SD" tvg-logo="https://www.girodoboi.com.br/wp-content/uploads/2016/11/logo_rural_degradee_S_SLOGAN3-925x576.png" group-title="VARIEDADES",CANAL RURAL SD
+http://natv.pw:80/formiga/formiga/19463
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://4.bp.blogspot.com/-qWiKzPaF5FU/WhhMqYrjJmI/AAAAAAAABXk/YU2uh_h20i0eN1nLpc81jTY1hRPClUaKQCLcBGAs/s1600/canalsony.png" group-title="FILMES E SERIES",CANAL SONY SD
+http://natv.pw:80/formiga/formiga/2124
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/cancao-nova-logo.png" group-title="RELIGIOSOS",CANÇÃO NOVA SD
+http://natv.pw:80/formiga/formiga/2028
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://4.bp.blogspot.com/-d6xvP6M0VSo/WiBWLTaMLqI/AAAAAAAABgc/n5ZNCM1ZMQcKkGrJ5kX1xh7KUBfLficYQCLcBGAs/s1600/CartoonNetwork.png" group-title="INFANTIL",CARTOON NETWORK SD
+http://natv.pw:80/formiga/formiga/2123
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD²" tvg-logo="https://4.bp.blogspot.com/-d6xvP6M0VSo/WiBWLTaMLqI/AAAAAAAABgc/n5ZNCM1ZMQcKkGrJ5kX1xh7KUBfLficYQCLcBGAs/s1600/CartoonNetwork.png" group-title="INFANTIL",CARTOON NETWORK SD²
+http://natv.pw:80/formiga/formiga/18645
+#EXTINF:-1 tvg-id="" tvg-name="CBF/YOUTUBE" tvg-logo="https://i.imgur.com/WYo8vrx.jpg" group-title="ESPORTES",CBF/YOUTUBE
+http://natv.pw:80/formiga/formiga/23861
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png" group-title="FILMES E SERIES",CINEMAX SD
+http://natv.pw:80/formiga/formiga/2122
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png" group-title="FILMES E SERIES",CINEMAX SD²
+http://natv.pw:80/formiga/formiga/18644
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL SD" tvg-logo="https://www.set.org.br/wp-content/uploads/2017/01/CNN_Brasil.png" group-title="NOTÍCIAS",CNN BRASIL SD
+http://natv.pw:80/formiga/formiga/25142
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="COMBATE",COMBATE SD
+http://natv.pw:80/formiga/formiga/2121
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD²" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="COMBATE",COMBATE SD²
+http://natv.pw:80/formiga/formiga/18368
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Comedy_Central_2018_vertical_alt.png" group-title="VARIEDADES",COMEDY CENTRAL SD
+http://natv.pw:80/formiga/formiga/18445
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD²" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Comedy_Central_2018_vertical_alt.png" group-title="VARIEDADES",COMEDY CENTRAL SD²
+http://natv.pw:80/formiga/formiga/18641
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA SD" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="VARIEDADES",CURTA SD
+http://natv.pw:80/formiga/formiga/18647
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="https://i.imgur.com/O636VAn.jpg" group-title="ESPORTES",DAZN 3 HD
+http://natv.pw:80/formiga/formiga/23866
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://2.bp.blogspot.com/-jHasdqgcF7Y/Wh8TWTJ9oBI/AAAAAAAABcg/-wgqU7snsIo4oxWNqS6bvO2fdyOLVRLhgCLcBGAs/s1600/Discovery_Channel2.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL SD
+http://natv.pw:80/formiga/formiga/2118
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD²" tvg-logo="https://2.bp.blogspot.com/-jHasdqgcF7Y/Wh8TWTJ9oBI/AAAAAAAABcg/-wgqU7snsIo4oxWNqS6bvO2fdyOLVRLhgCLcBGAs/s1600/Discovery_Channel2.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL SD²
+http://natv.pw:80/formiga/formiga/18650
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="VARIEDADES",DISCOVERY H&H SD
+http://natv.pw:80/formiga/formiga/2117
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="VARIEDADES",DISCOVERY H&H SD²
+http://natv.pw:80/formiga/formiga/18656
+#EXTINF:-1 tvg-id="HGTV" tvg-name="DISCOVERY HGTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/800px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTÁRIOS",DISCOVERY HGTV SD
+http://natv.pw:80/formiga/formiga/25633
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="INFANTIL",DISCOVERY KIDS SD
+http://natv.pw:80/formiga/formiga/2027
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="INFANTIL",DISCOVERY KIDS SD²
+http://natv.pw:80/formiga/formiga/18659
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://3.bp.blogspot.com/-5fHUS4ZQY6s/Wh8TYKPrFxI/AAAAAAAABc0/bOlqT3P3TS0kD5pNg4POWr8-aVXRadkpACLcBGAs/s1600/Discovery_Science.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE SD
+http://natv.pw:80/formiga/formiga/18662
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://2.bp.blogspot.com/-6fuGD-JoXfU/Wh8TYrX7afI/AAAAAAAABc8/JX-3bF9Jpj4Uc1tI5pDni--J3bz-Rq84wCLcBGAs/s1600/Discovery_Theather.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER SD
+http://natv.pw:80/formiga/formiga/18665
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://2.bp.blogspot.com/-fdaqX0O2UdU/Wh8TZPuM3kI/AAAAAAAABc4/GWq6jO2mWpEOuWIPKr7cyBaZq_1hcPV4ACLcBGAs/s1600/Discovery_Turbo.png" group-title="VARIEDADES",DISCOVERY TURBO SD
+http://natv.pw:80/formiga/formiga/18289
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://4.bp.blogspot.com/-2KK7Vhg9_wg/Wh8TZkL6hBI/AAAAAAAABdA/gYZWJOnmeJImO9veG9J2GneKaE2xP7pWgCLcBGAs/s1600/Discovery_World.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD SD
+http://natv.pw:80/formiga/formiga/18671
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://1.bp.blogspot.com/-7Mr-nE8bbh4/WiBR11V8dLI/AAAAAAAABgE/iSaKIQ2PKGgATJ-ia2OSc7yuJxqBlJEgwCLcBGAs/s1600/disneychannel.png" group-title="INFANTIL",DISNEY CHANNEL SD
+http://natv.pw:80/formiga/formiga/18285
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD²" tvg-logo="https://1.bp.blogspot.com/-7Mr-nE8bbh4/WiBR11V8dLI/AAAAAAAABgE/iSaKIQ2PKGgATJ-ia2OSc7yuJxqBlJEgwCLcBGAs/s1600/disneychannel.png" group-title="INFANTIL",DISNEY CHANNEL SD²
+http://natv.pw:80/formiga/formiga/18674
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR SD" tvg-logo="https://1.bp.blogspot.com/-LJn1UpJHzKQ/WiBWMDx5jwI/AAAAAAAABgs/VpADoCZ7CDsJqm48-Komu0C0NeIuTRaiwCLcBGAs/s1600/disneyjr.png" group-title="INFANTIL",DISNEY JR SD
+http://natv.pw:80/formiga/formiga/2115
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR SD²" tvg-logo="https://1.bp.blogspot.com/-LJn1UpJHzKQ/WiBWMDx5jwI/AAAAAAAABgs/VpADoCZ7CDsJqm48-Komu0C0NeIuTRaiwCLcBGAs/s1600/disneyjr.png" group-title="INFANTIL",DISNEY JR SD²
+http://natv.pw:80/formiga/formiga/18677
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="https://1.bp.blogspot.com/-4OBvZRqXyAE/WiBWMRKO2xI/AAAAAAAABgw/-vPNRIcoCQYQyn0ptuisZRQFPfFoOMOaACLcBGAs/s320/disneyxd.png" group-title="INFANTIL",DISNEY XD SD
+http://natv.pw:80/formiga/formiga/2114
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="https://3.bp.blogspot.com/-Ky1NRw9rHPs/WhtB_ZxOfiI/AAAAAAAABa0/h7aE-wVyI_YDmLPMjN0eaaJEW9-UC9VaQCLcBGAs/s1600/Ecanal.png" group-title="VARIEDADES",E! SD
+http://natv.pw:80/formiga/formiga/2113
+#EXTINF:-1 tvg-id="" tvg-name="EI PLUS 3 HD" tvg-logo="https://i.imgur.com/EYi4AB7.jpg" group-title="ESPORTES",EI PLUS 3 HD
+http://natv.pw:80/formiga/formiga/23867
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN BRASIL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="ESPORTES",ESPN BRASIL SD
+http://natv.pw:80/formiga/formiga/2111
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN BRASIL SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="ESPORTES",ESPN BRASIL SD²
+http://natv.pw:80/formiga/formiga/18686
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD" tvg-logo="https://www.usasevens.com/las-vegas/files/2017/12/ESPN-Logo.png" group-title="ESPORTES",ESPN SD
+http://natv.pw:80/formiga/formiga/2112
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="FACEBOOK/YOUTUBE/OUTROS" tvg-logo="https://i.imgur.com/nX1rn0e.jpg" group-title="ESPORTES",FACEBOOK/YOUTUBE/OUTROS
+http://natv.pw:80/formiga/formiga/18683
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://4.bp.blogspot.com/-BIEpemIc1cE/Wi6hsdP_SzI/AAAAAAAABt8/2sQe6JbQqJMV814251L3NqWOcos3li_3gCLcBGAs/s1600/fishtv.png" group-title="ESPORTES",FISH TV SD
+http://natv.pw:80/formiga/formiga/2109
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD²" tvg-logo="https://4.bp.blogspot.com/-BIEpemIc1cE/Wi6hsdP_SzI/AAAAAAAABt8/2sQe6JbQqJMV814251L3NqWOcos3li_3gCLcBGAs/s1600/fishtv.png" group-title="ESPORTES",FISH TV SD²
+http://natv.pw:80/formiga/formiga/18690
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD" tvg-logo="https://1.bp.blogspot.com/-Z2fL1W6QYug/WhtCA91TO9I/AAAAAAAABa4/v2PTe-cJrAAcgRIUOha1qowJDegaaE2sgCLcBGAs/s1600/foodnetwork.png" group-title="VARIEDADES",FOOD NETWORK SD
+http://natv.pw:80/formiga/formiga/2108
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD²" tvg-logo="https://1.bp.blogspot.com/-Z2fL1W6QYug/WhtCA91TO9I/AAAAAAAABa4/v2PTe-cJrAAcgRIUOha1qowJDegaaE2sgCLcBGAs/s1600/foodnetwork.png" group-title="VARIEDADES",FOOD NETWORK SD²
+http://natv.pw:80/formiga/formiga/18694
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE SD" tvg-logo="https://1.bp.blogspot.com/-SchaEqWW8tw/Whg88oqvPVI/AAAAAAAABWI/Qxw8SSlwosU9WvGpIlhSwYfMgqgdal2fwCLcBGAs/s1600/foxlife.png" group-title="FILMES E SERIES",FOX LIFE SD
+http://natv.pw:80/formiga/formiga/2106
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE SD²" tvg-logo="https://1.bp.blogspot.com/-SchaEqWW8tw/Whg88oqvPVI/AAAAAAAABWI/Qxw8SSlwosU9WvGpIlhSwYfMgqgdal2fwCLcBGAs/s1600/foxlife.png" group-title="FILMES E SERIES",FOX LIFE SD²
+http://natv.pw:80/formiga/formiga/18700
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 SD" tvg-logo="https://2.bp.blogspot.com/-kfkMBXoozXQ/WiA2nZ9vCWI/AAAAAAAABfI/XE6EV4YlFR4oi6gb3PgXeVk7-wo19HqUwCLcBGAs/s1600/foxpremium1.png" group-title="FILMES E SERIES",FOX PREMIUM 1 SD
+http://natv.pw:80/formiga/formiga/19464
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 SD" tvg-logo="https://3.bp.blogspot.com/-wFaA7Hscy4I/WiA2nx1vZeI/AAAAAAAABfM/QQzOJMyaW_0ujlPjpWQ3AcI1rCA14PvrACLcBGAs/s1600/foxpremium2.png" group-title="FILMES E SERIES",FOX PREMIUM 2 SD
+http://natv.pw:80/formiga/formiga/19465
+#EXTINF:-1 tvg-id="Fox Channel" tvg-name="FOX SD" tvg-logo="https://3.bp.blogspot.com/-Hw_k3C1qzYI/Whg80aK7lMI/AAAAAAAABV8/PQQDASpd_MgNjfi4Dwvoaaa6kldRxhT9wCLcBGAs/s1600/fox.png" group-title="FILMES E SERIES",FOX SD
+http://natv.pw:80/formiga/formiga/18697
+#EXTINF:-1 tvg-id="Fox Channel" tvg-name="FOX SD²" tvg-logo="https://3.bp.blogspot.com/-Hw_k3C1qzYI/Whg80aK7lMI/AAAAAAAABV8/PQQDASpd_MgNjfi4Dwvoaaa6kldRxhT9wCLcBGAs/s1600/fox.png" group-title="FILMES E SERIES",FOX SD²
+http://natv.pw:80/formiga/formiga/18698
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://2.bp.blogspot.com/-sgCNaCmIbBU/Wh_-ZhZHAqI/AAAAAAAABd8/aphhHB2L4C0Wski0MvtuyPKmWSZG1-9HQCLcBGAs/s1600/foxsports2.png" group-title="ESPORTES",FOX SPORTS 2 SD
+http://natv.pw:80/formiga/formiga/2105
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="FOX SPORTS SD" tvg-logo="https://2.bp.blogspot.com/-W2fYT-zi8tw/Wh_-ZJ39DzI/AAAAAAAABd4/xcoFURA9sCQrG6uZ45OBVLnk2UqaR2soQCLcBGAs/s1600/foxsports.png" group-title="ESPORTES",FOX SPORTS SD
+http://natv.pw:80/formiga/formiga/2025
+#EXTINF:-1 tvg-id="Fossports.br" tvg-name="FOX SPORTS SD²" tvg-logo="https://2.bp.blogspot.com/-W2fYT-zi8tw/Wh_-ZJ39DzI/AAAAAAAABd4/xcoFURA9sCQrG6uZ45OBVLnk2UqaR2soQCLcBGAs/s1600/foxsports.png" group-title="ESPORTES",FOX SPORTS SD²
+http://natv.pw:80/formiga/formiga/18711
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="https://1.bp.blogspot.com/-d_r3b3F3R5A/Whg9BVbk5SI/AAAAAAAABWM/Ibgn8886bm42OHb0K6x4MybHwW9qOisuwCLcBGAs/s1600/fx.png" group-title="FILMES E SERIES",FX SD
+http://natv.pw:80/formiga/formiga/2104
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD²" tvg-logo="https://1.bp.blogspot.com/-d_r3b3F3R5A/Whg9BVbk5SI/AAAAAAAABWM/Ibgn8886bm42OHb0K6x4MybHwW9qOisuwCLcBGAs/s1600/fx.png" group-title="FILMES E SERIES",FX SD²
+http://natv.pw:80/formiga/formiga/18714
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA SD" tvg-logo="https://4.bp.blogspot.com/-awZzY4oHP3Q/Wm99jDpVbqI/AAAAAAAAB6U/kAaguIHE1FI6BXv4QYfgZEnpUNmgHVmhQCLcBGAs/s1600/globodf.png" group-title="REDE GLOBO",GLOBO BRASILIA SD
+http://natv.pw:80/formiga/formiga/2103
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="REDE GLOBO",GLOBO EPTV CAMPINAS SD
+http://natv.pw:80/formiga/formiga/18269
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="REDE GLOBO",GLOBO EPTV RIBEIRAO PRETO SD
+http://natv.pw:80/formiga/formiga/18355
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO EPTV SAO CARLOS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="REDE GLOBO",GLOBO EPTV SAO CARLOS SD
+http://natv.pw:80/formiga/formiga/18353
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="GLOBO INTERTV CABUGI SD" tvg-logo="https://3.bp.blogspot.com/-X5iWF-5v63g/XF8WwqHaQBI/AAAAAAAAC4M/_YKs_jcs6qsbAmHyZ2Ubx87vQZnd77nHACLcBGAs/s1600/intertv.png" group-title="REDE GLOBO",GLOBO INTERTV CABUGI SD
+http://natv.pw:80/formiga/formiga/18350
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO MINAS SD" tvg-logo="https://2.bp.blogspot.com/-pIevhpQT0Z8/WoYSvmJuFKI/AAAAAAAAB94/-2_J-sW1DGsX3zaMXbRNfSVQcODzBEBiQCLcBGAs/s1600/globo-mg.png" group-title="REDE GLOBO",GLOBO MINAS SD
+http://natv.pw:80/formiga/formiga/2102
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://2.bp.blogspot.com/-MPgU2pZ1tUQ/WiAXTKscnBI/AAAAAAAABek/9Jh6RXOba94RVYibulWqx-qp6UKzGx7kgCLcBGAs/s1600/globonews.png" group-title="NOTÍCIAS",GLOBO NEWS SD
+http://natv.pw:80/formiga/formiga/2099
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GLOBO RBS SD" tvg-logo="https://4.bp.blogspot.com/-jtLn98uBXYc/Wm99ky66LbI/AAAAAAAAB68/_LOfYUCpIpYjEQCf1wvlDSNI_kT067A6gCLcBGAs/s1600/rbsrs.png" group-title="REDE GLOBO",GLOBO RBS SD
+http://natv.pw:80/formiga/formiga/18341
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GLOBO RBS SD²" tvg-logo="https://4.bp.blogspot.com/-jtLn98uBXYc/Wm99ky66LbI/AAAAAAAAB68/_LOfYUCpIpYjEQCf1wvlDSNI_kT067A6gCLcBGAs/s1600/rbsrs.png" group-title="REDE GLOBO",GLOBO RBS SD²
+http://natv.pw:80/formiga/formiga/19145
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="https://3.bp.blogspot.com/-1lp0y51a85g/WoTeruA-L6I/AAAAAAAAB9c/r7LyZkJUfj0LDGl-bsRALqd667bWLfEIwCLcBGAs/s1600/grj.png" group-title="REDE GLOBO",GLOBO RJ SD
+http://natv.pw:80/formiga/formiga/2101
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD²" tvg-logo="https://3.bp.blogspot.com/-1lp0y51a85g/WoTeruA-L6I/AAAAAAAAB9c/r7LyZkJUfj0LDGl-bsRALqd667bWLfEIwCLcBGAs/s1600/grj.png" group-title="REDE GLOBO",GLOBO RJ SD²
+http://natv.pw:80/formiga/formiga/18335
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD" tvg-logo="https://2.bp.blogspot.com/-zXkeaygUnTA/WoTerU7_M1I/AAAAAAAAB9Y/L0U03FkDWc4XJy9QifNgBZLMVyIZbAd-gCLcBGAs/s1600/gsp.png" group-title="REDE GLOBO",GLOBO SP SD
+http://natv.pw:80/formiga/formiga/2100
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO TV ANHAGUERA GOIANIA SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="REDE GLOBO",GLOBO TV ANHAGUERA GOIANIA SD
+http://natv.pw:80/formiga/formiga/18327
+#EXTINF:-1 tvg-id="TV Anhanguera Goiânia" tvg-name="GLOBO TV ANHANGHERA GOIANIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a0/Logo_TV_Anhanguera_2019.png" group-title="REDE GLOBO",GLOBO TV ANHANGHERA GOIANIA SD
+http://natv.pw:80/formiga/formiga/25671
+#EXTINF:-1 tvg-id="TVCaboBrancoHD.br" tvg-name="GLOBO TV CABO BRANCO SD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-cabo-branco_m.png" group-title="REDE GLOBO",GLOBO TV CABO BRANCO SD
+http://natv.pw:80/formiga/formiga/23630
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV CENTRO AMERICA CUIABA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="REDE GLOBO",GLOBO TV CENTRO AMERICA CUIABA HD
+http://natv.pw:80/formiga/formiga/18323
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="GLOBO TV LIBERAL BELEM HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="REDE GLOBO",GLOBO TV LIBERAL BELEM HD
+http://natv.pw:80/formiga/formiga/18320
+#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="GLOBO TV TEM BAURU SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="REDE GLOBO",GLOBO TV TEM BAURU SD
+http://natv.pw:80/formiga/formiga/18313
+#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO TV TEM SOROCABA SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="REDE GLOBO",GLOBO TV TEM SOROCABA SD
+http://natv.pw:80/formiga/formiga/18310
+#EXTINF:-1 tvg-id="Tvtribuna.br" tvg-name="GLOBO TV TRIBUNA SANTOS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="REDE GLOBO",GLOBO TV TRIBUNA SANTOS SD
+http://natv.pw:80/formiga/formiga/18309
+#EXTINF:-1 tvg-id="Vangsaojchd.br" tvg-name="GLOBO TV VANGUARDA SJ DOS CAMPO SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="REDE GLOBO",GLOBO TV VANGUARDA SJ DOS CAMPO SD
+http://natv.pw:80/formiga/formiga/18308
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD" tvg-logo="https://2.bp.blogspot.com/-BhbsAXrnwYs/WiBWMvSzpNI/AAAAAAAABg0/GxlaOZ0nS0wyp8gy8D_aJNgTAC6UWXMJwCLcBGAs/s1600/gloob.png" group-title="INFANTIL",GLOOB SD
+http://natv.pw:80/formiga/formiga/2098
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD²" tvg-logo="https://2.bp.blogspot.com/-BhbsAXrnwYs/WiBWMvSzpNI/AAAAAAAABg0/GxlaOZ0nS0wyp8gy8D_aJNgTAC6UWXMJwCLcBGAs/s1600/gloob.png" group-title="INFANTIL",GLOOB SD²
+http://natv.pw:80/formiga/formiga/18727
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloobinho-logo.png" group-title="INFANTIL",GLOOBINHO SD
+http://natv.pw:80/formiga/formiga/23890
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="https://1.bp.blogspot.com/-B_PrvQhkEEc/Whs8P7SSSbI/AAAAAAAABZU/Rci0Cc57MZ8F05bh8vhBuBYe0DH7qtIagCLcBGAs/s1600/gnt.png" group-title="VARIEDADES",GNT SD
+http://natv.pw:80/formiga/formiga/2097
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD²" tvg-logo="https://1.bp.blogspot.com/-B_PrvQhkEEc/Whs8P7SSSbI/AAAAAAAABZU/Rci0Cc57MZ8F05bh8vhBuBYe0DH7qtIagCLcBGAs/s1600/gnt.png" group-title="VARIEDADES",GNT SD²
+http://natv.pw:80/formiga/formiga/18766
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SD" tvg-logo="https://2.bp.blogspot.com/-GcxnKIsdeys/Wh8TZq3xlVI/AAAAAAAABdE/MyqV1HlfTaQ03ukmU6-2SXrey79U0fvBACLcBGAs/s1600/History2.png" group-title="DOCUMENTÁRIOS",H2 SD
+http://natv.pw:80/formiga/formiga/2096
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://4.bp.blogspot.com/-15CL3AgyytU/WhXBuolPliI/AAAAAAAABUI/17F8zuH-3zEE0oKVh2Zk4_O9SmULy00AwCLcBGAs/s1600/hbo2.png" group-title="HBO",HBO 2 SD
+http://natv.pw:80/formiga/formiga/2090
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD²" tvg-logo="https://4.bp.blogspot.com/-15CL3AgyytU/WhXBuolPliI/AAAAAAAABUI/17F8zuH-3zEE0oKVh2Zk4_O9SmULy00AwCLcBGAs/s1600/hbo2.png" group-title="HBO",HBO 2 SD²
+http://natv.pw:80/formiga/formiga/18774
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="https://2.bp.blogspot.com/-Rzizh0oKbZo/WhXBvUPKVbI/AAAAAAAABUM/s8Q1xvAihIUfdWDLcBXFFfM0sX38iTHuQCLcBGAs/s1600/hbofamily.png" group-title="HBO",HBO FAMILY SD
+http://natv.pw:80/formiga/formiga/2094
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD" tvg-logo="https://i.imgur.com/JrsiBXX.png" group-title="HBO",HBO MUNDI SD
+http://natv.pw:80/formiga/formiga/2085
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD" tvg-logo="https://2.bp.blogspot.com/-HsYv0q6A1to/XNtI-8bw35I/AAAAAAAADHQ/-ac5PB9WxPEizH2aNTO_OjhYJXvjQfaXwCLcBGAs/s1600/hboplus.png" group-title="HBO",HBO PLUS SD
+http://natv.pw:80/formiga/formiga/18265
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD²" tvg-logo="https://2.bp.blogspot.com/-HsYv0q6A1to/XNtI-8bw35I/AAAAAAAADHQ/-ac5PB9WxPEizH2aNTO_OjhYJXvjQfaXwCLcBGAs/s1600/hboplus.png" group-title="HBO",HBO PLUS SD²
+http://natv.pw:80/formiga/formiga/18785
+#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO POP SD" tvg-logo="https://i.imgur.com/DnmUjVW.png" group-title="HBO",HBO POP SD
+http://natv.pw:80/formiga/formiga/2083
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="https://2.bp.blogspot.com/-l_OR3-jrhrc/WhXBstTkjrI/AAAAAAAABUE/nsm7_Pd2ZlIQPwaRCPu9hzzKAxSgCfE6QCLcBGAs/s1600/hbo.png" group-title="HBO",HBO SD
+http://natv.pw:80/formiga/formiga/2095
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD²" tvg-logo="https://2.bp.blogspot.com/-l_OR3-jrhrc/WhXBstTkjrI/AAAAAAAABUE/nsm7_Pd2ZlIQPwaRCPu9hzzKAxSgCfE6QCLcBGAs/s1600/hbo.png" group-title="HBO",HBO SD²
+http://natv.pw:80/formiga/formiga/18780
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://4.bp.blogspot.com/-W0PvbzX9Ca8/WhXBwjFbi-I/AAAAAAAABUU/E93FbbZcWZczBMMNzppjfaRPteOdS_TXwCLcBGAs/s1600/hbosignature.png" group-title="HBO",HBO SIGNATURE SD
+http://natv.pw:80/formiga/formiga/18264
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD²" tvg-logo="https://4.bp.blogspot.com/-W0PvbzX9Ca8/WhXBwjFbi-I/AAAAAAAABUU/E93FbbZcWZczBMMNzppjfaRPteOdS_TXwCLcBGAs/s1600/hbosignature.png" group-title="HBO",HBO SIGNATURE SD²
+http://natv.pw:80/formiga/formiga/18788
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD" tvg-logo="https://i.imgur.com/k4GWpAA.png" group-title="HBO",HBO XTREME SD
+http://natv.pw:80/formiga/formiga/2023
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD²" tvg-logo="https://i.imgur.com/k4GWpAA.png" group-title="HBO",HBO XTREME SD²
+http://natv.pw:80/formiga/formiga/18797
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL SD" tvg-logo="https://3.bp.blogspot.com/-q3Fmbh0snec/Wh8TZypcPTI/AAAAAAAABdM/epvt-aD3Ka0SZY6V5WMJaUs7kUHci0BLwCLcBGAs/s1600/History_Channel.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL SD
+http://natv.pw:80/formiga/formiga/18216
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL SD²" tvg-logo="https://3.bp.blogspot.com/-q3Fmbh0snec/Wh8TZypcPTI/AAAAAAAABdM/epvt-aD3Ka0SZY6V5WMJaUs7kUHci0BLwCLcBGAs/s1600/History_Channel.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL SD²
+http://natv.pw:80/formiga/formiga/18791
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGATION DISCOVERY SD" tvg-logo="https://3.bp.blogspot.com/-ZMjdaD1tEec/Wh8TXqDSXPI/AAAAAAAABcw/UtDkbUuZ0fwSGJ_C0unvH2tGxOdtk_WiQCLcBGAs/s1600/Discovery_Investigacao.png" group-title="DOCUMENTÁRIOS",INVESTIGATION DISCOVERY SD
+http://natv.pw:80/formiga/formiga/18261
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://4.bp.blogspot.com/-HMLnY6H4uoI/WhtB5eWKOnI/AAAAAAAABas/R2MlEfDiD-wuRq1kPfg4a-sqkBlhiWnAgCLcBGAs/s1600/lifetime.png" group-title="VARIEDADES",LIFETIME SD
+http://natv.pw:80/formiga/formiga/2087
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT SD" tvg-logo="https://3.bp.blogspot.com/-yyoikgKX-K8/Whs8SltCxKI/AAAAAAAABZY/34TD6DZUisIJXyp0V__imuq0o4JGersAwCLcBGAs/s1600/masiglobosat.png" group-title="VARIEDADES",MAIS GLOBOSAT SD
+http://natv.pw:80/formiga/formiga/2086
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://4.bp.blogspot.com/-hLOcq729luU/WhT0ZL5SGmI/AAAAAAAABSc/VIsGSBy3deQoVh7nqw9Dlp8tXJHtOLXCgCEwYBhgL/s1600/megapix.png" group-title="FILMES E SERIES",MEGAPIX SD
+http://natv.pw:80/formiga/formiga/2022
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD²" tvg-logo="https://4.bp.blogspot.com/-hLOcq729luU/WhT0ZL5SGmI/AAAAAAAABSc/VIsGSBy3deQoVh7nqw9Dlp8tXJHtOLXCgCEwYBhgL/s1600/megapix.png" group-title="FILMES E SERIES",MEGAPIX SD²
+http://natv.pw:80/formiga/formiga/18802
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="https://4.bp.blogspot.com/-ryvv2kUCsi0/Whs8XlapGFI/AAAAAAAABZk/FPYss5urcsgHHwsW67R7bYXAzRrs0foswCLcBGAs/s1600/mtv.png" group-title="MUSICAIS",MTV SD
+http://natv.pw:80/formiga/formiga/2082
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://3.bp.blogspot.com/-WbNyWpseGFc/Whs8UK0P-qI/AAAAAAAABZc/91A56OPsOnIVlzSQ2cTcu4VuPsi21dlrgCLcBGAs/s1600/multishow.png" group-title="VARIEDADES",MULTISHOW SD
+http://natv.pw:80/formiga/formiga/2021
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD²" tvg-logo="https://3.bp.blogspot.com/-WbNyWpseGFc/Whs8UK0P-qI/AAAAAAAABZc/91A56OPsOnIVlzSQ2cTcu4VuPsi21dlrgCLcBGAs/s1600/multishow.png" group-title="VARIEDADES",MULTISHOW SD²
+http://natv.pw:80/formiga/formiga/18807
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS SD" tvg-logo="https://1.bp.blogspot.com/-0VLY-EEwV-U/W2yBqshGAhI/AAAAAAAACWU/0_3L0R_nC7Qv8_zVs0Vtsa4rcs4AfFUrgCLcBGAs/s1600/NATGEOKIDS.png" group-title="INFANTIL",NAT GEO KIDS SD
+http://natv.pw:80/formiga/formiga/2081
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD SD" tvg-logo="https://1.bp.blogspot.com/-rQvZ3-bSfXc/W4rWzMkSN0I/AAAAAAAACYM/mieUTFGn-jcfR06Va7JmgjmzoB0jqfFagCLcBGAs/s1600/nationalgeographicwild.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD SD
+http://natv.pw:80/formiga/formiga/2080
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD SD²" tvg-logo="https://1.bp.blogspot.com/-rQvZ3-bSfXc/W4rWzMkSN0I/AAAAAAAACYM/mieUTFGn-jcfR06Va7JmgjmzoB0jqfFagCLcBGAs/s1600/nationalgeographicwild.png" group-title="DOCUMENTÁRIOS",NAT GEO WILD SD²
+http://natv.pw:80/formiga/formiga/18815
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://3.bp.blogspot.com/-aUbQ5NjmNK4/Wh8TaxP4PgI/AAAAAAAABdQ/BZQ8ROkbg_46nwlPiukQ6ZpU9UYT_L4bwCLcBGAs/s1600/NatcionalGeographic.png" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC SD
+http://natv.pw:80/formiga/formiga/2079
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD" tvg-logo="https://3.bp.blogspot.com/-MDFnGSlo41Q/WiBWNd4ODtI/AAAAAAAABhA/Cr4MLSxeMD0yiDh_ZftshGyJYKj8QpbeQCLcBGAs/s1600/nickjr.png" group-title="INFANTIL",NICK JR SD
+http://natv.pw:80/formiga/formiga/2077
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR SD²" tvg-logo="https://3.bp.blogspot.com/-MDFnGSlo41Q/WiBWNd4ODtI/AAAAAAAABhA/Cr4MLSxeMD0yiDh_ZftshGyJYKj8QpbeQCLcBGAs/s1600/nickjr.png" group-title="INFANTIL",NICK JR SD²
+http://natv.pw:80/formiga/formiga/18822
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD" tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/b/bc/Nickelodeon_Logo_2004.png/revision/latest?cb=20180220165222" group-title="INFANTIL",NICKELODEON SD
+http://natv.pw:80/formiga/formiga/2076
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="NOVO TEMPO" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",NOVO TEMPO
+http://natv.pw:80/formiga/formiga/18250
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_Canal_OFF.png" group-title="ESPORTES",OFF SD
+http://natv.pw:80/formiga/formiga/2075
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SD" tvg-logo="https://1.bp.blogspot.com/-0X2KFi9idzg/WhzV8smyRMI/AAAAAAAABcA/YjgxEYIQ1ycqJ3n5vHbQ-lrISctrgO-HQCLcBGAs/s1600/paramount_channel.png" group-title="FILMES E SERIES",PARAMOUNT SD
+http://natv.pw:80/formiga/formiga/2074
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT SD²" tvg-logo="https://1.bp.blogspot.com/-0X2KFi9idzg/WhzV8smyRMI/AAAAAAAABcA/YjgxEYIQ1ycqJ3n5vHbQ-lrISctrgO-HQCLcBGAs/s1600/paramount_channel.png" group-title="FILMES E SERIES",PARAMOUNT SD²
+http://natv.pw:80/formiga/formiga/18827
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE",PREMIERE 2 SD
+http://natv.pw:80/formiga/formiga/2072
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE",PREMIERE 3 SD
+http://natv.pw:80/formiga/formiga/2071
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE",PREMIERE 4 SD
+http://natv.pw:80/formiga/formiga/2070
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD²" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE",PREMIERE 4 SD²
+http://natv.pw:80/formiga/formiga/18839
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE",PREMIERE 5 SD
+http://natv.pw:80/formiga/formiga/2069
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE",PREMIERE 6 SD
+http://natv.pw:80/formiga/formiga/2068
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE",PREMIERE 7 SD
+http://natv.pw:80/formiga/formiga/2067
+#EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE 8 SD" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE",PREMIERE 8 SD
+http://natv.pw:80/formiga/formiga/18241
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE",PREMIERE CLUBES SD
+http://natv.pw:80/formiga/formiga/18240
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD²" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE",PREMIERE CLUBES SD²
+http://natv.pw:80/formiga/formiga/18988
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIMEBOX BRAZIL SD" tvg-logo="https://1.bp.blogspot.com/-WcBiD3cSvZQ/Whs8eZfrsGI/AAAAAAAABZ0/29j73tjbgb8NbsNc7t_Yv6B62FReWEC0ACLcBGAs/s1600/primebox.png" group-title="MUSICAIS",PRIMEBOX BRAZIL SD
+http://natv.pw:80/formiga/formiga/2064
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD MINAS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="RECORD",RECORD MINAS SD
+http://natv.pw:80/formiga/formiga/18420
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD" tvg-logo="https://2.bp.blogspot.com/-KVp2_3vrBDQ/WiAXTo4_6fI/AAAAAAAABes/Npo1YTXMN6QNzhK0mYwo1ko01kfg55pwwCLcBGAs/s320/recordnews.png" group-title="NOTÍCIAS",RECORD NEWS SD
+http://natv.pw:80/formiga/formiga/2062
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD²" tvg-logo="https://2.bp.blogspot.com/-KVp2_3vrBDQ/WiAXTo4_6fI/AAAAAAAABes/Npo1YTXMN6QNzhK0mYwo1ko01kfg55pwwCLcBGAs/s320/recordnews.png" group-title="NOTÍCIAS",RECORD NEWS SD²
+http://natv.pw:80/formiga/formiga/18740
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RJ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="RECORD",RECORD RJ SD
+http://natv.pw:80/formiga/formiga/18733
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="RECORD",RECORD SP SD
+http://natv.pw:80/formiga/formiga/18987
+#EXTINF:-1 tvg-id="CNT" tvg-name="REDE CNT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png" group-title="RELIGIOSOS",REDE CNT SD
+http://natv.pw:80/formiga/formiga/25547
+#EXTINF:-1 tvg-id="" tvg-name="REDE SUPER" tvg-logo="https://i1.wp.com/www.pibcuritiba.org.br/wp-content/uploads/2016/07/rede-super-logo-tv.png?w=1080&ssl=1" group-title="RELIGIOSOS",REDE SUPER
+http://natv.pw:80/formiga/formiga/22634
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA SD" tvg-logo="https://3.bp.blogspot.com/-O8yNbuZXKzo/WiCujYgLkOI/AAAAAAAABig/iYSBGh35a1UAeoLHzgmjf3XJeTTjlycdACLcBGAs/s1600/redevida.png" group-title="RELIGIOSOS",REDE VIDA SD
+http://natv.pw:80/formiga/formiga/2032
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV! SD" tvg-logo="https://2.bp.blogspot.com/-KUaQuudyPgM/Wg7yAZypfqI/AAAAAAAABIA/euldIr-IoBYgUwZsw4gI4I3kkO3iz0h4ACPcBGAYYCw/s1600/redetv.png" group-title="CANAIS ABERTOS",REDETV! SD
+http://natv.pw:80/formiga/formiga/2060
+#EXTINF:-1 tvg-id="RIT" tvg-name="RIT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_da_RIT_%282016%29.png" group-title="RELIGIOSOS",RIT SD
+http://natv.pw:80/formiga/formiga/25315
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="RÁ-TIM-BUM SD" tvg-logo="https://2.bp.blogspot.com/-qp69iFLI4oo/WiBWNynjgPI/AAAAAAAABhM/HPJyr-b8KFYXCX_GVCc6zHDDZVr3Z14LgCLcBGAs/s1600/tvratimbum.png" group-title="INFANTIL",RÁ-TIM-BUM SD
+http://natv.pw:80/formiga/formiga/18212
+#EXTINF:-1 tvg-id="RedeMassa.br" tvg-name="SBT PR SD" tvg-logo="https://1.bp.blogspot.com/-t1__ul1AEh4/Wg7yCSo2fwI/AAAAAAAABIU/ABvZwhlo8-AhfIQ8WqvjWQl8NC-3XpoQgCPcBGAYYCw/s1600/sbt.png" group-title="CANAIS ABERTOS",SBT PR SD
+http://natv.pw:80/formiga/formiga/31194
+#EXTINF:-1 tvg-id="RedeMassa.br" tvg-name="SBT RJ SD" tvg-logo="https://1.bp.blogspot.com/-t1__ul1AEh4/Wg7yCSo2fwI/AAAAAAAABIU/ABvZwhlo8-AhfIQ8WqvjWQl8NC-3XpoQgCPcBGAYYCw/s1600/sbt.png" group-title="CANAIS ABERTOS",SBT RJ SD
+http://natv.pw:80/formiga/formiga/31195
+#EXTINF:-1 tvg-id="SmithsonianChannel" tvg-name="SMITHSONIAN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png" group-title="DOCUMENTÁRIOS",SMITHSONIAN SD
+http://natv.pw:80/formiga/formiga/25581
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="https://4.bp.blogspot.com/-FxFsNWI9n2g/Whg9Gs-QSYI/AAAAAAAABWc/5qEp_OW-3YQo-8ejUrDHm_84m35ddbBkACLcBGAs/s1600/space.png" group-title="FILMES E SERIES",SPACE SD
+http://natv.pw:80/formiga/formiga/2056
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD²" tvg-logo="https://4.bp.blogspot.com/-FxFsNWI9n2g/Whg9Gs-QSYI/AAAAAAAABWc/5qEp_OW-3YQo-8ejUrDHm_84m35ddbBkACLcBGAs/s1600/space.png" group-title="FILMES E SERIES",SPACE SD²
+http://natv.pw:80/formiga/formiga/18852
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://2.bp.blogspot.com/-LLemuxlYKjk/WhDa1XUDULI/AAAAAAAABMA/0CSEXOPl8s8rqqSNgKNddsrrgY62Kkn0gCLcBGAs/s1600/sportv2.png" group-title="ESPORTES",SPORTV 2 SD
+http://natv.pw:80/formiga/formiga/2054
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD²" tvg-logo="https://2.bp.blogspot.com/-LLemuxlYKjk/WhDa1XUDULI/AAAAAAAABMA/0CSEXOPl8s8rqqSNgKNddsrrgY62Kkn0gCLcBGAs/s1600/sportv2.png" group-title="ESPORTES",SPORTV 2 SD²
+http://natv.pw:80/formiga/formiga/18855
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://3.bp.blogspot.com/-lNqhG8IfVF8/WhDa2AceJxI/AAAAAAAABMI/RNCVZOJa8Eclxhs_iQ1tdSzQ6TgwsaW5gCLcBGAs/s1600/sportv3.png" group-title="ESPORTES",SPORTV 3 SD
+http://natv.pw:80/formiga/formiga/2052
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD²" tvg-logo="https://3.bp.blogspot.com/-lNqhG8IfVF8/WhDa2AceJxI/AAAAAAAABMI/RNCVZOJa8Eclxhs_iQ1tdSzQ6TgwsaW5gCLcBGAs/s1600/sportv3.png" group-title="ESPORTES",SPORTV 3 SD²
+http://natv.pw:80/formiga/formiga/18860
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="https://2.bp.blogspot.com/-tiQuwAQ6wB8/WhDa2mWPG2I/AAAAAAAABMM/xnWWtVtjhQs4nHKcOpMgOi5MC8VMG9ylwCLcBGAs/s1600/spotv.png" group-title="ESPORTES",SPORTV SD
+http://natv.pw:80/formiga/formiga/2055
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD²" tvg-logo="https://2.bp.blogspot.com/-tiQuwAQ6wB8/WhDa2mWPG2I/AAAAAAAABMM/xnWWtVtjhQs4nHKcOpMgOi5MC8VMG9ylwCLcBGAs/s1600/spotv.png" group-title="ESPORTES",SPORTV SD²
+http://natv.pw:80/formiga/formiga/18863
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL SD
+http://natv.pw:80/formiga/formiga/2051
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL SD²
+http://natv.pw:80/formiga/formiga/18866
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="https://3.bp.blogspot.com/-ueCxtO_Sh6o/WjGVF6zK0rI/AAAAAAAABz0/BC6wgpU11Zgm1WjubVdKIv9kIea1JbCVQCLcBGAs/s1600/syfy.png" group-title="FILMES E SERIES",SYFY SD
+http://natv.pw:80/formiga/formiga/18224
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD²" tvg-logo="https://3.bp.blogspot.com/-ueCxtO_Sh6o/WjGVF6zK0rI/AAAAAAAABz0/BC6wgpU11Zgm1WjubVdKIv9kIea1JbCVQCLcBGAs/s1600/syfy.png" group-title="FILMES E SERIES",SYFY SD²
+http://natv.pw:80/formiga/formiga/18869
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="https://4.bp.blogspot.com/-NNgRkkNgRhw/Whg9W0VV3QI/AAAAAAAABWw/GdkHPcpjZN8GhAevrXD4DSK3RJxw68fXwCLcBGAs/s1600/tbs.png" group-title="FILMES E SERIES",TBS SD
+http://natv.pw:80/formiga/formiga/2019
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://4.bp.blogspot.com/-GJUDS1COJqs/Whg9ejBcOuI/AAAAAAAABXA/fbI7B9pUxIESMHd9D1gTD41f82qEL0X8gCLcBGAs/s1600/tcm.png" group-title="FILMES E SERIES",TCM SD
+http://natv.pw:80/formiga/formiga/2050
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://1.bp.blogspot.com/-DH1qs9c6vdI/WhTzmBEkALI/AAAAAAAABSI/WWveOYIRdlwfwVAnRL5EUm4CFiM2xwC9ACLcBGAs/s1600/tcaction.png" group-title="TELECINE",TELECINE ACTION SD
+http://natv.pw:80/formiga/formiga/2049
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD²" tvg-logo="https://1.bp.blogspot.com/-DH1qs9c6vdI/WhTzmBEkALI/AAAAAAAABSI/WWveOYIRdlwfwVAnRL5EUm4CFiM2xwC9ACLcBGAs/s1600/tcaction.png" group-title="TELECINE",TELECINE ACTION SD²
+http://natv.pw:80/formiga/formiga/18873
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://3.bp.blogspot.com/-4v3fTyeNX1g/WhRdeZL89-I/AAAAAAAABRk/JZ3r5R3ewVcyR2wErdh_nejC0uj-0GxmACLcBGAs/s1600/tccult.png" group-title="TELECINE",TELECINE CULT SD
+http://natv.pw:80/formiga/formiga/2048
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD²" tvg-logo="https://3.bp.blogspot.com/-4v3fTyeNX1g/WhRdeZL89-I/AAAAAAAABRk/JZ3r5R3ewVcyR2wErdh_nejC0uj-0GxmACLcBGAs/s1600/tccult.png" group-title="TELECINE",TELECINE CULT SD²
+http://natv.pw:80/formiga/formiga/18876
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://4.bp.blogspot.com/-5hUWClTVHmk/WhTzzUr8zFI/AAAAAAAABSQ/Vi65_PEliLEwIORmlnKPf0g1QBDSYuA8wCLcBGAs/s1600/tcfun.png" group-title="TELECINE",TELECINE FUN SD
+http://natv.pw:80/formiga/formiga/2047
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD²" tvg-logo="https://4.bp.blogspot.com/-5hUWClTVHmk/WhTzzUr8zFI/AAAAAAAABSQ/Vi65_PEliLEwIORmlnKPf0g1QBDSYuA8wCLcBGAs/s1600/tcfun.png" group-title="TELECINE",TELECINE FUN SD²
+http://natv.pw:80/formiga/formiga/18974
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://1.bp.blogspot.com/-R2Ah85FOm4Q/WhTzvEIabdI/AAAAAAAABSM/dSs-OSHD5xsG2lY7SJHI7RX_Qvl69vYZQCLcBGAs/s1600/tcpipoca.png" group-title="TELECINE",TELECINE PIPOCA SD
+http://natv.pw:80/formiga/formiga/2046
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD²" tvg-logo="https://1.bp.blogspot.com/-R2Ah85FOm4Q/WhTzvEIabdI/AAAAAAAABSM/dSs-OSHD5xsG2lY7SJHI7RX_Qvl69vYZQCLcBGAs/s1600/tcpipoca.png" group-title="TELECINE",TELECINE PIPOCA SD²
+http://natv.pw:80/formiga/formiga/18881
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://3.bp.blogspot.com/-sMcD-0qxqd8/WhTzkrK1q0I/AAAAAAAABSE/8qtuusvx9bML1btJ86p_cIdWycXXBS2jACLcBGAs/s1600/tcpremium.png" group-title="TELECINE",TELECINE PREMIUM SD
+http://natv.pw:80/formiga/formiga/2045
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD²" tvg-logo="https://3.bp.blogspot.com/-sMcD-0qxqd8/WhTzkrK1q0I/AAAAAAAABSE/8qtuusvx9bML1btJ86p_cIdWycXXBS2jACLcBGAs/s1600/tcpremium.png" group-title="TELECINE",TELECINE PREMIUM SD²
+http://natv.pw:80/formiga/formiga/18884
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://4.bp.blogspot.com/-7XT5BYZORIA/WhT0QNEF5MI/AAAAAAAABSY/Tq91Hf6sOTQMy7j8yLAxa0eKqGuqSqsfACLcBGAs/s1600/tctouch.png" group-title="TELECINE",TELECINE TOUCH SD
+http://natv.pw:80/formiga/formiga/2044
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD²" tvg-logo="https://4.bp.blogspot.com/-7XT5BYZORIA/WhT0QNEF5MI/AAAAAAAABSY/Tq91Hf6sOTQMy7j8yLAxa0eKqGuqSqsfACLcBGAs/s1600/tctouch.png" group-title="TELECINE",TELECINE TOUCH SD²
+http://natv.pw:80/formiga/formiga/18887
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="https://4.bp.blogspot.com/-Ud_YcamaDAY/WhtB9talAbI/AAAAAAAABaw/VO8NyBHz3y4vqYCbRT0ko4qL5EhOiVKKACLcBGAs/s1600/tlc.png" group-title="VARIEDADES",TLC SD
+http://natv.pw:80/formiga/formiga/2018
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://2.bp.blogspot.com/-tNOLUCyIhjI/Whg9DnrtfxI/AAAAAAAABWU/aNJERfr9uxobNx-UFRDzNK7yHR8Il5SjgCLcBGAs/s1600/tntfilmes.png" group-title="FILMES E SERIES",TNT SD
+http://natv.pw:80/formiga/formiga/2042
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD²" tvg-logo="https://2.bp.blogspot.com/-tNOLUCyIhjI/Whg9DnrtfxI/AAAAAAAABWU/aNJERfr9uxobNx-UFRDzNK7yHR8Il5SjgCLcBGAs/s1600/tntfilmes.png" group-title="FILMES E SERIES",TNT SD²
+http://natv.pw:80/formiga/formiga/18890
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES SD" tvg-logo="https://3.bp.blogspot.com/-rr---_21J9w/Whg9EHPQcTI/AAAAAAAABWY/KvJHpzhqC-gCj31ePc2wx-OE_39--2QmACLcBGAs/s1600/tntseries.png" group-title="FILMES E SERIES",TNT SÉRIES SD
+http://natv.pw:80/formiga/formiga/2041
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SÉRIES SD²" tvg-logo="https://3.bp.blogspot.com/-rr---_21J9w/Whg9EHPQcTI/AAAAAAAABWY/KvJHpzhqC-gCj31ePc2wx-OE_39--2QmACLcBGAs/s1600/tntseries.png" group-title="FILMES E SERIES",TNT SÉRIES SD²
+http://natv.pw:80/formiga/formiga/18891
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST SD" tvg-logo="https://3.bp.blogspot.com/-SnH6o66fSAM/WiBWNrBKjzI/AAAAAAAABhI/6Du28FLwgnYqtBzQ1aVYBBpAcXFaV5OzQCLcBGAs/s1600/tooncast.png" group-title="INFANTIL",TOONCAST SD
+http://natv.pw:80/formiga/formiga/2040
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV SD" tvg-logo="https://1.bp.blogspot.com/-F8zXfbKacE0/WhtB2GNRc1I/AAAAAAAABak/9BvB2feb0wM61tCDCAbuBArYGCM5pCHFgCLcBGAs/s1600/trutv.png" group-title="VARIEDADES",TRUTV SD
+http://natv.pw:80/formiga/formiga/2039
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA SD" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA SD
+http://natv.pw:80/formiga/formiga/18213
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png" group-title="RELIGIOSOS",TV EVANGELIZAR 
+http://natv.pw:80/formiga/formiga/23872
+#EXTINF:-1 tvg-id="Tvjustica.br" tvg-name="TV JUSTIÇA SD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvjustica.png" group-title="CANAIS ABERTOS",TV JUSTIÇA SD
+http://natv.pw:80/formiga/formiga/2031
+#EXTINF:-1 tvg-id="TV Pai Eterno" tvg-name="TV PAI ETERNO SD" tvg-logo="https://diocesedeparanagua.org.br/wp-content/uploads/2019/05/tvpaieterno1-326x245.jpg" group-title="RELIGIOSOS",TV PAI ETERNO SD
+http://natv.pw:80/formiga/formiga/25318
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL SD
+http://natv.pw:80/formiga/formiga/2038
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL SD²
+http://natv.pw:80/formiga/formiga/18898
+#EXTINF:-1 tvg-id="VH1MegaHits.br" tvg-name="VH1 MEGA HITS SD" tvg-logo="https://3.bp.blogspot.com/-MmvX0Dse5uo/Whs8a-1pSII/AAAAAAAABZs/9kEJH1lkbucCmm81yvTkphiWA7AQnhHRACLcBGAs/s1600/vh1megahits.png" group-title="MUSICAIS",VH1 MEGA HITS SD
+http://natv.pw:80/formiga/formiga/18208
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="https://3.bp.blogspot.com/-s1odC6DUJ5g/W7PPsLj373I/AAAAAAAAClQ/Us5B2iuDuMUpZFOoSssm0rCYcoprsVUbQCLcBGAs/s1600/viva.png" group-title="VARIEDADES",VIVA SD
+http://natv.pw:80/formiga/formiga/2036
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD²" tvg-logo="https://3.bp.blogspot.com/-s1odC6DUJ5g/W7PPsLj373I/AAAAAAAAClQ/Us5B2iuDuMUpZFOoSssm0rCYcoprsVUbQCLcBGAs/s1600/viva.png" group-title="VARIEDADES",VIVA SD²
+http://natv.pw:80/formiga/formiga/18963
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://4.bp.blogspot.com/-REJyS7YoLy0/Whg8y1-JntI/AAAAAAAABV4/lvv4l82gfgUjWjlMqIEVNhxVpY8UirFNACLcBGAs/s1600/warner_channel.png" group-title="FILMES E SERIES",WARNER CHANNEL SD
+http://natv.pw:80/formiga/formiga/2035
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD" tvg-logo="https://4.bp.blogspot.com/-2CwDjeJXwlc/Whg9i0MBY7I/AAAAAAAABXI/Qt16RTfb3potQaf4rl8fDNuLzqdtexpqgCLcBGAs/s1600/woohoo.png" group-title="VARIEDADES",WOOHOO SD
+http://natv.pw:80/formiga/formiga/2034
