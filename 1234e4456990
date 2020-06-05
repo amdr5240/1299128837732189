@@ -18,7 +18,7 @@ http://a.srvbr.me:8880/118692/118692/829
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="CANAIS ABERTOS",SBT  SD
 
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w500280477.m3u8
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="CANAIS ABERTOS",SBT Interior SP
 https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist.m3u8
@@ -41,7 +41,7 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u
 https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="CANAIS ABERTOS",Band HD
-http://a.srvbr.me:8880/040488/040488/887
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
 
 
@@ -61,6 +61,9 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-b.m3u8?PEDROJUNIO
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="CANAIS ABERTOS", RedeTV!
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="CANAIS ABERTOS", RedeTV! HD
+https://stmv1.srvstm.com/maiko7291/maiko7291/chunklist.m3u8
 
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="CANAIS ABERTOS"",Rede Brasil
