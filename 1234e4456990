@@ -143,27 +143,20 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?PE
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="CANAIS ABERTOS",Nickelodeon 
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3u8
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="CANAIS ABERTOS",Nickelodeon 
-
-http://lindaflor.net:8080/232323/232323/362
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/yySDkYo.png" group-title="CANAIS ABERTOS",Nickelodeon HD
-http://a.srvbr.me:8880/040488/040488/787
+http://elitex.me:80/Eliezer3034/765OehDzeS/10039589
 
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="CANAIS ABERTOS", CARTOON NETWORK 
-http://srv.tvprodigital.net:80/@moxe@mix/@123456/20845
+http://elitex.me:80/Eliezer3034/765OehDzeS/62
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="CANAIS ABERTOS",CARTOON NETWORK SD
-
-http://srv.tvprodigital.net:80/@moxe@mix/@123456/4394
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="https://img2.gratispng.com/20180721/aq/kisspng-boomerang-logo-television-channel-tom-and-jerry-dog-5b53c4af10de42.3513045215322164950691.jpg" group-title="CANAIS ABERTOS", BOOMERANG  SD
-http://psrv.io:80/roberio/123456/18719
-
+http://elitex.me:80/Eliezer3034/765OehDzeS/60
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/320px-FX-logo.svg.png" group-title="CANAIS ABERTOS",FX
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/fx.smil/chunklist_b528441_sleng.m3u8
@@ -174,9 +167,7 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/master.m3u8?checke
 
 
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://img2.gratispng.com/20180605/ort/kisspng-comedy-central-television-logo-tv-5b173a0a87ee28.8830369415282488425568.jpg" group-title="CANAIS ABERTOS",Comédia Central SD
 
-http://lindaflor.net:8080/999999/999999/316
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://img2.gratispng.com/20180605/ort/kisspng-comedy-central-television-logo-tv-5b173a0a87ee28.8830369415282488425568.jpg" group-title="CANAIS ABERTOS",Comédia Central HD
 
@@ -197,7 +188,7 @@ http://lindaflor.net:8080/999999/999999/96
 
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/Fox.br.png" group-title="CANAIS ABERTOS",Fox 
-http://lindaflor.net:8080/999999/999999/333
+http://elitex.me:80/Eliezer3034/765OehDzeS/255
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/Fox.br.png" group-title="CANAIS ABERTOS",Fox HD
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/master.m3u8
