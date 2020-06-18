@@ -62,14 +62,12 @@ https://stmv1.srvstm.com/maiko7291/maiko7291/chunklist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="CANAIS ABERTOS"",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://oisa.tmsimg.com/assets/s10179_h3_aa.png" group-title="CANAIS ABERTOS",ESPN
-http://lindaflor.net:8080/999999/999999/246
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/k29sgDw.png" group-title="CANAIS ABERTOS",Esporte Interativo Plus
 https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8?checkedby:www.iptvcat.com
 
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="" group-title="CANAIS ABERTOS",ESPORTES
+#EXTINF:0 tvg-country="BR" tvg-logo="https://oisa.tmsimg.com/assets/s10179_h3_aa.png" group-title="CANAIS ABERTOS",ESPN
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
 
 
@@ -150,8 +148,7 @@ http://elitex.me:80/Eliezer3034/765OehDzeS/10039589
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="CANAIS ABERTOS", CARTOON NETWORK 
- https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/cartoonnetwork_511a418e_79e452ddaf2472306e400d779a32234b38948ce5/playlist.m3u8
-
+https://stream.ec.cx/hls1/cartoon.m3u8?expires=1592473295&token=7db822ab755853bd347c4beab5235e49
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="https://img2.gratispng.com/20180721/aq/kisspng-boomerang-logo-television-channel-tom-and-jerry-dog-5b53c4af10de42.3513045215322164950691.jpg" group-title="CANAIS ABERTOS", BOOMERANG  SD
@@ -179,11 +176,6 @@ http://panel.restpremium.cf:8080/serverbr/0392332904/63849?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo2btv-0.png" group-title="CANAIS ABERTOS", TV Aracati
 https://livefocamundo.com:8081/8148/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_play-tv_m.png" group-title="CANAIS ABERTOS", play tv
-
-http://lindaflor.net:8080/999999/999999/96
 
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/br/Fox.br.png" group-title="CANAIS ABERTOS",Fox 
