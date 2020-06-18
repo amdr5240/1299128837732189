@@ -152,8 +152,7 @@ https://stream.ec.cx/hls1/cartoon.m3u8?expires=1592473295&token=7db822ab755853bd
 
 
 EXTINF:-1 tvg-ID="" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="CANAIS ABERTOS", CARTOON NETWORK 
-http://servelive.net:80/live/davison/davison123/8123.m3u8
-
+http://servelive.net:80/123456789/123456789/8123
 
 #EXTINF:-1 tvg-ID="" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="https://img2.gratispng.com/20180721/aq/kisspng-boomerang-logo-television-channel-tom-and-jerry-dog-5b53c4af10de42.3513045215322164950691.jpg" group-title="CANAIS ABERTOS", BOOMERANG  SD
 http://elitex.me:80/Eliezer3034/765OehDzeS/60
