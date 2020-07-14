@@ -1,5 +1,824 @@
 #EXTM3U
 
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/viva.png" group-title=" CANAL ABERTOS",Viva HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viva SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/viva.png" group-title=" CANAL ABERTOS",Viva SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viva Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/viva.png" group-title=" CANAL ABERTOS",Viva Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV Cidade Verde Piaui HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/sbt.png" group-title=" CANAL ABERTOS",SBT TV Cidade Verde Piaui HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV Jornal Pernambuco SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/sbt.png" group-title=" CANAL ABERTOS",SBT TV Jornal Pernambuco SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shoptime SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/shoptime.png" group-title=" CANAL ABERTOS",Shoptime SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82136.m3u8
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band Nordeste SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/band.png" group-title=" CANAL ABERTOS",Band Nordeste SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band SP Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/band.png" group-title=" CANAL ABERTOS",Band SP Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band SP HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/band.png" group-title=" CANAL ABERTOS",Band SP HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band SP SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/band.png" group-title=" CANAL ABERTOS",Band SP SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/primeboxbrazil.png" group-title=" CANAL ABERTOS",Prime Box Brazil SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record Bahia HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/record.png" group-title=" CANAL ABERTOS",Record Bahia HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record Brasília SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/record.png" group-title=" CANAL ABERTOS",Record Brasília SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record Campinas HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/record.png" group-title=" CANAL ABERTOS",Record Campinas HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record Campinas SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/record.png" group-title=" CANAL ABERTOS",Record Campinas SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record Esp. Santo SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/record.png" group-title=" CANAL ABERTOS",Record Esp. Santo SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82146.m3u8
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/recordnews.png" group-title=" CANAL ABERTOS",Record News Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82148.m3u8
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/recordnews.png" group-title=" CANAL ABERTOS",Record News HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82149.m3u8
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/recordnews.png" group-title=" CANAL ABERTOS",Record News SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record RJ HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/record.png" group-title=" CANAL ABERTOS",Record RJ HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record SP Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/record.png" group-title=" CANAL ABERTOS",Record SP Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record SP HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/record.png" group-title=" CANAL ABERTOS",Record SP HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record SP SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/record.png" group-title=" CANAL ABERTOS",Record SP SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Vitoria SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/record.png" group-title=" CANAL ABERTOS",Record TV Vitoria SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82156.m3u8
+#EXTINF:-1 tvg-id="RedeSuperdeTelevisao.br" tvg-name="Rede Familia SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/record.png" group-title=" CANAL ABERTOS",Rede Familia SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede Gospel SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/redegospel.png" group-title=" CANAL ABERTOS",Rede Gospel SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/redevida.png" group-title=" CANAL ABERTOS",Rede Vida HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/redevida.png" group-title=" CANAL ABERTOS",Rede Vida SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RedeTV! HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/redetv.png" group-title=" CANAL ABERTOS",RedeTV! HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RedeTV! SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/redetv.png" group-title=" CANAL ABERTOS",RedeTV! SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RIT TV SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/rit.png" group-title=" CANAL ABERTOS",RIT TV SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT Goias HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/sbt.png" group-title=" CANAL ABERTOS",SBT Goias HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/sbt.png" group-title=" CANAL ABERTOS",SBT RJ HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/sbt.png" group-title=" CANAL ABERTOS",SBT SP Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/sbt.png" group-title=" CANAL ABERTOS",SBT SP HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/sbt.png" group-title=" CANAL ABERTOS",SBT SP SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/cinesky.png" group-title="CINE SKY",CINE SKY 01 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/cinesky.png" group-title="CINE SKY",CINE SKY 02 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/cinesky.png" group-title="CINE SKY",CINE SKY 03 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/cinesky.png" group-title="CINE SKY",CINE SKY 04 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/cinesky.png" group-title="CINE SKY",CINE SKY 05 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/cinesky.png" group-title="CINE SKY",CINE SKY 06 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/cinesky.png" group-title="CINE SKY",CINE SKY 07 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/cinesky.png" group-title="CINE SKY",CINE SKY 08 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/cinesky.png" group-title="CINE SKY",CINE SKY 09 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/cinesky.png" group-title="CINE SKY",CINE SKY 10 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/cinemax.png" group-title=" CANAIS MAX",Cinemax Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82191.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/cinemax.png" group-title=" CANAIS MAX",Cinemax HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82192.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/cinemax.png" group-title=" CANAIS MAX",Cinemax SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82193.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID Investigação Discovery Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/id.png" group-title=" CANAL DISCOVEY",ID Investigação Discovery Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82194.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID Investigação Discovery HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/id.png" group-title=" CANAL DISCOVEY",ID Investigação Discovery HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82195.m3u8
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID Investigação Discovery SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/id.png" group-title=" CANAL DISCOVEY",ID Investigação Discovery SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoverycivilization.png" group-title=" CANAL DISCOVEY",HGTV Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoverycivilization.png" group-title=" CANAL DISCOVEY",HGTV HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoverycivilization.png" group-title=" CANAL DISCOVEY",HGTV SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82199.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoverychannel.png" group-title=" CANAL DISCOVEY",Discovery Channel Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82200.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoverychannel.png" group-title=" CANAL DISCOVEY",Discovery Channel HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82201.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoverychannel.png" group-title=" CANAL DISCOVEY",Discovery Channel SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82202.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery H&H HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoveryhh.png" group-title=" CANAL DISCOVEY",Discovery H&H HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoveryh%26h.png" group-title=" CANAL DISCOVEY",Discovery H&H Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82204.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery H&amp;H SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoveryhh.png" group-title=" CANAL DISCOVEY",Discovery H&amp;H SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82205.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoveryscience.png" group-title=" CANAL DISCOVEY",Discovery Science Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82206.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoveryscience.png" group-title=" CANAL DISCOVEY",Discovery Science HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82207.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoveryscience.png" group-title=" CANAL DISCOVEY",Discovery Science SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82208.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoverytheater.png" group-title=" CANAL DISCOVEY",Discovery Theater Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82209.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoverytheater.png" group-title=" CANAL DISCOVEY",Discovery Theater HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82210.m3u8
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoverytheater.png" group-title=" CANAL DISCOVEY",Discovery Theater SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/tlc.png" group-title=" CANAL DISCOVEY",Discovery TLC Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/tlc.png" group-title=" CANAL DISCOVEY",Discovery TLC HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/tlc.png" group-title=" CANAL DISCOVEY",Discovery TLC SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoveryturbo.png" group-title=" CANAL DISCOVEY",Discovery Turbo Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82215.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoveryturbo.png" group-title=" CANAL DISCOVEY",Discovery Turbo HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82216.m3u8
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoveryturbo.png" group-title=" CANAL DISCOVEY",Discovery Turbo SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82217.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoveryworld.png" group-title=" CANAL DISCOVEY",Discovery World Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82218.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoveryworld.png" group-title=" CANAL DISCOVEY",Discovery World HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82219.m3u8
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoveryworld.png" group-title=" CANAL DISCOVEY",Discovery World SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82220.m3u8
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="Nat Geo Wild HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/natgeowild.png" group-title="DOCUMENTÁRIOS",Nat Geo Wild HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82221.m3u8
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="Nat Geo Wild SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/natgeowild.png" group-title="DOCUMENTÁRIOS",Nat Geo Wild SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82222.m3u8
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/nationalgeographic.png" group-title="DOCUMENTÁRIOS",National Geographic Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82223.m3u8
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/nationalgeographic.png" group-title="DOCUMENTÁRIOS",National Geographic HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82224.m3u8
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/nationalgeographic.png" group-title="DOCUMENTÁRIOS",National Geographic SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82225.m3u8
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="Nat Geo Wild Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/natgeowild.png" group-title="DOCUMENTÁRIOS",Nat Geo Wild Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82226.m3u8
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/h2.png" group-title="DOCUMENTÁRIOS",H2 Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82227.m3u8
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/h2.png" group-title="DOCUMENTÁRIOS",H2 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82228.m3u8
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/h2.png" group-title="DOCUMENTÁRIOS",H2 SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82229.m3u8
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History Channel Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/history.png" group-title="DOCUMENTÁRIOS",History Channel Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82230.m3u8
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History Channel HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/history.png" group-title="DOCUMENTÁRIOS",History Channel HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82231.m3u8
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History Channel SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/history.png" group-title="DOCUMENTÁRIOS",History Channel SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82232.m3u8
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/curta.png" group-title="DOCUMENTÁRIOS",Curta! HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82233.m3u8
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta! SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/curta.png" group-title="DOCUMENTÁRIOS",Curta! SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82234.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/animalplanet.png" group-title="DOCUMENTÁRIOS",Animal Planet HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82235.m3u8
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/animalplanet.png" group-title="DOCUMENTÁRIOS",Animal Planet SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82236.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/arte1.png" group-title="DOCUMENTÁRIOS",Arte 1 Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82237.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/arte1.png" group-title="DOCUMENTÁRIOS",Arte 1 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82238.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/arte1.png" group-title="DOCUMENTÁRIOS",Arte 1 SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN #1" tvg-logo="" group-title="   CANAIS DAZN",DAZN #1
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN #2" tvg-logo="" group-title="   CANAIS DAZN",DAZN #2
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82241.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/sportv2.png" group-title="ESPORTES",SporTV 2 Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82242.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/sportv2.png" group-title="ESPORTES",SporTV 2 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82243.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/sportv2.png" group-title="ESPORTES",SporTV 2 SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82244.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/sportv3.png" group-title="ESPORTES",SporTV 3 Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82245.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/sportv3.png" group-title="ESPORTES",SporTV 3 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82246.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/sportv3.png" group-title="ESPORTES",SporTV 3 SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/sportv.png" group-title="ESPORTES",SporTV Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82248.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/sportv.png" group-title="ESPORTES",SporTV HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82249.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/sportv.png" group-title="ESPORTES",SporTV SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82250.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/combate.png" group-title="ESPORTES",Combate Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82251.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/combate.png" group-title="ESPORTES",Combate HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82252.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/combate.png" group-title="ESPORTES",Combate SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82253.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/ae.png" group-title="FILMES E SERIES",A&E HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82255.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/ae.png" group-title="FILMES E SERIES",A&E SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82256.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/amc.png" group-title="FILMES E SERIES",AMC Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82257.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/amc.png" group-title="FILMES E SERIES",AMC HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82258.m3u8
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/amc.png" group-title="FILMES E SERIES",AMC SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82259.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/axn.png" group-title="FILMES E SERIES",AXN HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82260.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/axn.png" group-title="FILMES E SERIES",AXN SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82261.m3u8
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/space.png" group-title="FILMES E SERIES",Space Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82262.m3u8
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/space.png" group-title="FILMES E SERIES",Space HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82263.m3u8
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/space.png" group-title="FILMES E SERIES",Space SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82264.m3u8
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/studiouniversal.png" group-title="FILMES E SERIES",Studio Universal Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82265.m3u8
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/studiouniversal.png" group-title="FILMES E SERIES",Studio Universal HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82266.m3u8
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/studiouniversal.png" group-title="FILMES E SERIES",Studio Universal SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82267.m3u8
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SyFy Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/syfy.png" group-title="FILMES E SERIES",SyFy Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82268.m3u8
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SyFy HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/syfy.png" group-title="FILMES E SERIES",SyFy HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82269.m3u8
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SyFy SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/syfy.png" group-title="FILMES E SERIES",SyFy SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82270.m3u8
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/tbs.png" group-title="FILMES E SERIES",TBS SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82271.m3u8
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/tcm.png" group-title="FILMES E SERIES",TCM SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82272.m3u8
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/tnt.png" group-title="FILMES E SERIES",TNT Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82273.m3u8
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/tnt.png" group-title="FILMES E SERIES",TNT HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82274.m3u8
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/tnt.png" group-title="FILMES E SERIES",TNT SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82275.m3u8
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Séries Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/tntseries.png" group-title="FILMES E SERIES",TNT Séries Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82276.m3u8
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Séries HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/tntseries.png" group-title="FILMES E SERIES",TNT Séries HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82277.m3u8
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Séries SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/tntseries.png" group-title="FILMES E SERIES",TNT Séries SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/tooncast.png" group-title="INFANTIL",Tooncast Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82279.m3u8
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal Channel Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/universalchannel.png" group-title="FILMES E SERIES",Universal Channel Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82280.m3u8
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal Channel HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/universalchannel.png" group-title="FILMES E SERIES",Universal Channel HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82281.m3u8
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal Channel SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/universalchannel.png" group-title="FILMES E SERIES",Universal Channel SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82282.m3u8
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/warner.png" group-title="FILMES E SERIES",Warner Channel Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82283.m3u8
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/warner.png" group-title="FILMES E SERIES",Warner Channel HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82284.m3u8
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/warner.png" group-title="FILMES E SERIES",Warner Channel SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82285.m3u8
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/fx.png" group-title="FILMES E SERIES",FX Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82310.m3u8
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/fx.png" group-title="FILMES E SERIES",FX HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82311.m3u8
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/fx.png" group-title="FILMES E SERIES",FX SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82312.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/axn.png" group-title="FILMES E SERIES",AXN Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/maisglobosat.png" group-title="FILMES E SERIES",Mais Globosat Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82314.m3u8
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="Mais Globosat HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/maisglobosat.png" group-title="FILMES E SERIES",Mais Globosat HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82315.m3u8
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="Mais Globosat SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/maisglobosat.png" group-title="FILMES E SERIES",Mais Globosat SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82316.m3u8
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/megapix.png" group-title="FILMES E SERIES",Megapix Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82317.m3u8
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/megapix.png" group-title="FILMES E SERIES",Megapix HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82318.m3u8
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/megapix.png" group-title="FILMES E SERIES",Megapix SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82319.m3u8
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Channel Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/paramount.png" group-title="FILMES E SERIES",Paramount Channel Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82320.m3u8
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Channel HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/paramount.png" group-title="FILMES E SERIES",Paramount Channel HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82321.m3u8
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Channel SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/paramount.png" group-title="FILMES E SERIES",Paramount Channel SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82322.m3u8
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/foxlife.png" group-title=" CANAIS FOX",Fox Life HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82389.m3u8
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/foxlife.png" group-title=" CANAIS FOX",Fox Life SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82390.m3u8
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium 1 Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/foxpremium1.png" group-title=" CANAIS FOX",Fox Premium 1 Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82391.m3u8
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium 1 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/foxpremium1.png" group-title=" CANAIS FOX",Fox Premium 1 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82392.m3u8
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium 1 SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/foxpremium1.png" group-title=" CANAIS FOX",Fox Premium 1 SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82393.m3u8
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium 2 Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/foxpremium2.png" group-title=" CANAIS FOX",Fox Premium 2 Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82394.m3u8
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium 2 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/foxpremium2.png" group-title=" CANAIS FOX",Fox Premium 2 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82395.m3u8
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium 2 SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/foxpremium2.png" group-title=" CANAIS FOX",Fox Premium 2 SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82396.m3u8
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Fox SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/fox.png" group-title=" CANAIS FOX",Fox SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82397.m3u8
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Fox Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/fox.png" group-title=" CANAIS FOX",Fox Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82398.m3u8
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Fox HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/fox.png" group-title=" CANAIS FOX",Fox HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82399.m3u8
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/foxlife.png" group-title=" CANAIS FOX",Fox Life Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82400.m3u8
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/foxsports2.png" group-title=" CANAIS FOX",Fox Sports 2 Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82401.m3u8
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/foxsports2.png" group-title=" CANAIS FOX",Fox Sports 2 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82402.m3u8
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/foxsports2.png" group-title=" CANAIS FOX",Fox Sports 2 SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82403.m3u8
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/foxsports1.png" group-title=" CANAIS FOX",Fox Sports Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82404.m3u8
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/foxsports1.png" group-title=" CANAIS FOX",Fox Sports HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82405.m3u8
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/foxsports1.png" group-title=" CANAIS FOX",Fox Sports SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Playkids" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/tvplaykids.png" group-title="INFANTIL",TV Playkids
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82407.m3u8
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV Ra Tim Bum SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/ratimbum.png" group-title="INFANTIL",TV Ra Tim Bum SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Caruaru (Asa Branca) HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo TV Caruaru (Asa Branca) HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82409.m3u8
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasilia SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo Brasilia SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82410.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Centro América Cuiaba SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo Centro América Cuiaba SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82411.m3u8
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo EPTV Araraquara SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo EPTV Araraquara SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo EPTV Campinas HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo EPTV Campinas SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Ribeirao Preto SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo EPTV Ribeirao Preto SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Sao Carlos SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo EPTV Sao Carlos SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82416.m3u8
+#EXTINF:-1 tvg-id="Inttvcabugi.br" tvg-name="Globo INTER TV Cabugi RN SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo INTER TV Cabugi RN SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82417.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Internacional SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo Internacional SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82418.m3u8
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="Globo InterTV Alto Litoral HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo InterTV Alto Litoral HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82419.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo InterTV Serra Mar HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo InterTV Serra Mar HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82420.m3u8
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo Minas HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82421.m3u8
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo Minas SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82422.m3u8
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globonews.png" group-title="GLOBO",Globo News Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82423.m3u8
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="Globo Anhanguera Goiania SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo Anhanguera Goiania SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo Nordeste Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82425.m3u8
+#EXTINF:-1 tvg-id="nordestv.br" tvg-name="Globo Nordeste HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo Nordeste HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82426.m3u8
+#EXTINF:-1 tvg-id="nordestv.br" tvg-name="Globo Nordeste SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo Nordeste SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82427.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Blumenau HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo NSC Blumenau HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82428.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Florianópolis HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo NSC Florianópolis HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Joinville SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo NSC Joinville SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82430.m3u8
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="Globo RBS Porto Alegre HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo RBS Porto Alegre HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82431.m3u8
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="Globo RBS Porto Alegre SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo RBS Porto Alegre SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82432.m3u8
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo RBS TV Pelotas HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82433.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazonica SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo Rede Amazonica SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82434.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo RJ Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82435.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo RJ HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82436.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo RJ SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82437.m3u8
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="Globo RPC Curitiba HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo RPC Curitiba HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82438.m3u8
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="Globo RPC Curitiba SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo RPC Curitiba SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82439.m3u8
+#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="Globo RPC Maringa SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo RPC Maringa SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Paranavaí SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo RPC Paranavaí SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82441.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sergipe HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo TV Sergipe HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82442.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo SP Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82443.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo SP HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82444.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo SP SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82445.m3u8
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="Globo TV Bahia Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo TV Bahia Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82446.m3u8
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="Globo TV Bahia HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo TV Bahia HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82447.m3u8
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="Globo TV Bahia SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo TV Bahia SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Cabo Branco HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo TV Cabo Branco HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82449.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Cabo Branco SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo TV Cabo Branco SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82450.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo TV Diario HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo TV Diario HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82451.m3u8
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="Globo TV Gazeta Sul ES HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo TV Gazeta Sul ES HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82452.m3u8
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="Globo TV Gazeta Vitória HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo TV Gazeta Vitória HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82453.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Integração SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo TV Integração SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Itapetininga SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo TV Itapetininga SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82455.m3u8
+#EXTINF:-1 tvg-id="Tvliberalbelem.br" tvg-name="Globo TV Liberal Belem SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo TV Liberal Belem SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo TV Mirante SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82457.m3u8
+#EXTINF:-1 tvg-id="TV Morena HD" tvg-name="Globo TV Morena SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo TV Morena SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82458.m3u8
+#EXTINF:-1 tvg-id="Tvtembauru.br" tvg-name="Globo TV Tem Bauru SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo TV Tem Bauru SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Rio Preto SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo TV Tem Rio Preto SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82460.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Sorocaba SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo TV Tem Sorocaba SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82461.m3u8
+#EXTINF:-1 tvg-id="Tvtribuna.br" tvg-name="Globo TV Tribuna Santos SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo TV Tribuna Santos SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82462.m3u8
+#EXTINF:-1 tvg-id="Vangsaojchd.br" tvg-name="Globo TV Vanguarda Sâo José Dos Campos SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo TV Vanguarda Sâo José Dos Campos SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares Fortaleza SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globo.png" group-title="GLOBO",Globo TV Verdes Mares Fortaleza SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82464.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/hbo2.png" group-title="REDE HBO",HBO 2 Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82465.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/hbo2.png" group-title="REDE HBO",HBO 2 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82466.m3u8
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/hbo2.png" group-title="REDE HBO",HBO 2 SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82467.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="Hbo Family Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/hbofamily.png" group-title="REDE HBO",Hbo Family Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82468.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/hbofamily.png" group-title="REDE HBO",HBO Family HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82469.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/hbofamily.png" group-title="REDE HBO",HBO Family SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82470.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/hbo.png" group-title="REDE HBO",HBO Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82471.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/hbo.png" group-title="REDE HBO",HBO HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82472.m3u8
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi HD" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="REDE HBO",HBO Mundi HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82473.m3u8
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi SD" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png" group-title="REDE HBO",HBO Mundi SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82474.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/hboplus.png" group-title="REDE HBO",HBO Plus Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82475.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/hboplus.png" group-title="REDE HBO",HBO Plus HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82476.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/hboplus.png" group-title="REDE HBO",HBO Plus SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82477.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus*e HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/hboplus.png" group-title="REDE HBO",HBO Plus*e HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82478.m3u8
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus*e SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/hboplus.png" group-title="REDE HBO",HBO Plus*e SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop HD" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png" group-title="REDE HBO",HBO Pop HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/maxup.png" group-title="REDE HBO",HBO Pop SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82481.m3u8
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/hbo.png" group-title="REDE HBO",HBO SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82482.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/hbosignature.png" group-title="REDE HBO",HBO Signature Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82483.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/hbosignature.png" group-title="REDE HBO",HBO Signature HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82484.m3u8
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/hbosignature.png" group-title="REDE HBO",HBO Signature SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82485.m3u8
+#EXTINF:-1 tvg-id="Sextreme.br" tvg-name="HBO Xtreme Full HD" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="REDE HBO",HBO Xtreme Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82486.m3u8
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme HD" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="REDE HBO",HBO Xtreme HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82487.m3u8
+#EXTINF:-1 tvg-id="Sextreme.br" tvg-name="HBO Xtreme SD" tvg-logo="http://s.eyplay.io/logos/canais/hboxtreme.png" group-title="REDE HBO",HBO Xtreme SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82488.m3u8
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/gnt.png" group-title="VARIEDADES",GNT HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GNT SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/gnt.png" group-title="VARIEDADES",GNT SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/lifetime.png" group-title="VARIEDADES",Lifetime Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/lifetime.png" group-title="VARIEDADES",Lifetime HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82492.m3u8
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/lifetime.png" group-title="VARIEDADES",Lifetime SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/mtv.png" group-title="VARIEDADES",MTV Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/mtv.png" group-title="VARIEDADES",MTV HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/mtvlive.png" group-title="VARIEDADES",MTV Live Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/mtvlive.png" group-title="VARIEDADES",MTV Live HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82497.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/mtv.png" group-title="VARIEDADES",MTV SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82498.m3u8
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/multishow.png" group-title="VARIEDADES",Multishow Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82499.m3u8
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/multishow.png" group-title="VARIEDADES",Multishow HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82500.m3u8
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/multishow.png" group-title="VARIEDADES",Multishow SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/musicboxbrazil.png" group-title="VARIEDADES",Music Box Brazil SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/vh1.png" group-title="VARIEDADES",VH1 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82503.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/vh1.png" group-title="VARIEDADES",VH1 SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82504.m3u8
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="TV Gazeta SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/tvgazeta.png" group-title="VARIEDADES",TV Gazeta SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82505.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Top TV SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/toptv.png" group-title="VARIEDADES",Top TV SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82506.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel Box Brasil HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/travelboxbrazil.png" group-title="VARIEDADES",Travel Box Brasil HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82507.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel Box Brasil SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/travelboxbrazil.png" group-title="VARIEDADES",Travel Box Brasil SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82508.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TruTV SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/trutv.png" group-title="VARIEDADES",TruTV SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82509.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="Off HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/off.png" group-title="VARIEDADES",Off HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82510.m3u8
+#EXTINF:-1 tvg-id="Off.br" tvg-name="Off SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/off.png" group-title="VARIEDADES",Off SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82511.m3u8
+#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PlayTV SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/playtv.png" group-title="VARIEDADES",PlayTV SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polishop TV SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/polishop.png" group-title="VARIEDADES",Polishop TV SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82513.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/nhk.png" group-title="VARIEDADES",NHK HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82514.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/nhk.png" group-title="VARIEDADES",NHK SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82515.m3u8
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/e.png" group-title="VARIEDADES",E! HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82516.m3u8
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/e.png" group-title="VARIEDADES",E! SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ei Plus 1*" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/eiplus.png" group-title="VARIEDADES",Ei Plus 1*
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/foodnetwork.png" group-title="VARIEDADES",Food Network Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82519.m3u8
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/foodnetwork.png" group-title="VARIEDADES",Food Network HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82520.m3u8
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/foodnetwork.png" group-title="VARIEDADES",Food Network SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Futura HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/futura.png" group-title="VARIEDADES",Futura HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Futura SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/futura.png" group-title="VARIEDADES",Futura SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82523.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/comedycentral.png" group-title="VARIEDADES",Comedy Central Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82524.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/comedycentral.png" group-title="VARIEDADES",Comedy Central HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82525.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/comedycentral.png" group-title="VARIEDADES",Comedy Central SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cultura SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/tvcultura.png" group-title="VARIEDADES",Cultura SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82527.m3u8
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="Bis HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/bis.png" group-title="VARIEDADES",Bis HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82528.m3u8
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="Bis SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/bis.png" group-title="VARIEDADES",Bis SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82529.m3u8
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/canalbrasil.png" group-title="VARIEDADES",Canal Brasil SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal do Boi SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/canaldoboi.png" group-title="VARIEDADES",Canal do Boi SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82531.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Rural SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/canalrural.png" group-title="VARIEDADES",Canal Rural SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82532.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/sony.png" group-title="VARIEDADES",Canal Sony Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82533.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/sony.png" group-title="VARIEDADES",Canal Sony HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82534.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/sony.png" group-title="VARIEDADES",Canal Sony SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82535.m3u8
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/telecineaction.png" group-title="REDE TELECINE",Telecine Action Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82536.m3u8
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/telecineaction.png" group-title="REDE TELECINE",Telecine Action HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82537.m3u8
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/telecineaction.png" group-title="REDE TELECINE",Telecine Action SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82538.m3u8
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/telecinecult.png" group-title="REDE TELECINE",Telecine Cult Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82539.m3u8
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/telecinecult.png" group-title="REDE TELECINE",Telecine Cult HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82540.m3u8
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/telecinecult.png" group-title="REDE TELECINE",Telecine Cult SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82541.m3u8
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/telecinefun.png" group-title="REDE TELECINE",Telecine Fun Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82542.m3u8
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/telecinefun.png" group-title="REDE TELECINE",Telecine Fun HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82543.m3u8
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/telecinefun.png" group-title="REDE TELECINE",Telecine Fun SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82544.m3u8
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/telecinepipoca.png" group-title="REDE TELECINE",Telecine Pipoca Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82545.m3u8
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/telecinepipoca.png" group-title="REDE TELECINE",Telecine Pipoca HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82546.m3u8
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/telecinepipoca.png" group-title="REDE TELECINE",Telecine Pipoca SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82547.m3u8
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/telecinepremium.png" group-title="REDE TELECINE",Telecine Premium Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82548.m3u8
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/telecinepremium.png" group-title="REDE TELECINE",Telecine Premium HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82549.m3u8
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/telecinepremium.png" group-title="REDE TELECINE",Telecine Premium SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82550.m3u8
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/telecinetouch.png" group-title="REDE TELECINE",Telecine Touch Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82551.m3u8
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/telecinetouch.png" group-title="REDE TELECINE",Telecine Touch HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82552.m3u8
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/telecinetouch.png" group-title="REDE TELECINE",Telecine Touch SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Novo Tempo SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/novotempo.png" group-title="CANAL RELIGIOSO",Novo Tempo SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82554.m3u8
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Aparecida SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/tvaparecida.png" group-title="CANAL RELIGIOSO",TV Aparecida SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Século 21" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/seculo21.png" group-title="CANAL RELIGIOSO",TV Século 21
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82556.m3u8
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canção Nova HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/cancaonova.png" group-title="CANAL RELIGIOSO",Canção Nova HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 1 SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/premiere.png" group-title="PREMIERE",Premiere 1 SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/premiere.png" group-title="PREMIERE",Premiere 2 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/premiere.png" group-title="PREMIERE",Premiere 2 SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/premiere.png" group-title="PREMIERE",Premiere 3 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/premiere.png" group-title="PREMIERE",Premiere 3 SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/premiere.png" group-title="PREMIERE",Premiere 4 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/premiere.png" group-title="PREMIERE",Premiere 4 SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/premiere.png" group-title="PREMIERE",Premiere 5 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/premiere.png" group-title="PREMIERE",Premiere 5 SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/premiere.png" group-title="PREMIERE",Premiere 6 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82567.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/premiere.png" group-title="PREMIERE",Premiere 6 SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82568.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/premiere.png" group-title="PREMIERE",Premiere 7 SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/premiere.png" group-title="PREMIERE",Premiere 8 SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/premiere.png" group-title="PREMIERE",Premiere Clubes Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/premiere.png" group-title="PREMIERE",Premiere Clubes HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/premiere.png" group-title="PREMIERE",Premiere Clubes SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82573.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/band.png" group-title="NOTICIAS",Band News Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82574.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/band.png" group-title="NOTICIAS",Band News HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82575.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/band.png" group-title="NOTICIAS",Band News SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil HD" tvg-logo="http://static.clubsrv.me/logos/canais/cnn.png" group-title="NOTICIAS",CNN Brasil HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82577.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil SD" tvg-logo="http://static.clubsrv.me/logos/canais/cnn.png" group-title="NOTICIAS",CNN Brasil SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82578.m3u8
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globonews.png" group-title="NOTICIAS",Globo News HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82579.m3u8
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/globonews.png" group-title="NOTICIAS",Globo News SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82580.m3u8
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BabyTV HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/babytv.png" group-title="INFANTIL",BabyTV HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82581.m3u8
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BabyTV SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/babytv.png" group-title="INFANTIL",BabyTV SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/woohoo.png" group-title="INFANTIL",Woohoo HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/woohoo.png" group-title="INFANTIL",Woohoo SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82584.m3u8
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="Zoomoo HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/zoomoo.png" group-title="INFANTIL",Zoomoo HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82585.m3u8
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="Zoomoo SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/zoomoo.png" group-title="INFANTIL",Zoomoo SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82586.m3u8
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/tooncast.png" group-title="INFANTIL",Tooncast HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82587.m3u8
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/tooncast.png" group-title="INFANTIL",Tooncast SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82588.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/nickjr.png" group-title="INFANTIL",Nick Jr Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82589.m3u8
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Jr HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/nickjr.png" group-title="INFANTIL",Nick Jr HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82590.m3u8
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Jr SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/nickjr.png" group-title="INFANTIL",Nick Jr SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/nick.png" group-title="INFANTIL",Nickelodeon Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/nick.png" group-title="INFANTIL",Nickelodeon HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82593.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/nick.png" group-title="INFANTIL",Nickelodeon SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82594.m3u8
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="Nat Geo Kids Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/natgeokids.png" group-title="INFANTIL",Nat Geo Kids Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82595.m3u8
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="Nat Geo Kids HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/natgeokids.png" group-title="INFANTIL",Nat Geo Kids HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82596.m3u8
+#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="Nat Geo Kids SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/natgeokids.png" group-title="INFANTIL",Nat Geo Kids SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82597.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gloob Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/gloob.png" group-title="INFANTIL",Gloob Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82598.m3u8
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/gloob.png" group-title="INFANTIL",Gloob HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82599.m3u8
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/gloob.png" group-title="INFANTIL",Gloob SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/gloobinho.png" group-title="INFANTIL",Gloobinho SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82601.m3u8
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Channel Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/disney.png" group-title="INFANTIL",Disney Channel Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82602.m3u8
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/disney.png" group-title="INFANTIL",Disney Channel HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82603.m3u8
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/disney.png" group-title="INFANTIL",Disney Channel SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82604.m3u8
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Junior Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/disneyjr.png" group-title="INFANTIL",Disney Junior Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82605.m3u8
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Junior HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/disneyjr.png" group-title="INFANTIL",Disney Junior HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82606.m3u8
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Junior SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/disneyjr.png" group-title="INFANTIL",Disney Junior SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82607.m3u8
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney XD Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/disneyxd.png" group-title="INFANTIL",Disney XD Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82608.m3u8
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney XD HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/disneyxd.png" group-title="INFANTIL",Disney XD HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82609.m3u8
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney XD SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/disneyxd.png" group-title="INFANTIL",Disney XD SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoverykids.png" group-title="INFANTIL",Discovery Kids Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82611.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoverykids.png" group-title="INFANTIL",Discovery Kids HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82612.m3u8
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/discoverykids.png" group-title="INFANTIL",Discovery Kids SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82613.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/cartoon.png" group-title="INFANTIL",Cartoon Network Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82614.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/cartoon.png" group-title="INFANTIL",Cartoon Network HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82615.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/cartoon.png" group-title="INFANTIL",Cartoon Network SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82616.m3u8
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/boomerang.png" group-title="INFANTIL",Boomerang Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82617.m3u8
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/boomerang.png" group-title="INFANTIL",Boomerang HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82618.m3u8
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/boomerang.png" group-title="INFANTIL",Boomerang SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82619.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/espn2.png" group-title="ESPORTES",ESPN 2 HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/83369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/espn2.png" group-title="ESPORTES",ESPN 2 SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/83370.m3u8
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/espnbrasil.png" group-title="ESPORTES",ESPN Brasil Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/83371.m3u8
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/espnbrasil.png" group-title="ESPORTES",ESPN Brasil HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/83372.m3u8
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/espnbrasil.png" group-title="ESPORTES",ESPN Brasil SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/83373.m3u8
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/espnextra.png" group-title="ESPORTES",ESPN Extra HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/83374.m3u8
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/espnextra.png" group-title="ESPORTES",ESPN Extra SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/83375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/espn.png" group-title="ESPORTES",ESPN Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/83376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/espn.png" group-title="ESPORTES",ESPN HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/83377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/espn.png" group-title="ESPORTES",ESPN SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/83378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 Full HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/espn2.png" group-title="ESPORTES",ESPN 2 Full HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/83379.m3u8
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/fishtv.png" group-title="ESPORTES",Fish TV HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/83380.m3u8
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/fishtv.png" group-title="ESPORTES",Fish TV SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/83381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/bandsports.png" group-title="ESPORTES",Band Sports HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/83382.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/bandsports.png" group-title="ESPORTES",Band Sports SD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/83383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FashionTV HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/fashiontv.png" group-title="ESPORTES",FashionTV HD
+http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/83384.m3u8
+
+
+
+
+
+
+
+-----------------------------------------------
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-ID="MDH" tvg-name="A&E" tvg-logo="http://img.miptv.ws/A&E.png" group-title="Filmes e Séries",A&E
 http://a.srvbr.me:8880/Rudnei/Rudnei/898
 #EXTINF:-1 tvg-ID="MDH" tvg-name="A&E HD" tvg-logo="http://img.miptv.ws/A&E.png" group-title="Filmes e Séries",A&E HD
