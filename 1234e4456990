@@ -2,8 +2,6 @@
 
 
 
-
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/viva.png" group-title=" CANAL ABERTOS",Viva HD
 http://fhr.ddns.net:25461/live/yaismnckjf/paksnckdien/82130.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Viva SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/viva.png" group-title=" CANAL ABERTOS",Viva SD
