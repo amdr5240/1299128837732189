@@ -125,7 +125,8 @@ http://189.91.128.150:5555/udp/227.10.20.106:1234?
 http://189.91.128.150:5555/udp/227.10.20.107:1234?
 #EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",AgroMinas TV
 http://189.91.128.150:5555/udp/227.10.20.108:1234?
-#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180410/hvw/kisspng-tv-globo-de-sao-paulo-ltda-rede-globo-television-robocop-5acd2a1b69d9b5.2679968915233950994336.jpg" group-title="CANAIS ABERTOS", GLOBO HDhttp://189.91.128.150:5555/udp/227.10.20.109:1234?
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180410/hvw/kisspng-tv-globo-de-sao-paulo-ltda-rede-globo-television-robocop-5acd2a1b69d9b5.2679968915233950994336.jpg" group-title="CANAIS ABERTOS", GLOBO HD
+http://189.91.128.150:5555/udp/227.10.20.109:1234?
 #EXTINF:0 tvg-id="disneychannel.de" group-title="CANAIS ABERTOS",DISNEY HD
 http://189.91.128.150:5555/udp/227.10.20.110:1234?
 #EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",CNT ISDB TV HD
